@@ -1,8 +1,7 @@
 # A Gothic Gamebook
 
-```
-Beware and warning! This book is different from other books. You and you alone are in charge of what happens in this story!
-```
+> Beware and warning! This book is different from other books. You and you alone are in charge of what happens in this story!
+
 _Choose Your Own Adventure series_
 
 The 21st century is known for its interactive art, where the boundaries between audience and performers are blurred thanks to the use of technology. 
