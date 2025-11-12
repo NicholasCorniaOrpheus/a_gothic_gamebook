@@ -20,3 +20,21 @@ from modules.analysis import *
 - [ ] generate graph using networkx and pyvis? Or try other Javascript module via Pandas?
 
 """
+
+#### CODE ####
+
+scenes_csv_filename = os.path.join("data", "agg_scenes.csv")
+
+music_csv_filename = os.path.join("data", "agg_music.csv")
+
+mapping_filename = os.path.join("mappings", "csv2dict_mapping.csv")
+
+agg_dictionary_filename = os.path.join("data", "agg_dict.json")
+
+csvs_to_scenes_dictionary(
+    scenes_csv_filename,
+    music_csv_filename,
+    mapping_filename,
+    agg_dictionary_filename,
+    separator=",",
+)

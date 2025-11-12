@@ -1,6 +1,7 @@
 import json, csv
 from copy import deepcopy
 import time
+import os
 
 
 def csv2dict(csv_filename):  # imports a CSV file as dictionary

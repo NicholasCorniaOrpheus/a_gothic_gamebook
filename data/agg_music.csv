@@ -1,35 +1,35 @@
-music,timing,causa_agens
-"Bedeckt mich mit Blumen, IHW 32, n. 36",3,Hugo Wolf
-"Der Feind, Op. 145",3,Carl Loewe
-"Der Jüngling und der Tod, D. 545",4,Franz Schubert
-"Der Tod und das Mädchen, D.531",3,"Franz Schubert, Joseph von Spaun"
-"Der Wanderer an den Mond, D. 870",,Franz Schubert
-"Die alten, bösen Lieder Op. 48, no. 16",4,"Robert Schumann, Heinrich Heine"
-"Die Geister am Mummelsee, IHW 22 n. 47",4,Hugo Wolf
-Die Geister haben's vernommen,3,Johanna Kinkel
-"Die junge Nonne, D.828",4,Franz Schubert
-Die Mainacht Op. 43 n.2,4,Johannes Brahms
-"Dunkel, wie dunkel in Wald und in Feld Op. 43 n.1",4,Johannes Brahms
-"Erlkönig, D328",4,Franz Schubert
-"Feldeinsamkeit, Op. 86 n. 2",4,Johannes Brahms
-Frühlingsnacht Op. 39 no. 12,2,Robert Schumann
-"Gedichte der Königin Maria Stuart, Op.135 n.5",2,Robert Schumann
-"Gretchen am Spinnrade, D.118",4,Franz Schubert
-"Hexenlied, Op. 8, n.8",3,Felix Mendelssohn
-"Hochzeitslied, D. 463",2,Franz Schubert
-"Ich stand in dunklen Traümen, Op. 13 n.1",2,Clara Schumann
-In der Fremde Op. 39 n. 1,2,Robert Schumann
-In dunkler Nacht Op. 60 no. 1,3,"Agathe Backer Grøndahl, Maria von Collignon"
-"Liebst du um schönheit, GMW 43",3,Gustav Mahler
-Mondnacht Op. 39 no. 5,4,Robert Schumann
-"Sehnsucht, D.123",3,Franz Schubert
-"Stürmisch Wandern, Op. 18 n.°6",3,"Johanna Kinkel, Gottfried Kinkel"
-"Totengräbers Heimweh, D. 842",6,Franz Schubert
-Unbewegte laue Luft Op. 57 n.8,4,Johannes Brahms
-Walpurgisnacht Op. 2,,Carl Loewe
-Walpurgisnacht Op. 75,2,Johannes Brahms
-Wehmut Op. 39 no. 9,2,Robert Schumann
-Wie rafft ich mich auf Op. 32 n.1,5,Johannes Brahms
-"Wie viele Zeit verlor Ich, IHW 15 n. 37",2,Hugo Wolf
-Wir wandelten Op.96 n. 2,3,Johannes Brahms
-Zwielicht Op. 39 n.10,3,Robert Schumann
+file name,timing,composer,poet,keyword,score,lyrics
+Bedeckt mich mit Blumen IHW 32 n. 36,3,[[Hugo Wolf]],,"[[death]], [[dream]], [[flower]]","https://imslp.org/wiki/Spanisches_Liederbuch_(Wolf,_Hugo)",https://www.lieder.net/lieder/get_text.html?TextId=18378&RF=1
+Der Feind Op. 145,3,[[Carl Loewe]],,"[[animal]], [[mistrust]]",https://imslp.org/wiki/Liederkranz_f%C3%BCr_die_Bassstimme%2C_Op.145_(Loewe%2C_Carl),https://www.lieder.net/lieder/get_text.html?TextId=14424
+Der Jüngling und der Tod D. 545,4,[[Franz Schubert]],,"[[death]], [[undead]]","https://imslp.org/wiki/Der_J%C3%BCngling_und_der_Tod,_D.545_(Schubert,_Franz)",https://oxfordsong.org/song/der-j%C3%BCngling-und-der-tod
+Der Tod und das Mädchen D.531,3,[[Franz Schubert]],[[Joseph von Spaun]],"[[death]], [[supernatural]]","https://imslp.org/wiki/Der_Tod_und_das_M%C3%A4dchen,_D.531_(Schubert,_Franz)",https://www.lieder.net/lieder/get_text.html?TextId=3855&RF=1
+Der Wanderer an den Mond D. 870,,[[Franz Schubert]],,"[[moon]], [[walking]]","https://imslp.org/wiki/Der_Wanderer_an_den_Mond,_D.870_(Schubert,_Franz)",https://oxfordsong.org/song/der-wanderer-an-den-mond
+"Die alten, bösen Lieder Op. 48 no. 16",4,[[Robert Schumann]],[[Heinrich Heine]],[[grave]],"https://imslp.org/wiki/Dichterliebe,_Op.48_(Schumann,_Robert)",https://oxfordsong.org/song/die-alten-b%C3%B6sen-lieder
+Die Geister am Mummelsee IHW 22 n. 47,4,[[Hugo Wolf]],,"[[dance macabre]], [[ghost]], [[grave]]",https://imslp.org/wiki/M%C3%B6rike-Lieder_(Wolf%2C_Hugo),https://oxfordsong.org/song/die-geister-am-mummelsee
+Die Geister haben's vernommen,3,[[Johanna Kinkel]],,"[[magic]], [[ghost]], [[destiny]]",https://imslp.org/wiki/6_Lieder%2C_Op.6_(Kinkel%2C_Johanna),https://www.lieder.net/lieder/get_text.html?TextId=105796
+Die junge Nonne D.828,4,[[Franz Schubert]],,[[Christian nun]],"https://imslp.org/wiki/Die_junge_Nonne,_D.828_(Schubert,_Franz)",https://www.lieder.net/lieder/get_text.html?TextId=4095
+Die Mainacht Op. 43 n.2,4,[[Johannes Brahms]],,,https://imslp.org/wiki/4_Songs%2C_Op.43_(Brahms%2C_Johannes),https://www.lieder.net/lieder/get_text.html?TextId=8304
+Dunkel wie dunkel in Wald und in Feld Op. 43 n.1,4,[[Johannes Brahms]],,"[[forest]], [[walking]], [[silence]]",https://imslp.org/wiki/4_Songs%2C_Op.43_(Brahms%2C_Johannes),https://www.lieder.net/lieder/get_text.html?TextId=17333
+Erlkönig D328,4,[[Franz Schubert]],,"[[natural spirit]], [[chase]], [[horse]]",https://imslp.org/wiki/Erlk%C3%B6nig%2C_D.328_(Schubert%2C_Franz),https://www.lieder.net/lieder/get_text.html?TextId=5195
+Feldeinsamkeit Op. 86 n. 2,4,[[Johannes Brahms]],,,"https://imslp.org/wiki/6_Lieder,_Op.86_(Brahms,_Johannes)",https://oxfordsong.org/song/feldeinsamkeit-2
+Frühlingsnacht Op. 39 no. 12,2,[[Robert Schumann]],,"[[happiness]], [[joy]], [[Spring]]","https://imslp.org/wiki/Liederkreis,_Op.39_(Schumann,_Robert)",https://www.lieder.net/lieder/get_text.html?TextId=5195
+Gedichte der Königin Maria Stuart Op.135 n.5,2,[[Robert Schumann]],,[[prayer]],"https://imslp.org/wiki/Gedichte_der_K%C3%B6nigin_Maria_Stuart,_Op.135_(Schumann,_Robert)",https://www.lieder.net/lieder/assemble_texts.html?SongCycleId=132
+Gretchen am Spinnrade D.118,4,[[Franz Schubert]],,"[[abandonment]], [[weaving]]","https://imslp.org/wiki/Gretchen_am_Spinnrade,_D.118_(Schubert,_Franz)",https://www.lieder.net/lieder/get_text.html?TextId=17757
+Hexenlied Op. 8 n.8,3,[[Felix Mendelssohn]],,"[[ritual]], [[supernatural]], [[dance]], [[witch]], [[magic]]",https://imslp.org/wiki/12_Ges%C3%A4nge%2C_Op.8_(Mendelssohn%2C_Felix),https://www.lieder.net/lieder/get_text.html?TextId=24975
+Hochzeitslied D. 463,2,[[Franz Schubert]],,[[marriage]],"https://imslp.org/wiki/Hochzeitslied,_D.463_(Schubert,_Franz)",https://www.lieder.net/lieder/get_text.html?TextId=122280
+Ich stand in dunklen Traümen Op. 13 n.1,2,[[Clara Schumann]],,"[[lost]], [[dream]]","https://imslp.org/wiki/6_Lieder,_Op.13_(Schumann,_Clara)",https://www.lieder.net/lieder/get_text.html?TextId=17767&SettingId=19788
+In der Fremde Op. 39 n. 1,2,[[Robert Schumann]],,,"https://imslp.org/wiki/Liederkreis,_Op.39_(Schumann,_Robert)",https://www.lieder.net/lieder/get_text.html?TextId=5174
+In dunkler Nacht Op. 60 no. 1,3,[[Agathe Backer Grøndahl]],[[Maria von Collignon]],"[[oath]], [[night]]",https://imslp.org/wiki/6_Deutsche_Liebeslieder%2C_Op.60_(Backer-Gr%C3%B8ndahl%2C_Agathe),https://www.lieder.net/lieder/get_text.html?TextId=3944
+Liebst du um schönheit GMW 43,3,[[Gustav Mahler]],,,"https://imslp.org/wiki/R%C3%BCckert_Lieder,_GMW_39-43_(Mahler,_Gustav)",https://www.lieder.net/lieder/get_text.html?TextId=14094
+Mondnacht Op. 39 no. 5,4,[[Robert Schumann]],,[[moonlight]],"https://imslp.org/wiki/Liederkreis,_Op.39_(Schumann,_Robert)",https://oxfordsong.org/song/mondnacht-2
+Sehnsucht D.123,3,[[Franz Schubert]],,"[[natural spirit]], [[night]], [[ruin]]","https://imslp.org/wiki/Sehnsucht,_D.123_(Schubert,_Franz)",https://www.lieder.net/lieder/get_text.html?TextId=6601
+"Stürmisch Wandern, Op. 18 n.°6",3,[[Johanna Kinkel]],[[Gottfried Kinkel]],"[[wandering]], [[storm]]","https://imslp.org/wiki/6_Lieder,_Op.18_(Kinkel,_Johanna)",https://www.lieder.net/lieder/get_text.html?TextId=105821
+Totengräbers Heimweh D. 842,6,[[Franz Schubert]],,"[[death]], [[magic]], [[abandonment]], [[despair]]","https://imslp.org/wiki/Totengr%C3%A4bers_Heimweh,_D.842_(Schubert,_Franz)",https://oxfordsong.org/song/totengr%C3%A4bers-heimweh
+Unbewegte laue Luft Op. 57 n.8,4,[[Johannes Brahms]],,,https://imslp.org/wiki/8_Lieder_and_Songs%2C_Op.57_(Brahms%2C_Johannes),https://www.lieder.net/lieder/get_text.html?TextId=4257
+Walpurgisnacht Op. 2,,[[Carl Loewe]],,[[witch]],https://imslp.org/wiki/3_Balladen%2C_Op.2_(Loewe%2C_Carl),https://www.lieder.net/lieder/get_text.html?TextId=108871
+Walpurgisnacht Op. 75,2,[[Johannes Brahms]],,"[[witch]], [[mother]]","https://imslp.org/wiki/4_Ballades_and_Romances,_Op.75_(Brahms,_Johannes)",https://www.lieder.net/lieder/get_text.html?TextId=108870
+Wehmut Op. 39 no. 9,2,[[Robert Schumann]],,"[[singing]], [[sadness]]","https://imslp.org/wiki/Liederkreis,_Op.39_(Schumann,_Robert)",https://www.lieder.net/lieder/get_text.html?TextId=5321
+Wie rafft ich mich auf Op. 32 n.1,5,[[Johannes Brahms]],,"[[wandering]], [[forest]], [[ruin]], [[Moon]], [[night]]",https://s9.imslp.org/files/imglnks/usimg/d/de/IMSLP83202-PMLP21745-Brahms_Lieder_Hohe_Stimme_Band_3_Op_32_No_1_3-4_6-8_Peters_10277_filter.pdf,https://www.lieder.net/lieder/get_text.html?TextId=12824
+Wie viele Zeit verlor Ich IHW 15 n. 37,2,[[Hugo Wolf]],,[[disappointment]],"https://imslp.org/wiki/Italienisches_Liederbuch_(Wolf,_Hugo)",https://www.lieder.net/lieder/get_text.html?TextId=20726
+Wir wandelten Op.96 n. 2,3,[[Johannes Brahms]],,,"https://imslp.org/wiki/4_Lieder,_Op.96_(Brahms,_Johannes)",https://www.lieder.net/lieder/get_text.html?TextId=4295
+Zwielicht Op. 39 n.10,3,[[Robert Schumann]],,"[[hunting]], [[night]], [[forest]], [[horror]]","https://imslp.org/wiki/Liederkreis,_Op.39_(Schumann,_Robert)",https://www.lieder.net/lieder/get_text.html?TextId=5280

@@ -1,0 +1,1103 @@
+{
+  "scenes": [
+    {
+      "id": 0,
+      "label": [
+        "Abandoned horse in the forest - AGG 2025"
+      ],
+      "goes_to": [
+        "Meeting the Witch - AGG 2025",
+        "Witches' ritual - AGG 2025"
+      ],
+      "comes_from": [
+        "Mistrust of animals - AGG 2025"
+      ],
+      "music": [
+        "Erlkönig D328"
+      ]
+    },
+    {
+      "id": 1,
+      "label": [
+        "Ancient grave - AGG 2025"
+      ],
+      "goes_to": [
+        "Danse macabre - AGG 2025"
+      ],
+      "comes_from": [
+        "Wandering through the ruins - AGG 2025"
+      ],
+      "music": [
+        "Auf einer Burg Op. 39 n. 7"
+      ]
+    },
+    {
+      "id": 2,
+      "label": [
+        "Danse macabre - AGG 2025"
+      ],
+      "goes_to": [
+        "Telling own story with a song - AGG 2025",
+        "Falling unconscious from undead encounter - AGG 2025"
+      ],
+      "comes_from": [
+        "Ancient grave - AGG 2025"
+      ],
+      "music": [
+        "Die Geister am Mummelsee IHW 22 n. 47"
+      ]
+    },
+    {
+      "id": 3,
+      "label": [
+        "Daydreaming about eternal love - AGG 2025"
+      ],
+      "goes_to": [
+        "Happy ending - AGG 2025",
+        "Sad ending - AGG 2025"
+      ],
+      "comes_from": [
+        "Witch's love enchantment - AGG 2025",
+        "Moonlight -  AGG 2025"
+      ],
+      "music": [
+        "Frühlingsnacht Op. 39 no. 12"
+      ]
+    },
+    {
+      "id": 4,
+      "label": [
+        "Demonic deception - AGG 2025"
+      ],
+      "goes_to": [
+        "Demons keep the lovers apart - AGG 2025",
+        "Witch's love enchantment - AGG 2025"
+      ],
+      "comes_from": [
+        "Meeting the Witch - AGG 2025"
+      ],
+      "music": [
+        "Unbewegte laue Luft Op. 57 n.8"
+      ]
+    },
+    {
+      "id": 5,
+      "label": [
+        "Demons keep the lovers apart - AGG 2025"
+      ],
+      "goes_to": [
+        ""
+      ],
+      "comes_from": [
+        "Demonic deception - AGG 2025"
+      ],
+      "music": [
+        "Die Geister haben's vernommen"
+      ]
+    },
+    {
+      "id": 6,
+      "label": [
+        "Despair and homesickness. Giving up their dreams - AGG 2025"
+      ],
+      "goes_to": [
+        "Happy ending - AGG 2025",
+        "Sad ending - AGG 2025"
+      ],
+      "comes_from": [
+        "Witch's love enchantment - AGG 2025",
+        "Moonlight -  AGG 2025"
+      ],
+      "music": [
+        "In der Fremde Op. 39 n. 1",
+        "Ich stand in dunklen Traümen Op. 13 n.1"
+      ]
+    },
+    {
+      "id": 7,
+      "label": [
+        "Elf of the woods creates charming illusion - AGG 2025"
+      ],
+      "goes_to": [
+        "Falling asleep - AGG 2025"
+      ],
+      "comes_from": [
+        "Taking a \"shortcut\" - AGG 2025"
+      ],
+      "music": [
+        "Bedeckt mich mit Blumen IHW 32 n. 36"
+      ]
+    },
+    {
+      "id": 8,
+      "label": [
+        "Falling asleep - AGG 2025"
+      ],
+      "goes_to": [
+        "Mistrust of animals - AGG 2025"
+      ],
+      "comes_from": [
+        "Elf of the woods creates charming illusion - AGG 2025"
+      ],
+      "music": [
+        "Feldeinsamkeit Op. 86 n. 2"
+      ]
+    },
+    {
+      "id": 9,
+      "label": [
+        "Falling unconscious from undead encounter - AGG 2025"
+      ],
+      "goes_to": [
+        ""
+      ],
+      "comes_from": [
+        "Danse macabre - AGG 2025"
+      ],
+      "music": [
+        "Totengräbers Heimweh D. 842"
+      ]
+    },
+    {
+      "id": 10,
+      "label": [
+        "Following path and getting lost - AGG 2025"
+      ],
+      "goes_to": [
+        "Reaching higher ground during a storm - AGG 2025"
+      ],
+      "comes_from": [
+        "Wandering through the forest - AGG 2025"
+      ],
+      "music": [
+        "Zwielicht Op. 39 n.10"
+      ]
+    },
+    {
+      "id": 11,
+      "label": [
+        "Happy ending - AGG 2025"
+      ],
+      "goes_to": [
+        ""
+      ],
+      "comes_from": [
+        "Despair and homesickness. Giving up their dreams - AGG 2025",
+        "Daydreaming about eternal love - AGG 2025"
+      ],
+      "music": [
+        "Hochzeitslied D. 463",
+        "Du bist mir lieb",
+        "Liebst du um schönheit GMW 43"
+      ]
+    },
+    {
+      "id": 12,
+      "label": [
+        "Lonely man is burying a coffin - AGG 2025"
+      ],
+      "goes_to": [
+        "Telling own story with a song - AGG 2025"
+      ],
+      "comes_from": [
+        "Seek shelter in abandoned monastery - AGG 2025"
+      ],
+      "music": [
+        "Die alten",
+        "bösen Lieder Op. 48 no. 16"
+      ]
+    },
+    {
+      "id": 13,
+      "label": [
+        "Meeting the Witch - AGG 2025"
+      ],
+      "goes_to": [
+        "Demonic deception - AGG 2025",
+        "Recognition of the evil sorceress - AGG 2025"
+      ],
+      "comes_from": [
+        "Abandoned horse in the forest - AGG 2025",
+        "Staying awake - AGG 2025"
+      ],
+      "music": [
+        "Sehnsucht D.123"
+      ]
+    },
+    {
+      "id": 14,
+      "label": [
+        "Mistrust of animals - AGG 2025"
+      ],
+      "goes_to": [
+        "Abandoned horse in the forest - AGG 2025"
+      ],
+      "comes_from": [
+        "Falling asleep - AGG 2025"
+      ],
+      "music": [
+        "Der Feind Op. 145"
+      ]
+    },
+    {
+      "id": 15,
+      "label": [
+        "Moonlight -  AGG 2025"
+      ],
+      "goes_to": [
+        "Daydreaming about eternal love - AGG 2025",
+        "Despair and homesickness. Giving up their dreams - AGG 2025"
+      ],
+      "comes_from": [
+        "Recognition of the evil sorceress - AGG 2025",
+        "Prayer of the Hermit - AGG 2025"
+      ],
+      "music": [
+        "Mondnacht Op. 39 no. 5"
+      ]
+    },
+    {
+      "id": 16,
+      "label": [
+        "Prayer of the Hermit - AGG 2025"
+      ],
+      "goes_to": [
+        "Moonlight -  AGG 2025"
+      ],
+      "comes_from": [
+        "Telling own story with a song - AGG 2025"
+      ],
+      "music": [
+        "Gedichte der Königin Maria Stuart Op.135 n.5"
+      ]
+    },
+    {
+      "id": 17,
+      "label": [
+        "Reaching higher ground during a storm - AGG 2025"
+      ],
+      "goes_to": [
+        "Falling asleep - AGG 2025",
+        "Staying awake - AGG 2025"
+      ],
+      "comes_from": [
+        "Following path and getting lost - AGG 2025"
+      ],
+      "music": [
+        "Stürmisch Wandern",
+        "Op. 18 n.°6"
+      ]
+    },
+    {
+      "id": 18,
+      "label": [
+        "Recognition of the evil sorceress - AGG 2025"
+      ],
+      "goes_to": [
+        "Moonlight -  AGG 2025"
+      ],
+      "comes_from": [
+        "Meeting the Witch - AGG 2025"
+      ],
+      "music": [
+        "Walpurgisnacht Op. 75"
+      ]
+    },
+    {
+      "id": 19,
+      "label": [
+        "Sad ending - AGG 2025"
+      ],
+      "goes_to": [
+        ""
+      ],
+      "comes_from": [
+        "Daydreaming about eternal love - AGG 2025",
+        "Despair and homesickness. Giving up their dreams - AGG 2025"
+      ],
+      "music": [
+        "Gretchen am Spinnrade D.118",
+        "Wie viele Zeit verlor Ich IHW 15 n. 37"
+      ]
+    },
+    {
+      "id": 20,
+      "label": [
+        "Seek shelter in abandoned monastery - AGG 2025"
+      ],
+      "goes_to": [
+        "Lonely man is burying a coffin - AGG 2025"
+      ],
+      "comes_from": [
+        "Wandering through the ruins - AGG 2025"
+      ],
+      "music": [
+        "Die junge Nonne D.828"
+      ]
+    },
+    {
+      "id": 21,
+      "label": [
+        "Staying awake - AGG 2025"
+      ],
+      "goes_to": [
+        "Meeting the Witch - AGG 2025"
+      ],
+      "comes_from": [
+        "Reaching higher ground during a storm - AGG 2025"
+      ],
+      "music": [
+        "Die Mainacht Op. 43 n.2"
+      ]
+    },
+    {
+      "id": 22,
+      "label": [
+        "Taking a \"shortcut\" - AGG 2025"
+      ],
+      "goes_to": [
+        "Elf of the woods creates charming illusion - AGG 2025"
+      ],
+      "comes_from": [
+        "Wandering through the forest - AGG 2025"
+      ],
+      "music": [
+        "Wir wandelten Op.96 n. 2"
+      ]
+    },
+    {
+      "id": 23,
+      "label": [
+        "Telling own story with a song - AGG 2025"
+      ],
+      "goes_to": [
+        "Prayer of the Hermit - AGG 2025"
+      ],
+      "comes_from": [
+        "Witches' ritual - AGG 2025",
+        "Danse macabre - AGG 2025",
+        "Lonely man is burying a coffin - AGG 2025"
+      ],
+      "music": [
+        "Wehmut Op. 39 no. 9"
+      ]
+    },
+    {
+      "id": 24,
+      "label": [
+        "Wandering through the forest - AGG 2025"
+      ],
+      "goes_to": [
+        "Following path and getting lost - AGG 2025",
+        "Taking a \"shortcut\" - AGG 2025"
+      ],
+      "comes_from": [
+        ""
+      ],
+      "music": [
+        "Dunkel wie dunkel in Wald und in Feld Op. 43 n.1"
+      ]
+    },
+    {
+      "id": 25,
+      "label": [
+        "Wandering through the ruins - AGG 2025"
+      ],
+      "goes_to": [
+        "Ancient grave - AGG 2025",
+        "Seek shelter in abandoned monastery - AGG 2025"
+      ],
+      "comes_from": [
+        ""
+      ],
+      "music": [
+        "Wie rafft ich mich auf Op. 32 n.1"
+      ]
+    },
+    {
+      "id": 26,
+      "label": [
+        "Witch's love enchantment - AGG 2025"
+      ],
+      "goes_to": [
+        "Daydreaming about eternal love - AGG 2025",
+        "Despair and homesickness. Giving up their dreams - AGG 2025"
+      ],
+      "comes_from": [
+        "Demonic deception - AGG 2025"
+      ],
+      "music": [
+        "In dunkler Nacht Op. 60 no. 1"
+      ]
+    },
+    {
+      "id": 27,
+      "label": [
+        "Witches' ritual - AGG 2025"
+      ],
+      "goes_to": [
+        "Telling own story with a song - AGG 2025",
+        "Demons keep the lovers apart - AGG 2025"
+      ],
+      "comes_from": [
+        "Abandoned horse in the forest - AGG 2025"
+      ],
+      "music": [
+        "Hexenlied Op. 8",
+        "n.8"
+      ]
+    }
+  ],
+  "music": [
+    {
+      "id": 28,
+      "label": [
+        "Bedeckt mich mit Blumen IHW 32 n. 36"
+      ],
+      "duration": [
+        "3"
+      ],
+      "keyword": [
+        "death",
+        "dream",
+        "flower"
+      ],
+      "score": [
+        "https://imslp.org/wiki/Spanisches_Liederbuch_(Wolf,_Hugo)"
+      ],
+      "text": [
+        "https://www.lieder.net/lieder/get_text.html?TextId=18378&RF=1"
+      ]
+    },
+    {
+      "id": 29,
+      "label": [
+        "Der Feind Op. 145"
+      ],
+      "duration": [
+        "3"
+      ],
+      "keyword": [
+        "animal",
+        "mistrust"
+      ],
+      "score": [
+        "https://imslp.org/wiki/Liederkranz_f%C3%BCr_die_Bassstimme%2C_Op.145_(Loewe%2C_Carl)"
+      ],
+      "text": [
+        "https://www.lieder.net/lieder/get_text.html?TextId=14424"
+      ]
+    },
+    {
+      "id": 30,
+      "label": [
+        "Der Jüngling und der Tod D. 545"
+      ],
+      "duration": [
+        "4"
+      ],
+      "keyword": [
+        "death",
+        "undead"
+      ],
+      "score": [
+        "https://imslp.org/wiki/Der_J%C3%BCngling_und_der_Tod,_D.545_(Schubert,_Franz)"
+      ],
+      "text": [
+        "https://oxfordsong.org/song/der-j%C3%BCngling-und-der-tod"
+      ]
+    },
+    {
+      "id": 31,
+      "label": [
+        "Der Tod und das Mädchen D.531"
+      ],
+      "duration": [
+        "3"
+      ],
+      "keyword": [
+        "death",
+        "supernatural"
+      ],
+      "score": [
+        "https://imslp.org/wiki/Der_Tod_und_das_M%C3%A4dchen,_D.531_(Schubert,_Franz)"
+      ],
+      "text": [
+        "https://www.lieder.net/lieder/get_text.html?TextId=3855&RF=1"
+      ]
+    },
+    {
+      "id": 32,
+      "label": [
+        "Der Wanderer an den Mond D. 870"
+      ],
+      "duration": [
+        ""
+      ],
+      "keyword": [
+        "moon",
+        "walking"
+      ],
+      "score": [
+        "https://imslp.org/wiki/Der_Wanderer_an_den_Mond,_D.870_(Schubert,_Franz)"
+      ],
+      "text": [
+        "https://oxfordsong.org/song/der-wanderer-an-den-mond"
+      ]
+    },
+    {
+      "id": 33,
+      "label": [
+        "Die alten, bösen Lieder Op. 48 no. 16"
+      ],
+      "duration": [
+        "4"
+      ],
+      "keyword": [
+        "grave"
+      ],
+      "score": [
+        "https://imslp.org/wiki/Dichterliebe,_Op.48_(Schumann,_Robert)"
+      ],
+      "text": [
+        "https://oxfordsong.org/song/die-alten-b%C3%B6sen-lieder"
+      ]
+    },
+    {
+      "id": 34,
+      "label": [
+        "Die Geister am Mummelsee IHW 22 n. 47"
+      ],
+      "duration": [
+        "4"
+      ],
+      "keyword": [
+        "dance macabre",
+        "ghost",
+        "grave"
+      ],
+      "score": [
+        "https://imslp.org/wiki/M%C3%B6rike-Lieder_(Wolf%2C_Hugo)"
+      ],
+      "text": [
+        "https://oxfordsong.org/song/die-geister-am-mummelsee"
+      ]
+    },
+    {
+      "id": 35,
+      "label": [
+        "Die Geister haben's vernommen"
+      ],
+      "duration": [
+        "3"
+      ],
+      "keyword": [
+        "magic",
+        "ghost",
+        "destiny"
+      ],
+      "score": [
+        "https://imslp.org/wiki/6_Lieder%2C_Op.6_(Kinkel%2C_Johanna)"
+      ],
+      "text": [
+        "https://www.lieder.net/lieder/get_text.html?TextId=105796"
+      ]
+    },
+    {
+      "id": 36,
+      "label": [
+        "Die junge Nonne D.828"
+      ],
+      "duration": [
+        "4"
+      ],
+      "keyword": [
+        "Christian nun"
+      ],
+      "score": [
+        "https://imslp.org/wiki/Die_junge_Nonne,_D.828_(Schubert,_Franz)"
+      ],
+      "text": [
+        "https://www.lieder.net/lieder/get_text.html?TextId=4095"
+      ]
+    },
+    {
+      "id": 37,
+      "label": [
+        "Die Mainacht Op. 43 n.2"
+      ],
+      "duration": [
+        "4"
+      ],
+      "keyword": [
+        ""
+      ],
+      "score": [
+        "https://imslp.org/wiki/4_Songs%2C_Op.43_(Brahms%2C_Johannes)"
+      ],
+      "text": [
+        "https://www.lieder.net/lieder/get_text.html?TextId=8304"
+      ]
+    },
+    {
+      "id": 38,
+      "label": [
+        "Dunkel wie dunkel in Wald und in Feld Op. 43 n.1"
+      ],
+      "duration": [
+        "4"
+      ],
+      "keyword": [
+        "forest",
+        "walking",
+        "silence"
+      ],
+      "score": [
+        "https://imslp.org/wiki/4_Songs%2C_Op.43_(Brahms%2C_Johannes)"
+      ],
+      "text": [
+        "https://www.lieder.net/lieder/get_text.html?TextId=17333"
+      ]
+    },
+    {
+      "id": 39,
+      "label": [
+        "Erlkönig D328"
+      ],
+      "duration": [
+        "4"
+      ],
+      "keyword": [
+        "natural spirit",
+        "chase",
+        "horse"
+      ],
+      "score": [
+        "https://imslp.org/wiki/Erlk%C3%B6nig%2C_D.328_(Schubert%2C_Franz)"
+      ],
+      "text": [
+        "https://www.lieder.net/lieder/get_text.html?TextId=5195"
+      ]
+    },
+    {
+      "id": 40,
+      "label": [
+        "Feldeinsamkeit Op. 86 n. 2"
+      ],
+      "duration": [
+        "4"
+      ],
+      "keyword": [
+        ""
+      ],
+      "score": [
+        "https://imslp.org/wiki/6_Lieder,_Op.86_(Brahms,_Johannes)"
+      ],
+      "text": [
+        "https://oxfordsong.org/song/feldeinsamkeit-2"
+      ]
+    },
+    {
+      "id": 41,
+      "label": [
+        "Frühlingsnacht Op. 39 no. 12"
+      ],
+      "duration": [
+        "2"
+      ],
+      "keyword": [
+        "happiness",
+        "joy",
+        "Spring"
+      ],
+      "score": [
+        "https://imslp.org/wiki/Liederkreis,_Op.39_(Schumann,_Robert)"
+      ],
+      "text": [
+        "https://www.lieder.net/lieder/get_text.html?TextId=5195"
+      ]
+    },
+    {
+      "id": 42,
+      "label": [
+        "Gedichte der Königin Maria Stuart Op.135 n.5"
+      ],
+      "duration": [
+        "2"
+      ],
+      "keyword": [
+        "prayer"
+      ],
+      "score": [
+        "https://imslp.org/wiki/Gedichte_der_K%C3%B6nigin_Maria_Stuart,_Op.135_(Schumann,_Robert)"
+      ],
+      "text": [
+        "https://www.lieder.net/lieder/assemble_texts.html?SongCycleId=132"
+      ]
+    },
+    {
+      "id": 43,
+      "label": [
+        "Gretchen am Spinnrade D.118"
+      ],
+      "duration": [
+        "4"
+      ],
+      "keyword": [
+        "abandonment",
+        "weaving"
+      ],
+      "score": [
+        "https://imslp.org/wiki/Gretchen_am_Spinnrade,_D.118_(Schubert,_Franz)"
+      ],
+      "text": [
+        "https://www.lieder.net/lieder/get_text.html?TextId=17757"
+      ]
+    },
+    {
+      "id": 44,
+      "label": [
+        "Hexenlied Op. 8 n.8"
+      ],
+      "duration": [
+        "3"
+      ],
+      "keyword": [
+        "ritual",
+        "supernatural",
+        "dance",
+        "witch",
+        "magic"
+      ],
+      "score": [
+        "https://imslp.org/wiki/12_Ges%C3%A4nge%2C_Op.8_(Mendelssohn%2C_Felix)"
+      ],
+      "text": [
+        "https://www.lieder.net/lieder/get_text.html?TextId=24975"
+      ]
+    },
+    {
+      "id": 45,
+      "label": [
+        "Hochzeitslied D. 463"
+      ],
+      "duration": [
+        "2"
+      ],
+      "keyword": [
+        "marriage"
+      ],
+      "score": [
+        "https://imslp.org/wiki/Hochzeitslied,_D.463_(Schubert,_Franz)"
+      ],
+      "text": [
+        "https://www.lieder.net/lieder/get_text.html?TextId=122280"
+      ]
+    },
+    {
+      "id": 46,
+      "label": [
+        "Ich stand in dunklen Traümen Op. 13 n.1"
+      ],
+      "duration": [
+        "2"
+      ],
+      "keyword": [
+        "lost",
+        "dream"
+      ],
+      "score": [
+        "https://imslp.org/wiki/6_Lieder,_Op.13_(Schumann,_Clara)"
+      ],
+      "text": [
+        "https://www.lieder.net/lieder/get_text.html?TextId=17767&SettingId=19788"
+      ]
+    },
+    {
+      "id": 47,
+      "label": [
+        "In der Fremde Op. 39 n. 1"
+      ],
+      "duration": [
+        "2"
+      ],
+      "keyword": [
+        ""
+      ],
+      "score": [
+        "https://imslp.org/wiki/Liederkreis,_Op.39_(Schumann,_Robert)"
+      ],
+      "text": [
+        "https://www.lieder.net/lieder/get_text.html?TextId=5174"
+      ]
+    },
+    {
+      "id": 48,
+      "label": [
+        "In dunkler Nacht Op. 60 no. 1"
+      ],
+      "duration": [
+        "3"
+      ],
+      "keyword": [
+        "oath",
+        "night"
+      ],
+      "score": [
+        "https://imslp.org/wiki/6_Deutsche_Liebeslieder%2C_Op.60_(Backer-Gr%C3%B8ndahl%2C_Agathe)"
+      ],
+      "text": [
+        "https://www.lieder.net/lieder/get_text.html?TextId=3944"
+      ]
+    },
+    {
+      "id": 49,
+      "label": [
+        "Liebst du um schönheit GMW 43"
+      ],
+      "duration": [
+        "3"
+      ],
+      "keyword": [
+        ""
+      ],
+      "score": [
+        "https://imslp.org/wiki/R%C3%BCckert_Lieder,_GMW_39-43_(Mahler,_Gustav)"
+      ],
+      "text": [
+        "https://www.lieder.net/lieder/get_text.html?TextId=14094"
+      ]
+    },
+    {
+      "id": 50,
+      "label": [
+        "Mondnacht Op. 39 no. 5"
+      ],
+      "duration": [
+        "4"
+      ],
+      "keyword": [
+        "moonlight"
+      ],
+      "score": [
+        "https://imslp.org/wiki/Liederkreis,_Op.39_(Schumann,_Robert)"
+      ],
+      "text": [
+        "https://oxfordsong.org/song/mondnacht-2"
+      ]
+    },
+    {
+      "id": 51,
+      "label": [
+        "Sehnsucht D.123"
+      ],
+      "duration": [
+        "3"
+      ],
+      "keyword": [
+        "natural spirit",
+        "night",
+        "ruin"
+      ],
+      "score": [
+        "https://imslp.org/wiki/Sehnsucht,_D.123_(Schubert,_Franz)"
+      ],
+      "text": [
+        "https://www.lieder.net/lieder/get_text.html?TextId=6601"
+      ]
+    },
+    {
+      "id": 52,
+      "label": [
+        "Stürmisch Wandern, Op. 18 n.°6"
+      ],
+      "duration": [
+        "3"
+      ],
+      "keyword": [
+        "wandering",
+        "storm"
+      ],
+      "score": [
+        "https://imslp.org/wiki/6_Lieder,_Op.18_(Kinkel,_Johanna)"
+      ],
+      "text": [
+        "https://www.lieder.net/lieder/get_text.html?TextId=105821"
+      ]
+    },
+    {
+      "id": 53,
+      "label": [
+        "Totengräbers Heimweh D. 842"
+      ],
+      "duration": [
+        "6"
+      ],
+      "keyword": [
+        "death",
+        "magic",
+        "abandonment",
+        "despair"
+      ],
+      "score": [
+        "https://imslp.org/wiki/Totengr%C3%A4bers_Heimweh,_D.842_(Schubert,_Franz)"
+      ],
+      "text": [
+        "https://oxfordsong.org/song/totengr%C3%A4bers-heimweh"
+      ]
+    },
+    {
+      "id": 54,
+      "label": [
+        "Unbewegte laue Luft Op. 57 n.8"
+      ],
+      "duration": [
+        "4"
+      ],
+      "keyword": [
+        ""
+      ],
+      "score": [
+        "https://imslp.org/wiki/8_Lieder_and_Songs%2C_Op.57_(Brahms%2C_Johannes)"
+      ],
+      "text": [
+        "https://www.lieder.net/lieder/get_text.html?TextId=4257"
+      ]
+    },
+    {
+      "id": 55,
+      "label": [
+        "Walpurgisnacht Op. 2"
+      ],
+      "duration": [
+        ""
+      ],
+      "keyword": [
+        "witch"
+      ],
+      "score": [
+        "https://imslp.org/wiki/3_Balladen%2C_Op.2_(Loewe%2C_Carl)"
+      ],
+      "text": [
+        "https://www.lieder.net/lieder/get_text.html?TextId=108871"
+      ]
+    },
+    {
+      "id": 56,
+      "label": [
+        "Walpurgisnacht Op. 75"
+      ],
+      "duration": [
+        "2"
+      ],
+      "keyword": [
+        "witch",
+        "mother"
+      ],
+      "score": [
+        "https://imslp.org/wiki/4_Ballades_and_Romances,_Op.75_(Brahms,_Johannes)"
+      ],
+      "text": [
+        "https://www.lieder.net/lieder/get_text.html?TextId=108870"
+      ]
+    },
+    {
+      "id": 57,
+      "label": [
+        "Wehmut Op. 39 no. 9"
+      ],
+      "duration": [
+        "2"
+      ],
+      "keyword": [
+        "singing",
+        "sadness"
+      ],
+      "score": [
+        "https://imslp.org/wiki/Liederkreis,_Op.39_(Schumann,_Robert)"
+      ],
+      "text": [
+        "https://www.lieder.net/lieder/get_text.html?TextId=5321"
+      ]
+    },
+    {
+      "id": 58,
+      "label": [
+        "Wie rafft ich mich auf Op. 32 n.1"
+      ],
+      "duration": [
+        "5"
+      ],
+      "keyword": [
+        "wandering",
+        "forest",
+        "ruin",
+        "Moon",
+        "night"
+      ],
+      "score": [
+        "https://s9.imslp.org/files/imglnks/usimg/d/de/IMSLP83202-PMLP21745-Brahms_Lieder_Hohe_Stimme_Band_3_Op_32_No_1_3-4_6-8_Peters_10277_filter.pdf"
+      ],
+      "text": [
+        "https://www.lieder.net/lieder/get_text.html?TextId=12824"
+      ]
+    },
+    {
+      "id": 59,
+      "label": [
+        "Wie viele Zeit verlor Ich IHW 15 n. 37"
+      ],
+      "duration": [
+        "2"
+      ],
+      "keyword": [
+        "disappointment"
+      ],
+      "score": [
+        "https://imslp.org/wiki/Italienisches_Liederbuch_(Wolf,_Hugo)"
+      ],
+      "text": [
+        "https://www.lieder.net/lieder/get_text.html?TextId=20726"
+      ]
+    },
+    {
+      "id": 60,
+      "label": [
+        "Wir wandelten Op.96 n. 2"
+      ],
+      "duration": [
+        "3"
+      ],
+      "keyword": [
+        ""
+      ],
+      "score": [
+        "https://imslp.org/wiki/4_Lieder,_Op.96_(Brahms,_Johannes)"
+      ],
+      "text": [
+        "https://www.lieder.net/lieder/get_text.html?TextId=4295"
+      ]
+    },
+    {
+      "id": 61,
+      "label": [
+        "Zwielicht Op. 39 n.10"
+      ],
+      "duration": [
+        "3"
+      ],
+      "keyword": [
+        "hunting",
+        "night",
+        "forest",
+        "horror"
+      ],
+      "score": [
+        "https://imslp.org/wiki/Liederkreis,_Op.39_(Schumann,_Robert)"
+      ],
+      "text": [
+        "https://www.lieder.net/lieder/get_text.html?TextId=5280"
+      ]
+    }
+  ]
+}
