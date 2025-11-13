@@ -7,3 +7,5 @@ timing,duration,false
 keyword,keyword,true
 score,score,false
 lyrics,text,false
+change_spotlight,change_spotlight,true
+argument,argument,false

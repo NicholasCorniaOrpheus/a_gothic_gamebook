@@ -8,16 +8,15 @@ from modules.utilities import *
 from modules.analysis import *
 
 """TO DO
-- [ ] import scenes and music from csv files from Obsidian/Google Drive
-- [ ] get start_scenes => comes_from = {}
-- [ ] get end_scenes => goes_to = {}
+- [x ] import scenes and music from csv files from Obsidian/Google Drive
+- [x ] get start_scenes => comes_from = {}
+- [x ] get end_scenes => goes_to = {}
 - [ ] for each scene public_choice => goes_to > 1
-- [ ] for each scene, determine "level" according to tree structure (no loops)
-- [ ] change_spotlight_currency => switch character, randomly decide next scene from other character starting from current"level"
-- [ ] track both X and Y position of characters in story.
-- [ ] generate recursively all possible paths as list, including change_spotlight options.
-- [ ] calculate statistics for path length, number of public_choices, music pieces length.
-- [ ] generate graph using networkx and pyvis? Or try other Javascript module via Pandas?
+- [x ] change_spotlight is counting for the in and outdegree, but the outcomes are randomly selected by the GM.
+- [x ] use networkx for analysis
+- [x] generate recursively all possible paths as list, taking into account change_spotlight
+- [x ] calculate statistics for path length, number of public_choices, music pieces length.
+
 
 """
 
@@ -31,10 +30,18 @@ mapping_filename = os.path.join("mappings", "csv2dict_mapping.csv")
 
 agg_dictionary_filename = os.path.join("data", "agg_dict.json")
 
-csvs_to_scenes_dictionary(
+agg_networkx_graph_filename = os.path.join("data", "agg_networkx.json")
+
+agg_statistics_filename = os.path.join("data", "agg_statistics.json")
+
+agg_dict = csvs_to_scenes_dictionary(
     scenes_csv_filename,
     music_csv_filename,
     mapping_filename,
     agg_dictionary_filename,
     separator=",",
 )
+
+agg_graph = generate_networkx_graph(agg_dict, agg_networkx_graph_filename)
+
+generate_graph_statistics(agg_graph, agg_dict, agg_statistics_filename)
