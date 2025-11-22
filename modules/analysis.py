@@ -2,6 +2,7 @@
 import sys
 import networkx as nx
 import statistics as stat
+import random
 
 sys.path.append("./modules")
 from utilities import *
@@ -86,7 +87,7 @@ def generate_networkx_graph(agg_dict,output_filename,base_url="https://nicholasc
             if len(scene["change_spotlight"]) == 0:
                 public_choice = False
             else:
-                public_choice = True 
+                public_choice = False 
         else:
             public_choice = True 
 
@@ -146,9 +147,6 @@ def generate_networkx_graph(agg_dict,output_filename,base_url="https://nicholasc
         except KeyError:
             pass
 
-    # check consistency by double-checking "comes_from" property.
-
-    # TO DO
 
     print(f'Exporting Networkx graph in JSON format')
     net_dict = nx.node_link_data(net, edges="links")
@@ -175,20 +173,23 @@ def generate_graph_statistics(agg_graph,agg_dict,output_filename,scene_argument_
     # get all possible paths from sources to sinks
 
     all_paths = []
-
     for source in sources:
         for sink in sinks:
             all_paths.append(list(nx.all_simple_paths(agg_graph,source,sink)))
+
+    # calculate occurrence, trajectories and timing for each path
     sum_length = 0
     number_trajectories = 0
     timing_paths = 0
     occurrence_scene = []
+    # record occurrence for each node:
     for node in agg_graph.nodes():
         try:
             occurrence_scene.append({"id": node, "label": agg_graph.nodes[node]["label"], "occurrence": 0.0})
         except KeyError:
             print(agg_graph.nodes[node])
 
+    """ Paths occurrence
     for source_trajectories in all_paths:
         for path in source_trajectories:
             sum_length += len(path)
@@ -196,13 +197,39 @@ def generate_graph_statistics(agg_graph,agg_dict,output_filename,scene_argument_
             timing_paths += len(path)*scene_argument_timing
             # count public_choices moments
             for node in path:
+                #print(f"Current node: {node}")
                 # calculate occurrence
                 occurrence_scene[node]["occurrence"] += 1
-                # add timing for chocies and songs
+                #print(occurrence_scene[node])
+                # add timing for choices and songs
                 if agg_graph.nodes[node]["public_choice"]:
                     timing_paths += public_choice_timing
                 for song in agg_graph.nodes[node]["music"]:
                     timing_paths += float(song["duration"][0])
+
+    """
+    # Montecarlo occurrence
+
+    n = 30000
+    for i in range(n):
+        current_node = random.choice(sources)
+        path = [current_node]
+        while current_node not in sinks:
+            out_edges = list(filter(lambda x: x[0] == current_node, list(agg_graph.out_edges(current_node))))
+            current_node = random.choice(out_edges)[1]
+            path.append(current_node)
+        # process path
+        sum_length += len(path)
+        timing_paths += len(path)*scene_argument_timing
+        number_trajectories +=1
+        for node in path:
+            # calculate occurrence
+            occurrence_scene[node]["occurrence"] += 1
+            # add timing for choices and songs
+            if agg_graph.nodes[node]["public_choice"]:
+                timing_paths += public_choice_timing
+            for song in agg_graph.nodes[node]["music"]:
+                timing_paths += float(song["duration"][0])
 
 
     statistics["paths"] = {}
@@ -212,13 +239,15 @@ def generate_graph_statistics(agg_graph,agg_dict,output_filename,scene_argument_
     statistics["paths"]["trajectories"] = all_paths
 
     for node in occurrence_scene:
-        node["occurrence"] = node["occurrence"]/number_trajectories
+        node["occurrence"] = float(node["occurrence"])/number_trajectories
 
     statistics["paths"]["scene_occurrence"] = {}
     occurrence_list = list(node["occurrence"] for node in occurrence_scene)
     statistics["paths"]["scene_occurrence"]["standard_deviation"] = stat.stdev(occurrence_list)
     statistics["paths"]["scene_occurrence"]["average"] = sum([node["occurrence"] for node in occurrence_scene])/len(occurrence_scene)
     statistics["paths"]["scene_occurrence"]["nodes"] = occurrence_scene
+
+    
     
 
     print(f"Exporting statistics...")

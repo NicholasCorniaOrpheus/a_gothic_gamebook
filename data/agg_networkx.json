@@ -60,7 +60,7 @@
           ]
         }
       ],
-      "public_choice": true,
+      "public_choice": false,
       "id": 1
     },
     {
@@ -178,7 +178,7 @@
           ]
         }
       ],
-      "public_choice": true,
+      "public_choice": false,
       "id": 5
     },
     {
@@ -255,7 +255,7 @@
           ]
         }
       ],
-      "public_choice": true,
+      "public_choice": false,
       "id": 7
     },
     {
@@ -283,7 +283,7 @@
           ]
         }
       ],
-      "public_choice": true,
+      "public_choice": false,
       "id": 8
     },
     {
@@ -314,7 +314,7 @@
           ]
         }
       ],
-      "public_choice": true,
+      "public_choice": false,
       "id": 9
     },
     {
@@ -345,7 +345,7 @@
           ]
         }
       ],
-      "public_choice": true,
+      "public_choice": false,
       "id": 10
     },
     {
@@ -391,7 +391,7 @@
           ]
         }
       ],
-      "public_choice": true,
+      "public_choice": false,
       "id": 11
     },
     {
@@ -400,7 +400,7 @@
       "value": 100,
       "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Lonely man is burying a coffin - AGG 2025'>Lonely man is burying a coffin - AGG 2025</a></h3>\n            <p>The character wakes up in the morning and sees a man burying a coffin into the graveyard.Musical pieces: Die alten, bösen Lieder Op. 48 no. 16</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Lonely man is burying a coffin - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
       "music": [],
-      "public_choice": true,
+      "public_choice": false,
       "id": 12
     },
     {
@@ -459,7 +459,7 @@
           ]
         }
       ],
-      "public_choice": true,
+      "public_choice": false,
       "id": 14
     },
     {
@@ -515,7 +515,7 @@
           ]
         }
       ],
-      "public_choice": true,
+      "public_choice": false,
       "id": 16
     },
     {
@@ -553,7 +553,7 @@
           ]
         }
       ],
-      "public_choice": true,
+      "public_choice": false,
       "id": 18
     },
     {
@@ -600,7 +600,7 @@
           ]
         }
       ],
-      "public_choice": true,
+      "public_choice": false,
       "id": 19
     },
     {
@@ -628,7 +628,7 @@
           ]
         }
       ],
-      "public_choice": true,
+      "public_choice": false,
       "id": 20
     },
     {
@@ -656,7 +656,7 @@
           ]
         }
       ],
-      "public_choice": true,
+      "public_choice": false,
       "id": 21
     },
     {
@@ -684,7 +684,7 @@
           ]
         }
       ],
-      "public_choice": true,
+      "public_choice": false,
       "id": 22
     },
     {
@@ -713,7 +713,7 @@
           ]
         }
       ],
-      "public_choice": true,
+      "public_choice": false,
       "id": 23
     },
     {
