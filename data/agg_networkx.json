@@ -10,7 +10,7 @@
       "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Abandoned horse in the forest - AGG 2025'>Abandoned horse in the forest - AGG 2025</a></h3>\n            <p>Musical pieces: Erlkönig D328</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Abandoned horse in the forest - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
       "music": [
         {
-          "id": 40,
+          "id": 29,
           "label": [
             "Erlkönig D328"
           ],
@@ -70,7 +70,7 @@
       "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Danse macabre - AGG 2025'>Danse macabre - AGG 2025</a></h3>\n            <p>The character witnesses a group of ghosts carrying a grave into a lake.Musical pieces: Die Geister am Mummelsee IHW 22 n. 47</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Danse macabre - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
       "music": [
         {
-          "id": 35,
+          "id": 37,
           "label": [
             "Die Geister am Mummelsee IHW 22 n. 47"
           ],
@@ -100,7 +100,7 @@
       "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Daydreaming about eternal love - AGG 2025'>Daydreaming about eternal love - AGG 2025</a></h3>\n            <p>The character is convinced that their love is requited. Spring has suddenly come to support their fantasy. But is this just a dream?Musical pieces: Frühlingsnacht Op. 39 no. 12</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Daydreaming about eternal love - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
       "music": [
         {
-          "id": 42,
+          "id": 43,
           "label": [
             "Frühlingsnacht Op. 39 no. 12"
           ],
@@ -155,10 +155,29 @@
       "label": "Demons keep the lovers apart - AGG 2025",
       "color": "#a55faa",
       "value": 100,
-      "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Demons keep the lovers apart - AGG 2025'>Demons keep the lovers apart - AGG 2025</a></h3>\n            <p>After the evil pact, the lover despairs trying to reach their loved oneMusical pieces: Die Geister haben's vernommen</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Demons keep the lovers apart - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
+      "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Demons keep the lovers apart - AGG 2025'>Demons keep the lovers apart - AGG 2025</a></h3>\n            <p>After the evil pact, the lover despairs trying to reach their loved oneMusical pieces: Die Geister haben's vernommen, Der Tod und das Mädchen D.531</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Demons keep the lovers apart - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
       "music": [
         {
-          "id": 36,
+          "id": 34,
+          "label": [
+            "Der Tod und das Mädchen D.531"
+          ],
+          "duration": [
+            "3"
+          ],
+          "keyword": [
+            "death",
+            "supernatural"
+          ],
+          "score": [
+            "https://imslp.org/wiki/Der_Tod_und_das_M%C3%A4dchen,_D.531_(Schubert,_Franz)"
+          ],
+          "text": [
+            "https://www.lieder.net/lieder/get_text.html?TextId=3855&RF=1"
+          ]
+        },
+        {
+          "id": 38,
           "label": [
             "Die Geister haben's vernommen"
           ],
@@ -188,7 +207,7 @@
       "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Despair and homesickness. Giving up their dreams - AGG 2025'>Despair and homesickness. Giving up their dreams - AGG 2025</a></h3>\n            <p>The character's morale has reached the bottom. They are longing for home, giving up their dreams of happiness.Musical pieces: In der Fremde Op. 39 n. 1, Ich stand in dunklen Traümen Op. 13 n.1</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Despair and homesickness. Giving up their dreams - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
       "music": [
         {
-          "id": 47,
+          "id": 48,
           "label": [
             "Ich stand in dunklen Traümen Op. 13 n.1"
           ],
@@ -207,7 +226,7 @@
           ]
         },
         {
-          "id": 48,
+          "id": 49,
           "label": [
             "In der Fremde Op. 39 n. 1"
           ],
@@ -235,7 +254,7 @@
       "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Elf of the woods creates charming illusion - AGG 2025'>Elf of the woods creates charming illusion - AGG 2025</a></h3>\n            <p>The will and vital energy of the character fall apart due to the natural spirit's charms, loosing consciousness.Musical pieces: Bedeckt mich mit Blumen IHW 32 n. 36</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Elf of the woods creates charming illusion - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
       "music": [
         {
-          "id": 29,
+          "id": 31,
           "label": [
             "Bedeckt mich mit Blumen IHW 32 n. 36"
           ],
@@ -265,7 +284,7 @@
       "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Falling asleep - AGG 2025'>Falling asleep - AGG 2025</a></h3>\n            <p>Either the male character chooses to fall asleep and dreams of supernatural things, or he decides to stay awake... and have supernatural encounters.Musical pieces: Feldeinsamkeit Op. 86 n. 2</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Falling asleep - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
       "music": [
         {
-          "id": 41,
+          "id": 42,
           "label": [
             "Feldeinsamkeit Op. 86 n. 2"
           ],
@@ -355,25 +374,7 @@
       "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Happy ending - AGG 2025'>Happy ending - AGG 2025</a></h3>\n            <p>They get married and live happily ever after until they die.Musical pieces: Hochzeitslied D. 463, Du bist mir lieb, Liebst du um schönheit GMW 43</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Happy ending - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
       "music": [
         {
-          "id": 46,
-          "label": [
-            "Hochzeitslied D. 463"
-          ],
-          "duration": [
-            "2"
-          ],
-          "keyword": [
-            "marriage"
-          ],
-          "score": [
-            "https://imslp.org/wiki/Hochzeitslied,_D.463_(Schubert,_Franz)"
-          ],
-          "text": [
-            "https://www.lieder.net/lieder/get_text.html?TextId=122280"
-          ]
-        },
-        {
-          "id": 50,
+          "id": 30,
           "label": [
             "Liebst du um schönheit GMW 43"
           ],
@@ -388,6 +389,24 @@
           ],
           "text": [
             "https://www.lieder.net/lieder/get_text.html?TextId=14094"
+          ]
+        },
+        {
+          "id": 47,
+          "label": [
+            "Hochzeitslied D. 463"
+          ],
+          "duration": [
+            "2"
+          ],
+          "keyword": [
+            "marriage"
+          ],
+          "score": [
+            "https://imslp.org/wiki/Hochzeitslied,_D.463_(Schubert,_Franz)"
+          ],
+          "text": [
+            "https://www.lieder.net/lieder/get_text.html?TextId=122280"
           ]
         }
       ],
@@ -407,7 +426,7 @@
       "label": "Meeting the Witch - AGG 2025",
       "color": "#a55faa",
       "value": 100,
-      "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Meeting the Witch - AGG 2025'>Meeting the Witch - AGG 2025</a></h3>\n            <p>Musical pieces: Sehnsucht D.123</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Meeting the Witch - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
+      "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Meeting the Witch - AGG 2025'>Meeting the Witch - AGG 2025</a></h3>\n            <p>The character feels themselves observed by invisible eyes in the woods. A flock of crows obscures the sky for a while, leaving a small singing bird alone on a branch, staring at the character. The little animal is a transmuted form of The Witch.Musical pieces: Sehnsucht D.123</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Meeting the Witch - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
       "music": [
         {
           "id": 52,
@@ -440,7 +459,7 @@
       "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Mistrust of animals - AGG 2025'>Mistrust of animals - AGG 2025</a></h3>\n            <p>Musical pieces: Der Feind Op. 145</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Mistrust of animals - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
       "music": [
         {
-          "id": 30,
+          "id": 32,
           "label": [
             "Der Feind Op. 145"
           ],
@@ -497,7 +516,7 @@
       "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Prayer of the Hermit - AGG 2025'>Prayer of the Hermit - AGG 2025</a></h3>\n            <p>The Hermit recites a prayer, revealing a hint about their past.Musical pieces: Gedichte der Königin Maria Stuart Op.135 n.5</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Prayer of the Hermit - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
       "music": [
         {
-          "id": 43,
+          "id": 44,
           "label": [
             "Gedichte der Königin Maria Stuart Op.135 n.5"
           ],
@@ -563,7 +582,7 @@
       "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Sad ending - AGG 2025'>Sad ending - AGG 2025</a></h3>\n            <p>Realises that the loved one was unworthy and is disillusioned and facing an empty existence.Musical pieces: Gretchen am Spinnrade D.118, Wie viele Zeit verlor Ich IHW 15 n. 37</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Sad ending - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
       "music": [
         {
-          "id": 44,
+          "id": 45,
           "label": [
             "Gretchen am Spinnrade D.118"
           ],
@@ -610,7 +629,7 @@
       "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Seek shelter in abandoned monastery - AGG 2025'>Seek shelter in abandoned monastery - AGG 2025</a></h3>\n            <p>The character seeks shelter from the rain in an abandoned nun's monastery. Musical pieces: Die junge Nonne D.828</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Seek shelter in abandoned monastery - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
       "music": [
         {
-          "id": 37,
+          "id": 39,
           "label": [
             "Die junge Nonne D.828"
           ],
@@ -638,7 +657,7 @@
       "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Staying awake - AGG 2025'>Staying awake - AGG 2025</a></h3>\n            <p>The character forces themselves to stay awake during the long night in the woods.Musical pieces: Die Mainacht Op. 43 n.2</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Staying awake - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
       "music": [
         {
-          "id": 38,
+          "id": 40,
           "label": [
             "Die Mainacht Op. 43 n.2"
           ],
@@ -723,7 +742,7 @@
       "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Wandering through the forest - AGG 2025'>Wandering through the forest - AGG 2025</a></h3>\n            <p>The character is wandering through the deep, dark forest, looking for a path to lead them back to their beloved one.Musical pieces: Dunkel wie dunkel in Wald und in Feld Op. 43 n.1</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Wandering through the forest - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
       "music": [
         {
-          "id": 39,
+          "id": 41,
           "label": [
             "Dunkel wie dunkel in Wald und in Feld Op. 43 n.1"
           ],
@@ -785,7 +804,7 @@
       "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Witch's love enchantment - AGG 2025'>Witch's love enchantment - AGG 2025</a></h3>\n            <p>The Witch uses one of her enchantments to grasp the hearth of the character.Musical pieces: In dunkler Nacht Op. 60 no. 1</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Witch's love enchantment - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
       "music": [
         {
-          "id": 49,
+          "id": 50,
           "label": [
             "In dunkler Nacht Op. 60 no. 1"
           ],
@@ -814,7 +833,7 @@
       "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Witches' ritual - AGG 2025'>Witches' ritual - AGG 2025</a></h3>\n            <p>The character witnesses a magical gathering of witches, chanting and dancing to perform some evil spell.Musical pieces: Hexenlied Op. 8 n.8</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Witches' ritual - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
       "music": [
         {
-          "id": 45,
+          "id": 46,
           "label": [
             "Hexenlied Op. 8 n.8"
           ],
@@ -836,7 +855,7 @@
           ]
         }
       ],
-      "public_choice": true,
+      "public_choice": false,
       "id": 27
     }
   ],
@@ -898,13 +917,8 @@
     },
     {
       "weight": 1,
-      "source": 4,
-      "target": 16
-    },
-    {
-      "weight": 1,
       "source": 5,
-      "target": 15
+      "target": 6
     },
     {
       "weight": 10,
@@ -977,6 +991,11 @@
       "target": 15
     },
     {
+      "weight": 1,
+      "source": 16,
+      "target": 26
+    },
+    {
       "weight": 10,
       "source": 17,
       "target": 8
@@ -1045,11 +1064,6 @@
       "weight": 10,
       "source": 26,
       "target": 6
-    },
-    {
-      "weight": 10,
-      "source": 27,
-      "target": 23
     },
     {
       "weight": 10,

@@ -99,7 +99,7 @@
         "Witch's love enchantment - AGG 2025"
       ],
       "change_spotlight": [
-        "Prayer of the Hermit - AGG 2025"
+        ""
       ],
       "comes_from": [
         "Meeting the Witch - AGG 2025"
@@ -120,13 +120,14 @@
         ""
       ],
       "change_spotlight": [
-        "Moonlight -  AGG 2025"
+        "Despair and homesickness. Giving up their dreams - AGG 2025"
       ],
       "comes_from": [
         "Demonic deception - AGG 2025"
       ],
       "music": [
-        "Die Geister haben's vernommen"
+        "Die Geister haben's vernommen",
+        "Der Tod und das Mädchen D.531"
       ],
       "argument": [
         "After the evil pact, the lover despairs trying to reach their loved one"
@@ -307,7 +308,7 @@
         "Sehnsucht D.123"
       ],
       "argument": [
-        ""
+        "The character feels themselves observed by invisible eyes in the woods. A flock of crows obscures the sky for a while, leaving a small singing bird alone on a branch, staring at the character. The little animal is a transmuted form of The Witch."
       ]
     },
     {
@@ -363,7 +364,7 @@
         "Moonlight -  AGG 2025"
       ],
       "change_spotlight": [
-        ""
+        "Witch's love enchantment - AGG 2025"
       ],
       "comes_from": [
         "Telling own story with a song - AGG 2025"
@@ -600,7 +601,6 @@
         "Witches' ritual - AGG 2025"
       ],
       "goes_to": [
-        "Telling own story with a song - AGG 2025",
         "Demons keep the lovers apart - AGG 2025"
       ],
       "change_spotlight": [
@@ -641,6 +641,44 @@
     {
       "id": 29,
       "label": [
+        "Erlkönig D328"
+      ],
+      "duration": [
+        "4"
+      ],
+      "keyword": [
+        "natural spirit",
+        "chase",
+        "horse"
+      ],
+      "score": [
+        "https://imslp.org/wiki/Erlk%C3%B6nig%2C_D.328_(Schubert%2C_Franz)"
+      ],
+      "text": [
+        "https://www.lieder.net/lieder/get_text.html?TextId=5195"
+      ]
+    },
+    {
+      "id": 30,
+      "label": [
+        "Liebst du um schönheit GMW 43"
+      ],
+      "duration": [
+        "3"
+      ],
+      "keyword": [
+        ""
+      ],
+      "score": [
+        "https://imslp.org/wiki/R%C3%BCckert_Lieder,_GMW_39-43_(Mahler,_Gustav)"
+      ],
+      "text": [
+        "https://www.lieder.net/lieder/get_text.html?TextId=14094"
+      ]
+    },
+    {
+      "id": 31,
+      "label": [
         "Bedeckt mich mit Blumen IHW 32 n. 36"
       ],
       "duration": [
@@ -659,7 +697,7 @@
       ]
     },
     {
-      "id": 30,
+      "id": 32,
       "label": [
         "Der Feind Op. 145"
       ],
@@ -678,7 +716,7 @@
       ]
     },
     {
-      "id": 31,
+      "id": 33,
       "label": [
         "Der Jüngling und der Tod D. 545"
       ],
@@ -697,7 +735,7 @@
       ]
     },
     {
-      "id": 32,
+      "id": 34,
       "label": [
         "Der Tod und das Mädchen D.531"
       ],
@@ -716,7 +754,7 @@
       ]
     },
     {
-      "id": 33,
+      "id": 35,
       "label": [
         "Der Wanderer an den Mond D. 870"
       ],
@@ -735,7 +773,7 @@
       ]
     },
     {
-      "id": 34,
+      "id": 36,
       "label": [
         "Die alten, bösen Lieder Op. 48 no. 16"
       ],
@@ -753,7 +791,7 @@
       ]
     },
     {
-      "id": 35,
+      "id": 37,
       "label": [
         "Die Geister am Mummelsee IHW 22 n. 47"
       ],
@@ -773,7 +811,7 @@
       ]
     },
     {
-      "id": 36,
+      "id": 38,
       "label": [
         "Die Geister haben's vernommen"
       ],
@@ -793,7 +831,7 @@
       ]
     },
     {
-      "id": 37,
+      "id": 39,
       "label": [
         "Die junge Nonne D.828"
       ],
@@ -811,7 +849,7 @@
       ]
     },
     {
-      "id": 38,
+      "id": 40,
       "label": [
         "Die Mainacht Op. 43 n.2"
       ],
@@ -829,7 +867,7 @@
       ]
     },
     {
-      "id": 39,
+      "id": 41,
       "label": [
         "Dunkel wie dunkel in Wald und in Feld Op. 43 n.1"
       ],
@@ -849,27 +887,7 @@
       ]
     },
     {
-      "id": 40,
-      "label": [
-        "Erlkönig D328"
-      ],
-      "duration": [
-        "4"
-      ],
-      "keyword": [
-        "natural spirit",
-        "chase",
-        "horse"
-      ],
-      "score": [
-        "https://imslp.org/wiki/Erlk%C3%B6nig%2C_D.328_(Schubert%2C_Franz)"
-      ],
-      "text": [
-        "https://www.lieder.net/lieder/get_text.html?TextId=5195"
-      ]
-    },
-    {
-      "id": 41,
+      "id": 42,
       "label": [
         "Feldeinsamkeit Op. 86 n. 2"
       ],
@@ -887,7 +905,7 @@
       ]
     },
     {
-      "id": 42,
+      "id": 43,
       "label": [
         "Frühlingsnacht Op. 39 no. 12"
       ],
@@ -907,7 +925,7 @@
       ]
     },
     {
-      "id": 43,
+      "id": 44,
       "label": [
         "Gedichte der Königin Maria Stuart Op.135 n.5"
       ],
@@ -925,7 +943,7 @@
       ]
     },
     {
-      "id": 44,
+      "id": 45,
       "label": [
         "Gretchen am Spinnrade D.118"
       ],
@@ -944,7 +962,7 @@
       ]
     },
     {
-      "id": 45,
+      "id": 46,
       "label": [
         "Hexenlied Op. 8 n.8"
       ],
@@ -966,7 +984,7 @@
       ]
     },
     {
-      "id": 46,
+      "id": 47,
       "label": [
         "Hochzeitslied D. 463"
       ],
@@ -984,7 +1002,7 @@
       ]
     },
     {
-      "id": 47,
+      "id": 48,
       "label": [
         "Ich stand in dunklen Traümen Op. 13 n.1"
       ],
@@ -1003,7 +1021,7 @@
       ]
     },
     {
-      "id": 48,
+      "id": 49,
       "label": [
         "In der Fremde Op. 39 n. 1"
       ],
@@ -1021,7 +1039,7 @@
       ]
     },
     {
-      "id": 49,
+      "id": 50,
       "label": [
         "In dunkler Nacht Op. 60 no. 1"
       ],
@@ -1037,24 +1055,6 @@
       ],
       "text": [
         "https://www.lieder.net/lieder/get_text.html?TextId=3944"
-      ]
-    },
-    {
-      "id": 50,
-      "label": [
-        "Liebst du um schönheit GMW 43"
-      ],
-      "duration": [
-        "3"
-      ],
-      "keyword": [
-        ""
-      ],
-      "score": [
-        "https://imslp.org/wiki/R%C3%BCckert_Lieder,_GMW_39-43_(Mahler,_Gustav)"
-      ],
-      "text": [
-        "https://www.lieder.net/lieder/get_text.html?TextId=14094"
       ]
     },
     {

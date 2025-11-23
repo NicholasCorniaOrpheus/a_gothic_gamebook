@@ -156,7 +156,7 @@ def generate_networkx_graph(agg_dict,output_filename,base_url="https://nicholasc
 
 
 # Return plots, first order statistics and some graph properties concerning connectivity, path length etc...
-def generate_graph_statistics(agg_graph,agg_dict,output_filename,scene_argument_timing=1,public_choice_timing=2):
+def generate_graph_statistics(agg_graph,agg_dict,output_filename,scene_argument_timing=2,public_choice_timing=2):
 
     statistics = {}
 
