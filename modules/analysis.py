@@ -179,6 +179,7 @@ def generate_graph_statistics(agg_graph,agg_dict,output_filename,scene_argument_
 
     # calculate occurrence, trajectories and timing for each path
     sum_length = 0
+    paths_length = []
     number_trajectories = 0
     timing_paths = 0
     occurrence_scene = []
@@ -219,6 +220,7 @@ def generate_graph_statistics(agg_graph,agg_dict,output_filename,scene_argument_
             current_node = random.choice(out_edges)[1]
             path.append(current_node)
         # process path
+        paths_length.append(len(path))
         sum_length += len(path)
         timing_paths += len(path)*scene_argument_timing
         number_trajectories +=1
@@ -234,6 +236,7 @@ def generate_graph_statistics(agg_graph,agg_dict,output_filename,scene_argument_
 
     statistics["paths"] = {}
     statistics["paths"]["average_length"]  = float(sum_length)/number_trajectories
+    statistics["paths"]["standard_deviation"] = stat.stdev(paths_length)
     statistics["paths"]["average_duration_performance"] = float(timing_paths)/number_trajectories
     statistics["paths"]["number_of_trajectories"] = number_trajectories
     statistics["paths"]["trajectories"] = all_paths

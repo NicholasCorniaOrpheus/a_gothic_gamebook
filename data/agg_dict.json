@@ -53,8 +53,7 @@
         "Falling unconscious from undead encounter - AGG 2025"
       ],
       "change_spotlight": [
-        "Falling asleep - AGG 2025",
-        "Staying awake - AGG 2025"
+        "Falling asleep - AGG 2025"
       ],
       "comes_from": [
         "Ancient grave - AGG 2025"
@@ -166,7 +165,7 @@
         "Falling asleep - AGG 2025"
       ],
       "change_spotlight": [
-        ""
+        "Danse macabre - AGG 2025"
       ],
       "comes_from": [
         "Taking a \"shortcut\" - AGG 2025"
@@ -408,7 +407,7 @@
         "Moonlight -  AGG 2025"
       ],
       "change_spotlight": [
-        ""
+        "Prayer of the Hermit - AGG 2025"
       ],
       "comes_from": [
         "Meeting the Witch - AGG 2025"
@@ -452,7 +451,7 @@
         "Lonely man is burying a coffin - AGG 2025"
       ],
       "change_spotlight": [
-        ""
+        "Staying awake - AGG 2025"
       ],
       "comes_from": [
         "Wandering through the ruins - AGG 2025"
@@ -604,7 +603,7 @@
         "Demons keep the lovers apart - AGG 2025"
       ],
       "change_spotlight": [
-        ""
+        "Telling own story with a song - AGG 2025"
       ],
       "comes_from": [
         "Abandoned horse in the forest - AGG 2025"
