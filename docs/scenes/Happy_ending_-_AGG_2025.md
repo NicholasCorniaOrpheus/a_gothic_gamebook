@@ -3,8 +3,6 @@ hide:
  
 - title
 
-- toc
-
 search:
 
  boost: 2

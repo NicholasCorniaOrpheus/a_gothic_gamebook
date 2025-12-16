@@ -82,7 +82,7 @@ def csvs_to_scenes_dictionary(
     return agg_dict
 
 
-def generate_networkx_graph(agg_dict,output_filename,base_url="https://nicholascorniaorpheus.github.io/a_gothic_gamebook/",value= 1,color="#a55faa"):
+def generate_networkx_graph(agg_dict,output_filename,base_url="https://nicholascorniaorpheus.github.io/a_gothic_gamebook",value= 1,color="#a55faa"):
     # initialize network
     net = nx.DiGraph()
     # add nodes based on scenes

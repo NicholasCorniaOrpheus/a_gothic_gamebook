@@ -21,7 +21,7 @@ agg_dictionary_filename = os.path.join("data", "agg_dict.json")
 agg_networkx_graph_filename = os.path.join("data", "agg_networkx.json")
 
 agg_storypath_graph_filename = os.path.join(
-    "overrides", "assets", "storypath", "agg_2025_storypath.html"
+    "docs", "storypath", "agg_2025_storypath.html"
 )
 
 agg_statistics_filename = os.path.join("data", "agg_statistics.json")

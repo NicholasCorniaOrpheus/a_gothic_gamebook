@@ -16,7 +16,6 @@ def generate_scenes_md(
             f"""---
 hide:\n 
 - title\n
-- toc\n
 search:\n
  boost: 2\n
 title: {scene["title"][0]}\n
@@ -137,7 +136,6 @@ def generate_songs_md(
             f"""---
 hide:\n 
 - title\n
-- toc\n
 search:\n
  boost: 2\n
 title: {song["label"][0]}\n

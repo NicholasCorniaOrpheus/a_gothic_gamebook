@@ -14,12 +14,12 @@
     "value": 2
   },
   "paths": {
-    "average_length": 9.831075,
-    "length_standard_deviation": 1.3797416194883787,
+    "average_length": 9.83495,
+    "length_standard_deviation": 1.386941450698151,
     "minimal_length": 8,
     "maximal_length": 13,
-    "average_duration_performance": 63.38465,
-    "duration_standard_deviation": 10.105795246042682,
+    "average_duration_performance": 63.4269,
+    "duration_standard_deviation": 10.110631138141194,
     "minimal_duration": 45.0,
     "maximal_duration": 86.0,
     "number_of_trajectories": 294,
@@ -3734,148 +3734,148 @@
       ]
     ],
     "scene_occurrence": {
-      "standard_deviation": 0.12292339761971412,
-      "average": 0.35110982142857144,
+      "standard_deviation": 0.12329866346947882,
+      "average": 0.35124821428571423,
       "nodes": [
         {
           "id": 0,
           "label": "Abandoned horse in the forest",
-          "occurrence": 0.459425
+          "occurrence": 0.46305
         },
         {
           "id": 1,
           "label": "Ancient grave",
-          "occurrence": 0.245025
+          "occurrence": 0.251575
         },
         {
           "id": 2,
           "label": "Danse macabre",
-          "occurrence": 0.3714
+          "occurrence": 0.3752
         },
         {
           "id": 3,
           "label": "Daydreaming about eternal love",
-          "occurrence": 0.34395
+          "occurrence": 0.347425
         },
         {
           "id": 4,
           "label": "Demonic deception",
-          "occurrence": 0.243125
+          "occurrence": 0.239375
         },
         {
           "id": 5,
           "label": "Demons keep the lovers apart",
-          "occurrence": 0.3127
+          "occurrence": 0.30755
         },
         {
           "id": 6,
           "label": "Despair and homesickness. Giving up their dreams",
-          "occurrence": 0.65605
+          "occurrence": 0.652575
         },
         {
           "id": 7,
           "label": "Elf of the woods creates charming illusion",
-          "occurrence": 0.253075
+          "occurrence": 0.250725
         },
         {
           "id": 8,
           "label": "Falling asleep",
-          "occurrence": 0.336125
+          "occurrence": 0.335725
         },
         {
           "id": 9,
           "label": "Falling unconscious from undead encounter",
-          "occurrence": 0.1233
+          "occurrence": 0.127325
         },
         {
           "id": 10,
           "label": "Following path and getting lost",
-          "occurrence": 0.2535
+          "occurrence": 0.246525
         },
         {
           "id": 11,
           "label": "Happy ending",
-          "occurrence": 0.4987
+          "occurrence": 0.5001
         },
         {
           "id": 12,
           "label": "Lonely man is burying a coffin",
-          "occurrence": 0.16775
+          "occurrence": 0.16495
         },
         {
           "id": 13,
           "label": "Meeting the Witch",
-          "occurrence": 0.4802
+          "occurrence": 0.48345
         },
         {
           "id": 14,
           "label": "Mistrust of animals",
-          "occurrence": 0.459425
+          "occurrence": 0.46305
         },
         {
           "id": 15,
           "label": "Moonlight",
-          "occurrence": 0.345375
+          "occurrence": 0.34625
         },
         {
           "id": 16,
           "label": "Prayer of the Hermit",
-          "occurrence": 0.44755
+          "occurrence": 0.4501
         },
         {
           "id": 17,
           "label": "Reaching higher ground during a storm",
-          "occurrence": 0.2535
+          "occurrence": 0.246525
         },
         {
           "id": 18,
           "label": "Recognition of the evil sorceress",
-          "occurrence": 0.237075
+          "occurrence": 0.244075
         },
         {
           "id": 19,
           "label": "Sad ending",
-          "occurrence": 0.5013
+          "occurrence": 0.4999
         },
         {
           "id": 20,
           "label": "Seek shelter in abandoned monastery",
-          "occurrence": 0.3323
+          "occurrence": 0.332275
         },
         {
           "id": 21,
           "label": "Staying awake",
-          "occurrence": 0.24995
+          "occurrence": 0.250725
         },
         {
           "id": 22,
           "label": "Taking a \"shortcut\"",
-          "occurrence": 0.253075
+          "occurrence": 0.250725
         },
         {
           "id": 23,
           "label": "Telling own story with a song",
-          "occurrence": 0.290625
+          "occurrence": 0.286225
         },
         {
           "id": 24,
           "label": "Wandering through the forest",
-          "occurrence": 0.506575
+          "occurrence": 0.49725
         },
         {
           "id": 25,
           "label": "Wandering through the ruins",
-          "occurrence": 0.493425
+          "occurrence": 0.50275
         },
         {
           "id": 26,
           "label": "Witch's love enchantment",
-          "occurrence": 0.341925
+          "occurrence": 0.3462
         },
         {
           "id": 27,
           "label": "Witches' ritual",
-          "occurrence": 0.37465
+          "occurrence": 0.37335
         }
       ]
     }

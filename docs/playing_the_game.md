@@ -43,8 +43,7 @@ Sasha is confronted with the primorial and misterious sorcery of the witch Ymir,
 
 The events of the last hours have challenged both body and spirit of our protagonists. Shall their love overcome their vicissitudes, or will they be parted forever? 
 
-### Graphical representation storypath
+### [Graphical representation of the storypath](https://nicholascorniaorpheus.github.io/a_gothic_gamebook/storypath/agg_2025_storypath.html)
 
-<iframe src="https://nicholascorniaorpheus.github.io/a_gothic_gamebook/assets/storypath/agg_2025_storypath.html" height="30%" width="100%" title="A Gothic Gamebook Storypaths"></iframe>
 
 
