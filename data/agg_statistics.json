@@ -14,12 +14,12 @@
     "value": 2
   },
   "paths": {
-    "average_length": 9.82315,
-    "length_standard_deviation": 1.3782675966731572,
+    "average_length": 9.831075,
+    "length_standard_deviation": 1.3797416194883787,
     "minimal_length": 8,
     "maximal_length": 13,
-    "average_duration_performance": 63.2984,
-    "duration_standard_deviation": 10.03045475990831,
+    "average_duration_performance": 63.38465,
+    "duration_standard_deviation": 10.105795246042682,
     "minimal_duration": 45.0,
     "maximal_duration": 86.0,
     "number_of_trajectories": 294,
@@ -3734,148 +3734,148 @@
       ]
     ],
     "scene_occurrence": {
-      "standard_deviation": 0.12278859484687858,
-      "average": 0.3508267857142857,
+      "standard_deviation": 0.12292339761971412,
+      "average": 0.35110982142857144,
       "nodes": [
         {
           "id": 0,
-          "label": "Abandoned horse in the forest - AGG 2025",
-          "occurrence": 0.45665
+          "label": "Abandoned horse in the forest",
+          "occurrence": 0.459425
         },
         {
           "id": 1,
-          "label": "Ancient grave - AGG 2025",
-          "occurrence": 0.246525
+          "label": "Ancient grave",
+          "occurrence": 0.245025
         },
         {
           "id": 2,
-          "label": "Danse macabre - AGG 2025",
-          "occurrence": 0.371
+          "label": "Danse macabre",
+          "occurrence": 0.3714
         },
         {
           "id": 3,
-          "label": "Daydreaming about eternal love - AGG 2025",
-          "occurrence": 0.346975
+          "label": "Daydreaming about eternal love",
+          "occurrence": 0.34395
         },
         {
           "id": 4,
-          "label": "Demonic deception - AGG 2025",
-          "occurrence": 0.2381
+          "label": "Demonic deception",
+          "occurrence": 0.243125
         },
         {
           "id": 5,
-          "label": "Demons keep the lovers apart - AGG 2025",
-          "occurrence": 0.30745
+          "label": "Demons keep the lovers apart",
+          "occurrence": 0.3127
         },
         {
           "id": 6,
-          "label": "Despair and homesickness. Giving up their dreams - AGG 2025",
-          "occurrence": 0.653025
+          "label": "Despair and homesickness. Giving up their dreams",
+          "occurrence": 0.65605
         },
         {
           "id": 7,
-          "label": "Elf of the woods creates charming illusion - AGG 2025",
-          "occurrence": 0.251625
+          "label": "Elf of the woods creates charming illusion",
+          "occurrence": 0.253075
         },
         {
           "id": 8,
-          "label": "Falling asleep - AGG 2025",
-          "occurrence": 0.333575
+          "label": "Falling asleep",
+          "occurrence": 0.336125
         },
         {
           "id": 9,
-          "label": "Falling unconscious from undead encounter - AGG 2025",
-          "occurrence": 0.123075
+          "label": "Falling unconscious from undead encounter",
+          "occurrence": 0.1233
         },
         {
           "id": 10,
-          "label": "Following path and getting lost - AGG 2025",
-          "occurrence": 0.250725
+          "label": "Following path and getting lost",
+          "occurrence": 0.2535
         },
         {
           "id": 11,
-          "label": "Happy ending - AGG 2025",
-          "occurrence": 0.5034
+          "label": "Happy ending",
+          "occurrence": 0.4987
         },
         {
           "id": 12,
-          "label": "Lonely man is burying a coffin - AGG 2025",
-          "occurrence": 0.167575
+          "label": "Lonely man is burying a coffin",
+          "occurrence": 0.16775
         },
         {
           "id": 13,
-          "label": "Meeting the Witch - AGG 2025",
-          "occurrence": 0.4774
+          "label": "Meeting the Witch",
+          "occurrence": 0.4802
         },
         {
           "id": 14,
-          "label": "Mistrust of animals - AGG 2025",
-          "occurrence": 0.45665
+          "label": "Mistrust of animals",
+          "occurrence": 0.459425
         },
         {
           "id": 15,
-          "label": "Moonlight -  AGG 2025",
-          "occurrence": 0.346525
+          "label": "Moonlight",
+          "occurrence": 0.345375
         },
         {
           "id": 16,
-          "label": "Prayer of the Hermit - AGG 2025",
-          "occurrence": 0.4517
+          "label": "Prayer of the Hermit",
+          "occurrence": 0.44755
         },
         {
           "id": 17,
-          "label": "Reaching higher ground during a storm - AGG 2025",
-          "occurrence": 0.250725
+          "label": "Reaching higher ground during a storm",
+          "occurrence": 0.2535
         },
         {
           "id": 18,
-          "label": "Recognition of the evil sorceress - AGG 2025",
-          "occurrence": 0.2393
+          "label": "Recognition of the evil sorceress",
+          "occurrence": 0.237075
         },
         {
           "id": 19,
-          "label": "Sad ending - AGG 2025",
-          "occurrence": 0.4966
+          "label": "Sad ending",
+          "occurrence": 0.5013
         },
         {
           "id": 20,
-          "label": "Seek shelter in abandoned monastery - AGG 2025",
-          "occurrence": 0.335225
+          "label": "Seek shelter in abandoned monastery",
+          "occurrence": 0.3323
         },
         {
           "id": 21,
-          "label": "Staying awake - AGG 2025",
-          "occurrence": 0.25235
+          "label": "Staying awake",
+          "occurrence": 0.24995
         },
         {
           "id": 22,
-          "label": "Taking a \"shortcut\" - AGG 2025",
-          "occurrence": 0.251625
+          "label": "Taking a \"shortcut\"",
+          "occurrence": 0.253075
         },
         {
           "id": 23,
-          "label": "Telling own story with a song - AGG 2025",
-          "occurrence": 0.291
+          "label": "Telling own story with a song",
+          "occurrence": 0.290625
         },
         {
           "id": 24,
-          "label": "Wandering through the forest - AGG 2025",
-          "occurrence": 0.50235
+          "label": "Wandering through the forest",
+          "occurrence": 0.506575
         },
         {
           "id": 25,
-          "label": "Wandering through the ruins - AGG 2025",
-          "occurrence": 0.49765
+          "label": "Wandering through the ruins",
+          "occurrence": 0.493425
         },
         {
           "id": 26,
-          "label": "Witch's love enchantment - AGG 2025",
-          "occurrence": 0.346025
+          "label": "Witch's love enchantment",
+          "occurrence": 0.341925
         },
         {
           "id": 27,
-          "label": "Witches' ritual - AGG 2025",
-          "occurrence": 0.378325
+          "label": "Witches' ritual",
+          "occurrence": 0.37465
         }
       ]
     }

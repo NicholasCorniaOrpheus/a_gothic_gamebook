@@ -27,8 +27,6 @@ _At the boundaries of the ancient forest, a lonely traveller advances on a desol
 
 ## Comes from
 
-[](https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scenes/.md)
-
 ***
 
 ## Choices

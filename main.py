@@ -26,7 +26,7 @@ agg_storypath_graph_filename = os.path.join(
 
 agg_statistics_filename = os.path.join("data", "agg_statistics.json")
 
-agg_music_markdown_directory = os.path.join("docs", "music")
+agg_songs_markdown_directory = os.path.join("docs", "songs")
 
 agg_scenes_markdown_directory = os.path.join("docs", "scenes")
 
@@ -46,6 +46,8 @@ agg_dict = csvs_to_scenes_dictionary(
 print("Generate Markdown pages for scenes and songs...")
 
 generate_scenes_md(agg_dict, agg_scenes_markdown_directory, base_url)
+
+generate_songs_md(agg_dict, agg_songs_markdown_directory, base_url)
 
 print("Generate storypath graph and statistics...")
 

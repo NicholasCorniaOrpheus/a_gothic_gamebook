@@ -15,3 +15,5 @@ In _A Gothic Gamebook_ we have selected songs from the German musical tradition 
 
 Contrary to the fantastic literature and gamebook genres, where the story is usually told from the perspective of a single main character, we have introduced the possibility for the audience to switch the narrative between two characters. By turning the spotlight on a different character, the audience takes a more directive stance rather than a first-person immersive one. Furthermore, the ability to jump from a storyline to another enriches the complexity of the story graph, incresing significantly the space of possibilities while keeping the number of scenes reasonably small.
 
+This musical game aims to brigde the divide between audience and performers, providing a space for co-creation and distributed authorship for canonical Western classical music repertoire.
+

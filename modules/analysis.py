@@ -45,6 +45,7 @@ def csvs_to_scenes_dictionary(
                 else: # singular case
                     agg_dict["scenes"][-1][prop] = [scene[key].replace("[[","").replace("]]","")]
 
+
     for music in music_dict:
         agg_dict["music"].append({"id": i })
         i += 1
@@ -67,6 +68,13 @@ def csvs_to_scenes_dictionary(
                 else: # singular case
                     agg_dict["music"][-1][prop] = [music[key].replace("[[","").replace("]]","")]
 
+    # remove empty properties
+    for category in agg_dict.keys():
+        for item in agg_dict[category]:
+            for key in item.keys():
+                if key != "id":
+                    if item[key][0] == "":
+                        item[key].pop(0)
 
     print(f"Exporting generated AGG dictionary. \n Number of scenes: {len(agg_dict["scenes"])} \n Number of musical pieces: {len(agg_dict["music"])}")
     dict2json(agg_dict,output_filename)
@@ -74,12 +82,12 @@ def csvs_to_scenes_dictionary(
     return agg_dict
 
 
-def generate_networkx_graph(agg_dict,output_filename,base_url="https://nicholascorniaorpheus.github.io/a_gothic_gamebook/",value= 100,color="#a55faa"):
+def generate_networkx_graph(agg_dict,output_filename,base_url="https://nicholascorniaorpheus.github.io/a_gothic_gamebook/",value= 1,color="#a55faa"):
     # initialize network
     net = nx.DiGraph()
     # add nodes based on scenes
     for scene in agg_dict["scenes"]:
-        image = f"""<img src="{base_url}scene/{scene["label"][0]}.webp" width="250" height="200">"""
+        #image = f"""<img src="{base_url}scene/{scene["label"][0]}.webp" width="250" height="200">"""
         # merging potential multiple musical pieces in unique string
         # get music information
         music_list = list(filter(lambda x: x["label"][0] in scene["music"], agg_dict["music"]))
@@ -103,19 +111,40 @@ def generate_networkx_graph(agg_dict,output_filename,base_url="https://nicholasc
             <p>"""
                 + scene["description"][0]
                 + "Musical pieces: " + music_string +"""</p>"""
-                + image +
+                # + image + 
                 """
             </body>
             """
             )
-        net.add_node(scene["id"],
-                    label = scene["label"][0],
-                    color= color,
-                    value= value,
-                    title = title,
-                    music = music_list,
-                    public_choice = public_choice
-                    )
+        if (len(scene["goes_to"])+len(scene["change_spotlight"])) == 0: # add sink
+            net.add_node(scene["id"],
+                            label = scene["title"][0],
+                            color= "#c14834",
+                            value= value*10,
+                            title = title,
+                            music = music_list,
+                            public_choice = public_choice
+                            )
+
+        elif len(scene["comes_from"]) == 0: # add source
+            net.add_node(scene["id"],
+                        label = scene["title"][0],
+                        color= "#bfe0db",
+                        value= value*10,
+                        title = title,
+                        music = music_list,
+                        public_choice = public_choice
+                        )
+
+        else: # normal case
+            net.add_node(scene["id"],
+                        label = scene["title"][0],
+                        color= color,
+                        value= value,
+                        title = title,
+                        music = music_list,
+                        public_choice = public_choice
+                        )
 
     # add edges
     for scene in agg_dict["scenes"]:
@@ -130,7 +159,7 @@ def generate_networkx_graph(agg_dict,output_filename,base_url="https://nicholasc
                         print(scene["id"])
                         print(query_node)
                     # add edge using net.add_edge
-                    net.add_edge(scene["id"],query_node["id"],weight=10)
+                    net.add_edge(scene["id"],query_node["id"],weight=5)
         except KeyError:
             pass 
         # add special paths by changing spotlight
@@ -183,7 +212,7 @@ def pyvis_visualization(net,net_filename,select_menu=False,toggle_physics=False,
                         },
                         "physics": {
                             "forceAtlas2Based": {
-                            "gravitationalConstant": -20000000000,
+                            "gravitationalConstant": -200000000000000,
                             "springLength": 10,
                             "springConstant": 0.0010,
                             "avoidOverlap": 1.0,

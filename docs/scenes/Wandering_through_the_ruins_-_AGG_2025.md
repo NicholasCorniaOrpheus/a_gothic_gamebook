@@ -27,8 +27,6 @@ _Rune arrives at an abandoned summer estate, a desolate castle once the splendor
 
 ## Comes from
 
-[](https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scenes/.md)
-
 ***
 
 ## Choices

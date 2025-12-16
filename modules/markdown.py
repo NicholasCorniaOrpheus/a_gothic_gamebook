@@ -45,7 +45,7 @@ tags: {",".join(scene["keyword"])}\n
             )
         doc.add_horizontal_rule()
         # Add goes_to plus questions
-        if scene["goes_to_A"][0] != "":
+        if len(scene["goes_to_A"]) > 0:
             doc.add_heading("Choices", 2)
             table_header = ["Option", "Question", "Goes to"]
             table_align = [
@@ -70,7 +70,8 @@ tags: {",".join(scene["keyword"])}\n
                     ),
                 ]
             )
-            if scene["goes_to_B"][0] != "":
+
+            if len(scene["goes_to_B"]) > 0:
                 table_rows.append(
                     [
                         "B",
@@ -87,7 +88,7 @@ tags: {",".join(scene["keyword"])}\n
                         ),
                     ]
                 )
-                if scene["goes_to_C"][0] != "":
+                if len(scene["goes_to_C"]) > 0:
                     table_rows.append(
                         [
                             "C",
@@ -123,3 +124,67 @@ tags: {",".join(scene["keyword"])}\n
         # save .md file
         html_title = scene["label"][0].replace(" ", "_")
         doc.dump(html_title, directory=agg_scenes_markdown_directory)
+
+
+def generate_songs_md(
+    agg_dict, agg_songs_markdown_directory, base_url, file_mark=" - AGG 2025"
+):
+    # initialize new Markdown document
+    for song in agg_dict["music"]:
+        doc = snakemd.Document()
+        # add YAML metadata
+        doc.add_raw(
+            f"""---
+hide:\n 
+- title\n
+- toc\n
+search:\n
+ boost: 2\n
+title: {song["label"][0]}\n
+tags: {",".join(song["keyword"])}\n 
+---
+
+"""
+        )
+
+        # Add title
+        doc.add_heading(song["label"][0], 1)
+
+        # Add composer
+        doc.add_heading("Composer", 2)
+        doc.add_paragraph(song["composer"][0])
+        doc.add_horizontal_rule()
+        # Add composer
+        doc.add_heading("Poet", 2)
+        doc.add_paragraph(song["poet"][0])
+        doc.add_horizontal_rule()
+        # Add duration
+        doc.add_heading("Duration", 2)
+        doc.add_paragraph(song["duration"][0] + " minutes")
+        doc.add_horizontal_rule()
+
+        # Add score
+        doc.add_heading("Score", 2)
+        doc.add_paragraph(str(snakemd.Inline("IMSLP").link(song["score"][0])))
+        doc.add_horizontal_rule()
+        # Add lyrics
+        doc.add_heading("Lyrics", 2)
+        if "oxfordsong.org" in song["lyrics"][0]:
+            doc.add_paragraph(
+                str(
+                    snakemd.Inline("Oxford International Song Festival").link(
+                        song["lyrics"][0]
+                    )
+                )
+            )
+        elif "lieder.net" in song["lyrics"][0]:
+            doc.add_paragraph(
+                str(snakemd.Inline("The LiederNet Archive").link(song["lyrics"][0]))
+            )
+        else:
+            pass
+        doc.add_horizontal_rule()
+
+        # save .md file
+        html_title = song["label"][0].replace(" ", "_")
+        doc.dump(html_title, directory=agg_songs_markdown_directory)
