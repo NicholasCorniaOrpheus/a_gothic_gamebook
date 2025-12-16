@@ -3,6 +3,7 @@ import sys
 import networkx as nx
 import statistics as stat
 import random
+from pyvis.network import Network
 
 sys.path.append("./modules")
 from utilities import *
@@ -95,12 +96,12 @@ def generate_networkx_graph(agg_dict,output_filename,base_url="https://nicholasc
                 """
             <body>
             <h3> <a href='""" 
-                + base_url + """scene/""" + scene["label"][0]
+                + base_url + """/scenes/""" + scene["label"][0].replace(" ","_")+".md"
                 + """'>"""
-                + scene["label"][0]
+                + scene["title"][0]
                 + """</a></h3>
             <p>"""
-                + scene["argument"][0]
+                + scene["description"][0]
                 + "Musical pieces: " + music_string +"""</p>"""
                 + image +
                 """
@@ -154,6 +155,52 @@ def generate_networkx_graph(agg_dict,output_filename,base_url="https://nicholasc
 
     return net
 
+def pyvis_visualization(net,net_filename,select_menu=False,toggle_physics=False,filter_menu=False):
+    layout = nx.spring_layout(net)
+    visualization=Network(height="1200px", width="1200px", bgcolor="#1C1A19", font_color="#f8f7f4", directed=True,select_menu=select_menu,filter_menu=filter_menu,notebook=False)
+    visualization.barnes_hut()
+    visualization.from_nx(net)
+    visualization.toggle_physics(toggle_physics)
+    #visualization.show_buttons(filter_=['nodes','physics'])
+    #visualization.show_buttons(filter_=['physics'])
+    options = """
+                var options = {
+                        "configure": {
+                            "enabled": false
+                                },
+                        "edges": {
+                            "color": {
+                            "inherit": false
+                            },
+                        "smooth": false
+                        },
+                        "nodes": {
+                            "font": {
+                                "size": 14,
+                                "align": "center",
+                                "face": "sans"
+                            }
+                        },
+                        "physics": {
+                            "forceAtlas2Based": {
+                            "gravitationalConstant": -20000000000,
+                            "springLength": 10,
+                            "springConstant": 0.0010,
+                            "avoidOverlap": 1.0,
+                            "damping":0
+
+                                },
+                        "maxVelocity": 1,
+                        "minVelocity": 0.25
+                            }
+                        }
+                    """
+    visualization.set_options(options)
+    #visualization.show(net_filename+'.html',notebook=False)
+    #input()
+    #visualization.write_html(name='example.html',notebook=False,open_browser=False)
+    visualization.save_graph(net_filename)
+
 
 # Return plots, first order statistics and some graph properties concerning connectivity, path length etc...
 def generate_graph_statistics(agg_graph,agg_dict,output_filename,scene_argument_timing=2,public_choice_timing=2):
@@ -182,6 +229,7 @@ def generate_graph_statistics(agg_graph,agg_dict,output_filename,scene_argument_
     paths_length = []
     number_trajectories = 0
     timing_paths = 0
+    paths_timing = []
     occurrence_scene = []
     # record occurrence for each node:
     for node in agg_graph.nodes():
@@ -190,28 +238,15 @@ def generate_graph_statistics(agg_graph,agg_dict,output_filename,scene_argument_
         except KeyError:
             print(agg_graph.nodes[node])
 
-    """ Paths occurrence
+    # Paths occurrence
     for source_trajectories in all_paths:
         for path in source_trajectories:
-            sum_length += len(path)
             number_trajectories +=1
-            timing_paths += len(path)*scene_argument_timing
-            # count public_choices moments
-            for node in path:
-                #print(f"Current node: {node}")
-                # calculate occurrence
-                occurrence_scene[node]["occurrence"] += 1
-                #print(occurrence_scene[node])
-                # add timing for choices and songs
-                if agg_graph.nodes[node]["public_choice"]:
-                    timing_paths += public_choice_timing
-                for song in agg_graph.nodes[node]["music"]:
-                    timing_paths += float(song["duration"][0])
 
-    """
+
     # Montecarlo occurrence
 
-    n = 30000
+    n = 40000
     for i in range(n):
         current_node = random.choice(sources)
         path = [current_node]
@@ -223,27 +258,33 @@ def generate_graph_statistics(agg_graph,agg_dict,output_filename,scene_argument_
         paths_length.append(len(path))
         sum_length += len(path)
         timing_paths += len(path)*scene_argument_timing
-        number_trajectories +=1
+        paths_timing.append(len(path)*scene_argument_timing)
         for node in path:
             # calculate occurrence
             occurrence_scene[node]["occurrence"] += 1
             # add timing for choices and songs
             if agg_graph.nodes[node]["public_choice"]:
                 timing_paths += public_choice_timing
+                paths_timing[-1] += public_choice_timing
             for song in agg_graph.nodes[node]["music"]:
                 timing_paths += float(song["duration"][0])
+                paths_timing[-1] += float(song["duration"][0])
 
 
     statistics["paths"] = {}
-    statistics["paths"]["average_length"]  = float(sum_length)/number_trajectories
-    statistics["paths"]["standard_deviation"] = stat.stdev(paths_length)
-    statistics["paths"]["average_duration_performance"] = float(timing_paths)/number_trajectories
+    statistics["paths"]["average_length"]  = float(sum_length)/n
+    statistics["paths"]["length_standard_deviation"] = stat.stdev(paths_length)
+    statistics["paths"]["minimal_length"] = min(paths_length)
+    statistics["paths"]["maximal_length"] = max(paths_length)
+    statistics["paths"]["average_duration_performance"] = float(timing_paths)/n
+    statistics["paths"]["duration_standard_deviation"] = stat.stdev(paths_timing)
+    statistics["paths"]["minimal_duration"] = min(paths_timing)
+    statistics["paths"]["maximal_duration"] = max(paths_timing)
     statistics["paths"]["number_of_trajectories"] = number_trajectories
     statistics["paths"]["trajectories"] = all_paths
 
     for node in occurrence_scene:
-        node["occurrence"] = float(node["occurrence"])/number_trajectories
-
+        node["occurrence"] = float(node["occurrence"])/n
     statistics["paths"]["scene_occurrence"] = {}
     occurrence_list = list(node["occurrence"] for node in occurrence_scene)
     statistics["paths"]["scene_occurrence"]["standard_deviation"] = stat.stdev(occurrence_list)

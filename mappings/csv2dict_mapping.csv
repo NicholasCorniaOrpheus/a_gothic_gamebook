@@ -1,11 +1,20 @@
 csv_field,property,separator
 file name,label,false
+title,title,false
 goes_to,goes_to,true
 comes_from,comes_from,true
 music,music,true
 timing,duration,false
 keyword,keyword,true
 score,score,false
-lyrics,text,false
+lyrics,lyrics,false
+composer,composer,false
+poet,poet,false
 change_spotlight,change_spotlight,true
-argument,argument,false
+argument,description,false
+goes_to_A,goes_to_A,false
+goes_to_B,goes_to_B,false
+goes_to_C,goes_to_C,false
+question_A,question_A,false
+question_B,question_B,false
+question_C,question_C,false

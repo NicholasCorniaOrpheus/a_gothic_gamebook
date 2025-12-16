@@ -7,7 +7,7 @@
       "label": "Abandoned horse in the forest - AGG 2025",
       "color": "#a55faa",
       "value": 100,
-      "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Abandoned horse in the forest - AGG 2025'>Abandoned horse in the forest - AGG 2025</a></h3>\n            <p>Musical pieces: Erlkönig D328</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Abandoned horse in the forest - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
+      "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook//scenes/Abandoned_horse_in_the_forest_-_AGG_2025.md'>Abandoned horse in the forest</a></h3>\n            <p>Arriving at a clearing, the feeble light of dawn reveals a noble steed. Although richly bridled, there is no trace of a rider. Perhaps the lonely rider has lost his way, or was captured by the king of elves? Carefully approaching the horse, Sasha is unnerved by the distant sound of singing female voices. Musical pieces: Erlkönig D328</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Abandoned horse in the forest - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
       "music": [
         {
           "id": 29,
@@ -17,16 +17,23 @@
           "duration": [
             "4"
           ],
+          "composer": [
+            "Franz Schubert"
+          ],
+          "poet": [
+            "Johann Wolfgang von Goethe"
+          ],
           "keyword": [
             "natural spirit",
             "chase",
-            "horse"
+            "horse",
+            "elf"
           ],
           "score": [
             "https://imslp.org/wiki/Erlk%C3%B6nig%2C_D.328_(Schubert%2C_Franz)"
           ],
-          "text": [
-            "https://www.lieder.net/lieder/get_text.html?TextId=5195"
+          "lyrics": [
+            "https://oxfordsong.org/song/erlk%C3%B6nig"
           ]
         }
       ],
@@ -37,7 +44,7 @@
       "label": "Ancient grave - AGG 2025",
       "color": "#a55faa",
       "value": 100,
-      "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Ancient grave - AGG 2025'>Ancient grave - AGG 2025</a></h3>\n            <p>Musical pieces: Auf einer Burg Op. 39 n. 7</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Ancient grave - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
+      "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook//scenes/Ancient_grave_-_AGG_2025.md'>Ancient grave</a></h3>\n            <p>Wandering through the graveyard, a lone sepulchre draws the attention of our character. A decayed statue depicting a knight in armour has suffered centuries of erosion; a shadow of its former glory. The epitaph on the tomb tells the tale of a nobleman of old, tragically departing from our world on the day of his marriage.Musical pieces: Auf einer Burg Op. 39 n. 7</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Ancient grave - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
       "music": [
         {
           "id": 28,
@@ -47,6 +54,12 @@
           "duration": [
             "3"
           ],
+          "composer": [
+            "Robert Schumann"
+          ],
+          "poet": [
+            "Joseph von Eichendorff"
+          ],
           "keyword": [
             "knight",
             "castle",
@@ -55,8 +68,8 @@
           "score": [
             "https://imslp.org/wiki/Liederkreis,_Op.39_(Schumann,_Robert)"
           ],
-          "text": [
-            "https://www.lieder.net/lieder/get_text.html?TextId=5129"
+          "lyrics": [
+            "https://oxfordsong.org/song/auf-einer-burg"
           ]
         }
       ],
@@ -67,15 +80,21 @@
       "label": "Danse macabre - AGG 2025",
       "color": "#a55faa",
       "value": 100,
-      "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Danse macabre - AGG 2025'>Danse macabre - AGG 2025</a></h3>\n            <p>The character witnesses a group of ghosts carrying a grave into a lake.Musical pieces: Die Geister am Mummelsee IHW 22 n. 47</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Danse macabre - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
+      "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook//scenes/Danse_macabre_-_AGG_2025.md'>Danse macabre</a></h3>\n            <p>The character witnesses a group of ghosts carrying a grave into a lake.Musical pieces: Die Geister am Mummelsee IHW 22 n. 47</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Danse macabre - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
       "music": [
         {
-          "id": 37,
+          "id": 38,
           "label": [
             "Die Geister am Mummelsee IHW 22 n. 47"
           ],
           "duration": [
             "4"
+          ],
+          "composer": [
+            "Hugo Wolf"
+          ],
+          "poet": [
+            "Eduard Mörike"
           ],
           "keyword": [
             "dance macabre",
@@ -85,7 +104,7 @@
           "score": [
             "https://imslp.org/wiki/M%C3%B6rike-Lieder_(Wolf%2C_Hugo)"
           ],
-          "text": [
+          "lyrics": [
             "https://oxfordsong.org/song/die-geister-am-mummelsee"
           ]
         }
@@ -97,25 +116,32 @@
       "label": "Daydreaming about eternal love - AGG 2025",
       "color": "#a55faa",
       "value": 100,
-      "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Daydreaming about eternal love - AGG 2025'>Daydreaming about eternal love - AGG 2025</a></h3>\n            <p>The character is convinced that their love is requited. Spring has suddenly come to support their fantasy. But is this just a dream?Musical pieces: Frühlingsnacht Op. 39 no. 12</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Daydreaming about eternal love - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
+      "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook//scenes/Daydreaming_about_eternal_love_-_AGG_2025.md'>Daydreaming about eternal love</a></h3>\n            <p>Cheerful songbirds and blooming flowers appear. The appearance of spring brings comfort and hope to our character. But are the comforts of nature and the dreams of the beloved only an illusion?Musical pieces: Frühlingsnacht Op. 39 no. 12</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Daydreaming about eternal love - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
       "music": [
         {
-          "id": 43,
+          "id": 44,
           "label": [
             "Frühlingsnacht Op. 39 no. 12"
           ],
           "duration": [
             "2"
           ],
+          "composer": [
+            "Robert Schumann"
+          ],
+          "poet": [
+            "Joseph von Eichendorff"
+          ],
           "keyword": [
             "happiness",
             "joy",
-            "Spring"
+            "Spring",
+            "destiny"
           ],
           "score": [
             "https://imslp.org/wiki/Liederkreis,_Op.39_(Schumann,_Robert)"
           ],
-          "text": [
+          "lyrics": [
             "https://www.lieder.net/lieder/get_text.html?TextId=5195"
           ]
         }
@@ -127,23 +153,31 @@
       "label": "Demonic deception - AGG 2025",
       "color": "#a55faa",
       "value": 100,
-      "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Demonic deception - AGG 2025'>Demonic deception - AGG 2025</a></h3>\n            <p>Musical pieces: Unbewegte laue Luft Op. 57 n.8</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Demonic deception - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
+      "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook//scenes/Demonic_deception_-_AGG_2025.md'>Demonic deception</a></h3>\n            <p>The strange bird disappears from Sasha’s view. Suddenly, a hooded figure appears from the point at which the bird vanished. The wanderer is revealed as Ymir, a lady with pale skin and untamed scarlet curls. Musical pieces: Unbewegte laue Luft Op. 57 n.8</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Demonic deception - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
       "music": [
         {
-          "id": 55,
+          "id": 56,
           "label": [
             "Unbewegte laue Luft Op. 57 n.8"
           ],
           "duration": [
             "4"
           ],
+          "composer": [
+            "Johannes Brahms"
+          ],
+          "poet": [
+            "Georg Friedrich Daumer"
+          ],
           "keyword": [
-            ""
+            "love",
+            "sky",
+            "serenade"
           ],
           "score": [
             "https://imslp.org/wiki/8_Lieder_and_Songs%2C_Op.57_(Brahms%2C_Johannes)"
           ],
-          "text": [
+          "lyrics": [
             "https://www.lieder.net/lieder/get_text.html?TextId=4257"
           ]
         }
@@ -155,15 +189,21 @@
       "label": "Demons keep the lovers apart - AGG 2025",
       "color": "#a55faa",
       "value": 100,
-      "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Demons keep the lovers apart - AGG 2025'>Demons keep the lovers apart - AGG 2025</a></h3>\n            <p>After the evil pact, the lover despairs trying to reach their loved oneMusical pieces: Die Geister haben's vernommen, Der Tod und das Mädchen D.531</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Demons keep the lovers apart - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
+      "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook//scenes/Demons_keep_the_lovers_apart_-_AGG_2025.md'>Demons keep the lovers apart</a></h3>\n            <p>The charming figure of Ymir leads Sasha to a ruined castle in the woods. As the gates of the castle open, a beautiful, brightly-lit garden is revealed. Fair ladies and courtiers of a forgotten time entice Sasha to join them. Sasha forgets all of their worries and the memory of their beloved Rune is merely a distant echo. Musical pieces: Die Geister haben's vernommen, Der Tod und das Mädchen D.531</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Demons keep the lovers apart - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
       "music": [
         {
-          "id": 34,
+          "id": 35,
           "label": [
             "Der Tod und das Mädchen D.531"
           ],
           "duration": [
             "3"
+          ],
+          "composer": [
+            "Franz Schubert"
+          ],
+          "poet": [
+            "Joseph von Spaun"
           ],
           "keyword": [
             "death",
@@ -172,17 +212,23 @@
           "score": [
             "https://imslp.org/wiki/Der_Tod_und_das_M%C3%A4dchen,_D.531_(Schubert,_Franz)"
           ],
-          "text": [
+          "lyrics": [
             "https://www.lieder.net/lieder/get_text.html?TextId=3855&RF=1"
           ]
         },
         {
-          "id": 38,
+          "id": 39,
           "label": [
             "Die Geister haben's vernommen"
           ],
           "duration": [
             "3"
+          ],
+          "composer": [
+            "Johanna Kinkel"
+          ],
+          "poet": [
+            "Heinrich Heine"
           ],
           "keyword": [
             "magic",
@@ -192,7 +238,7 @@
           "score": [
             "https://imslp.org/wiki/6_Lieder%2C_Op.6_(Kinkel%2C_Johanna)"
           ],
-          "text": [
+          "lyrics": [
             "https://www.lieder.net/lieder/get_text.html?TextId=105796"
           ]
         }
@@ -204,34 +250,45 @@
       "label": "Despair and homesickness. Giving up their dreams - AGG 2025",
       "color": "#a55faa",
       "value": 100,
-      "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Despair and homesickness. Giving up their dreams - AGG 2025'>Despair and homesickness. Giving up their dreams - AGG 2025</a></h3>\n            <p>The character's morale has reached the bottom. They are longing for home, giving up their dreams of happiness.Musical pieces: In der Fremde Op. 39 n. 1, Ich stand in dunklen Traümen Op. 13 n.1</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Despair and homesickness. Giving up their dreams - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
+      "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook//scenes/Despair_and_homesickness._Giving_up_their_dreams_-_AGG_2025.md'>Despair and homesickness. Giving up their dreams</a></h3>\n            <p>After the horrifying experiences of the last hours, our character has despaired completely. Returning to the awful circumstances at home seems a better  choice than remaining here. Musical pieces: In der Fremde Op. 39 n. 1, Ich stand in dunklen Traümen Op. 13 n.1</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Despair and homesickness. Giving up their dreams - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
       "music": [
         {
-          "id": 48,
+          "id": 49,
           "label": [
             "Ich stand in dunklen Traümen Op. 13 n.1"
           ],
           "duration": [
             "2"
           ],
+          "composer": [
+            "Clara Schumann"
+          ],
+          "poet": [
+            "Heinrich Heine"
+          ],
           "keyword": [
-            "lost",
             "dream"
           ],
           "score": [
             "https://imslp.org/wiki/6_Lieder,_Op.13_(Schumann,_Clara)"
           ],
-          "text": [
-            "https://www.lieder.net/lieder/get_text.html?TextId=17767&SettingId=19788"
+          "lyrics": [
+            "https://oxfordsong.org/song/ihr-bildnis"
           ]
         },
         {
-          "id": 49,
+          "id": 50,
           "label": [
             "In der Fremde Op. 39 n. 1"
           ],
           "duration": [
             "2"
+          ],
+          "composer": [
+            "Robert Schumann"
+          ],
+          "poet": [
+            "Joseph von Eichendorff"
           ],
           "keyword": [
             ""
@@ -239,8 +296,8 @@
           "score": [
             "https://imslp.org/wiki/Liederkreis,_Op.39_(Schumann,_Robert)"
           ],
-          "text": [
-            "https://www.lieder.net/lieder/get_text.html?TextId=5174"
+          "lyrics": [
+            "https://oxfordsong.org/song/in-der-fremde-2"
           ]
         }
       ],
@@ -251,15 +308,21 @@
       "label": "Elf of the woods creates charming illusion - AGG 2025",
       "color": "#a55faa",
       "value": 100,
-      "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Elf of the woods creates charming illusion - AGG 2025'>Elf of the woods creates charming illusion - AGG 2025</a></h3>\n            <p>The will and vital energy of the character fall apart due to the natural spirit's charms, loosing consciousness.Musical pieces: Bedeckt mich mit Blumen IHW 32 n. 36</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Elf of the woods creates charming illusion - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
+      "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook//scenes/Elf_of_the_woods_creates_charming_illusion_-_AGG_2025.md'>Elf of the woods creates charming illusion</a></h3>\n            <p>Walking through the thick undergrowth, Sasha hears the sound of a small brook. While slaking their thirst, Sasha notices the ethereal sounds of an ancient song. The indistinguishable words of the song lead Sasha to a state of enchantment. While losing consciousness, a fairylike creature emerges from the water. Musical pieces: Bedeckt mich mit Blumen IHW 32 n. 36</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Elf of the woods creates charming illusion - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
       "music": [
         {
-          "id": 31,
+          "id": 32,
           "label": [
             "Bedeckt mich mit Blumen IHW 32 n. 36"
           ],
           "duration": [
             "3"
+          ],
+          "composer": [
+            "Hugo Wolf"
+          ],
+          "poet": [
+            "Emanuel Geibel"
           ],
           "keyword": [
             "death",
@@ -269,8 +332,8 @@
           "score": [
             "https://imslp.org/wiki/Spanisches_Liederbuch_(Wolf,_Hugo)"
           ],
-          "text": [
-            "https://www.lieder.net/lieder/get_text.html?TextId=18378&RF=1"
+          "lyrics": [
+            "https://oxfordsong.org/song/bedeckt-mich-mit-blumen"
           ]
         }
       ],
@@ -281,15 +344,21 @@
       "label": "Falling asleep - AGG 2025",
       "color": "#a55faa",
       "value": 100,
-      "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Falling asleep - AGG 2025'>Falling asleep - AGG 2025</a></h3>\n            <p>Either the male character chooses to fall asleep and dreams of supernatural things, or he decides to stay awake... and have supernatural encounters.Musical pieces: Feldeinsamkeit Op. 86 n. 2</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Falling asleep - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
+      "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook//scenes/Falling_asleep_-_AGG_2025.md'>Falling asleep</a></h3>\n            <p>The realm of consciousness is succeeded by the dimension of dreams. Exhausted, Sasha falls into deep sleep. Lying on a carpet of fallen leaves, Sasha is at the mercy of the elements and any hostile beings who may appear. Musical pieces: Feldeinsamkeit Op. 86 n. 2</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Falling asleep - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
       "music": [
         {
-          "id": 42,
+          "id": 43,
           "label": [
             "Feldeinsamkeit Op. 86 n. 2"
           ],
           "duration": [
             "4"
+          ],
+          "composer": [
+            "Johannes Brahms"
+          ],
+          "poet": [
+            "Hermann Allmers"
           ],
           "keyword": [
             ""
@@ -297,7 +366,7 @@
           "score": [
             "https://imslp.org/wiki/6_Lieder,_Op.86_(Brahms,_Johannes)"
           ],
-          "text": [
+          "lyrics": [
             "https://oxfordsong.org/song/feldeinsamkeit-2"
           ]
         }
@@ -309,15 +378,21 @@
       "label": "Falling unconscious from undead encounter - AGG 2025",
       "color": "#a55faa",
       "value": 100,
-      "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Falling unconscious from undead encounter - AGG 2025'>Falling unconscious from undead encounter - AGG 2025</a></h3>\n            <p>The character encounters vis-à-vis a skeletal undead, which attracts them without allowing any escape. The character feels their life being drained away and loses consciousness.Musical pieces: Totengräbers Heimweh D. 842</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Falling unconscious from undead encounter - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
+      "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook//scenes/Falling_unconscious_from_undead_encounter_-_AGG_2025.md'>Falling unconscious from undead encounter</a></h3>\n            <p>The confrontation with the ancient spirit of the fallen knight tests Rune’s nerves and faith. Visions of their own sorrows and vicissitudes resonate with the knight’s tragic fate. They are joined by other spirits, who dance around them in mockery and slowly begin to drain their life-force. Musical pieces: Totengräbers Heimweh D. 842</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Falling unconscious from undead encounter - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
       "music": [
         {
-          "id": 54,
+          "id": 55,
           "label": [
             "Totengräbers Heimweh D. 842"
           ],
           "duration": [
             "6"
+          ],
+          "composer": [
+            "Franz Schubert"
+          ],
+          "poet": [
+            "Jacob Nicolaus Craigher de Jachelutta"
           ],
           "keyword": [
             "death",
@@ -328,7 +403,7 @@
           "score": [
             "https://imslp.org/wiki/Totengr%C3%A4bers_Heimweh,_D.842_(Schubert,_Franz)"
           ],
-          "text": [
+          "lyrics": [
             "https://oxfordsong.org/song/totengr%C3%A4bers-heimweh"
           ]
         }
@@ -340,26 +415,33 @@
       "label": "Following path and getting lost - AGG 2025",
       "color": "#a55faa",
       "value": 100,
-      "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Following path and getting lost - AGG 2025'>Following path and getting lost - AGG 2025</a></h3>\n            <p>The character tries to follow a small path through the forest to reach their destination. They are menaced by despair and horror while traversing the dark forest...Musical pieces: Zwielicht Op. 39 n.10</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Following path and getting lost - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
+      "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook//scenes/Following_path_and_getting_lost_-_AGG_2025.md'>Following path and getting lost</a></h3>\n            <p>Sasha follows the path through the gloomy forest. Every shadow or sound is turned into an ill omen of terror by the impenetrable darkness of the night. But love drives the steps of our character forward, surmounting their ancestral fear.Musical pieces: Zwielicht Op. 39 n.10</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Following path and getting lost - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
       "music": [
         {
-          "id": 62,
+          "id": 63,
           "label": [
             "Zwielicht Op. 39 n.10"
           ],
           "duration": [
             "3"
           ],
+          "composer": [
+            "Robert Schumann"
+          ],
+          "poet": [
+            "Joseph von Eichendorff"
+          ],
           "keyword": [
             "hunting",
             "night",
             "forest",
-            "horror"
+            "horror",
+            "wandering"
           ],
           "score": [
             "https://imslp.org/wiki/Liederkreis,_Op.39_(Schumann,_Robert)"
           ],
-          "text": [
+          "lyrics": [
             "https://www.lieder.net/lieder/get_text.html?TextId=5280"
           ]
         }
@@ -371,7 +453,7 @@
       "label": "Happy ending - AGG 2025",
       "color": "#a55faa",
       "value": 100,
-      "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Happy ending - AGG 2025'>Happy ending - AGG 2025</a></h3>\n            <p>They get married and live happily ever after until they die.Musical pieces: Hochzeitslied D. 463, Du bist mir lieb, Liebst du um schönheit GMW 43</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Happy ending - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
+      "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook//scenes/Happy_ending_-_AGG_2025.md'>Happy ending</a></h3>\n            <p>Sasha and Rune are finally reunited. There are no words to describe their endless joy. A bright future awaits them, and if they haven’t died, they are still living happily together. “Und wenn sie nicht gestorben sind, dann leben sie noch heute”.Musical pieces: Hochzeitslied D. 463, Du bist mir lieb, Liebst du um schönheit GMW 43</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Happy ending - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
       "music": [
         {
           "id": 30,
@@ -381,32 +463,45 @@
           "duration": [
             "3"
           ],
+          "composer": [
+            "Gustav Mahler"
+          ],
+          "poet": [
+            "Friedrich Rückert"
+          ],
           "keyword": [
-            ""
+            "love"
           ],
           "score": [
             "https://imslp.org/wiki/R%C3%BCckert_Lieder,_GMW_39-43_(Mahler,_Gustav)"
           ],
-          "text": [
-            "https://www.lieder.net/lieder/get_text.html?TextId=14094"
+          "lyrics": [
+            "https://oxfordsong.org/song/liebst-du-um-sch%C3%B6nheit"
           ]
         },
         {
-          "id": 47,
+          "id": 48,
           "label": [
             "Hochzeitslied D. 463"
           ],
           "duration": [
             "2"
           ],
+          "composer": [
+            "Franz Schubert"
+          ],
+          "poet": [
+            "Johann Georg Jacobi"
+          ],
           "keyword": [
-            "marriage"
+            "marriage",
+            "love"
           ],
           "score": [
             "https://imslp.org/wiki/Hochzeitslied,_D.463_(Schubert,_Franz)"
           ],
-          "text": [
-            "https://www.lieder.net/lieder/get_text.html?TextId=122280"
+          "lyrics": [
+            "https://www.lieder.net/lieder/get_text.html?TextId=8805"
           ]
         }
       ],
@@ -417,7 +512,7 @@
       "label": "Lonely man is burying a coffin - AGG 2025",
       "color": "#a55faa",
       "value": 100,
-      "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Lonely man is burying a coffin - AGG 2025'>Lonely man is burying a coffin - AGG 2025</a></h3>\n            <p>The character wakes up in the morning and sees a man burying a coffin into the graveyard.Musical pieces: Die alten, bösen Lieder Op. 48 no. 16</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Lonely man is burying a coffin - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
+      "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook//scenes/Lonely_man_is_burying_a_coffin_-_AGG_2025.md'>Lonely man is burying a coffin</a></h3>\n            <p>Amidst the ruins, Rune is woken by the faint light of dawn. From one of the surviving gothic windows, Rune sees a lonely figure digging a deep hole in the nearby graveyard. Rune decides to ask the only living being in the castle for directions. Musical pieces: Die alten, bösen Lieder Op. 48 no. 16</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Lonely man is burying a coffin - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
       "music": [],
       "public_choice": false,
       "id": 12
@@ -426,15 +521,21 @@
       "label": "Meeting the Witch - AGG 2025",
       "color": "#a55faa",
       "value": 100,
-      "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Meeting the Witch - AGG 2025'>Meeting the Witch - AGG 2025</a></h3>\n            <p>The character feels themselves observed by invisible eyes in the woods. A flock of crows obscures the sky for a while, leaving a small singing bird alone on a branch, staring at the character. The little animal is a transmuted form of The Witch.Musical pieces: Sehnsucht D.123</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Meeting the Witch - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
+      "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook//scenes/Meeting_the_Witch_-_AGG_2025.md'>Meeting the Witch</a></h3>\n            <p>After a night spent wandering, the dawn begins to break. A flock of crows suddenly darkens the early morning sky, and then disperses, leaving only a single bird behind. Sasha has the feeling that this bird is looking back at them with almost human intelligence. Musical pieces: Sehnsucht D.123</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Meeting the Witch - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
       "music": [
         {
-          "id": 52,
+          "id": 53,
           "label": [
             "Sehnsucht D.123"
           ],
           "duration": [
             "3"
+          ],
+          "composer": [
+            "Franz Schubert"
+          ],
+          "poet": [
+            "Johann Wolfgang von Goethe"
           ],
           "keyword": [
             "natural spirit",
@@ -444,7 +545,7 @@
           "score": [
             "https://imslp.org/wiki/Sehnsucht,_D.123_(Schubert,_Franz)"
           ],
-          "text": [
+          "lyrics": [
             "https://www.lieder.net/lieder/get_text.html?TextId=6601"
           ]
         }
@@ -456,24 +557,33 @@
       "label": "Mistrust of animals - AGG 2025",
       "color": "#a55faa",
       "value": 100,
-      "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Mistrust of animals - AGG 2025'>Mistrust of animals - AGG 2025</a></h3>\n            <p>Musical pieces: Der Feind Op. 145</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Mistrust of animals - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
+      "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook//scenes/Mistrust_of_animals_-_AGG_2025.md'>Mistrust of animals</a></h3>\n            <p>Sasha suddenly wakes up, realising that exhaustion had led them to fall asleep in the middle of the forest. Dawn brings a feeling of unease to our character. Mistrusting and invisible eyes keep watch while Sasha prepares to depart. Musical pieces: Der Feind Op. 145</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Mistrust of animals - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
       "music": [
         {
-          "id": 32,
+          "id": 33,
           "label": [
             "Der Feind Op. 145"
           ],
           "duration": [
             "3"
           ],
+          "composer": [
+            "Carl Loewe"
+          ],
+          "poet": [
+            "Ernst Scherenberg"
+          ],
           "keyword": [
             "animal",
-            "mistrust"
+            "mistrust",
+            "forest",
+            "catalogue",
+            "non-human"
           ],
           "score": [
             "https://imslp.org/wiki/Liederkranz_f%C3%BCr_die_Bassstimme%2C_Op.145_(Loewe%2C_Carl)"
           ],
-          "text": [
+          "lyrics": [
             "https://www.lieder.net/lieder/get_text.html?TextId=14424"
           ]
         }
@@ -485,23 +595,30 @@
       "label": "Moonlight -  AGG 2025",
       "color": "#a55faa",
       "value": 100,
-      "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Moonlight -  AGG 2025'>Moonlight -  AGG 2025</a></h3>\n            <p>One of the characters, or both, sees/ are seen in the moonlight.Musical pieces: Mondnacht Op. 39 no. 5</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Moonlight -  AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
+      "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook//scenes/Moonlight_-__AGG_2025.md'>Moonlight</a></h3>\n            <p>As the clouds disperse, our character finds shelter in a shepherd’s hut. Through the missing roof, it is possible to gaze at the beautiful waxing moon, while the sun slowly rises in the east. In the distance, our character sees the crossroads where they had planned to meet their beloved. Musical pieces: Mondnacht Op. 39 no. 5</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Moonlight -  AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
       "music": [
         {
-          "id": 51,
+          "id": 52,
           "label": [
             "Mondnacht Op. 39 no. 5"
           ],
           "duration": [
             "4"
           ],
+          "composer": [
+            "Robert Schumann"
+          ],
+          "poet": [
+            "Joseph von Eichendorff"
+          ],
           "keyword": [
-            "moonlight"
+            "moonlight",
+            "moon"
           ],
           "score": [
             "https://imslp.org/wiki/Liederkreis,_Op.39_(Schumann,_Robert)"
           ],
-          "text": [
+          "lyrics": [
             "https://oxfordsong.org/song/mondnacht-2"
           ]
         }
@@ -513,15 +630,21 @@
       "label": "Prayer of the Hermit - AGG 2025",
       "color": "#a55faa",
       "value": 100,
-      "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Prayer of the Hermit - AGG 2025'>Prayer of the Hermit - AGG 2025</a></h3>\n            <p>The Hermit recites a prayer, revealing a hint about their past.Musical pieces: Gedichte der Königin Maria Stuart Op.135 n.5</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Prayer of the Hermit - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
+      "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook//scenes/Prayer_of_the_Hermit_-_AGG_2025.md'>Prayer of the Hermit</a></h3>\n            <p>After having listened to Rune’s story, the hermit recites a prayer in a low and solemn tone. The words of the invocation reveal a glimpse of Vanadis’s past, echoing the same miseries of our character’s love story. Rune regains strength and faith. After some kind words of farewell, they resume their journey.Musical pieces: Gedichte der Königin Maria Stuart Op.135 n.5</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Prayer of the Hermit - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
       "music": [
         {
-          "id": 44,
+          "id": 45,
           "label": [
             "Gedichte der Königin Maria Stuart Op.135 n.5"
           ],
           "duration": [
             "2"
+          ],
+          "composer": [
+            "Robert Schumann"
+          ],
+          "poet": [
+            "Gisbert Freiherr von Vincke"
           ],
           "keyword": [
             "prayer"
@@ -529,8 +652,8 @@
           "score": [
             "https://imslp.org/wiki/Gedichte_der_K%C3%B6nigin_Maria_Stuart,_Op.135_(Schumann,_Robert)"
           ],
-          "text": [
-            "https://www.lieder.net/lieder/assemble_texts.html?SongCycleId=132"
+          "lyrics": [
+            "https://oxfordsong.org/song/gebet-2"
           ]
         }
       ],
@@ -541,7 +664,7 @@
       "label": "Reaching higher ground during a storm - AGG 2025",
       "color": "#a55faa",
       "value": 100,
-      "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Reaching higher ground during a storm - AGG 2025'>Reaching higher ground during a storm - AGG 2025</a></h3>\n            <p>The character is lost and tries to reach the top of a hill to find direction. A storm blocks their way.Musical pieces: Stürmisch Wandern, Op. 18 n.°6</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Reaching higher ground during a storm - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
+      "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook//scenes/Reaching_higher_ground_during_a_storm_-_AGG_2025.md'>Reaching higher ground during a storm</a></h3>\n            <p>Rain has been falling incessantly since Sasha’s departure. The path is inaccessible, and Sasha has lost their way. Their only chance is to climb the nearest hill in order to attain a new sense of orientation. Fighting against the rain and wind, Sasha realises that the storm is intensifying. Musical pieces: Stürmisch Wandern, Op. 18 n.°6</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Reaching higher ground during a storm - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
       "music": [],
       "public_choice": true,
       "id": 17
@@ -550,28 +673,8 @@
       "label": "Recognition of the evil sorceress - AGG 2025",
       "color": "#a55faa",
       "value": 100,
-      "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Recognition of the evil sorceress - AGG 2025'>Recognition of the evil sorceress - AGG 2025</a></h3>\n            <p>The character realizes the real identity of the Witch. Musical pieces: Walpurgisnacht Op. 75</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Recognition of the evil sorceress - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
-      "music": [
-        {
-          "id": 57,
-          "label": [
-            "Walpurgisnacht Op. 75"
-          ],
-          "duration": [
-            "2"
-          ],
-          "keyword": [
-            "witch",
-            "mother"
-          ],
-          "score": [
-            "https://imslp.org/wiki/4_Ballades_and_Romances,_Op.75_(Brahms,_Johannes)"
-          ],
-          "text": [
-            "https://www.lieder.net/lieder/get_text.html?TextId=108870"
-          ]
-        }
-      ],
+      "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook//scenes/Recognition_of_the_evil_sorceress_-_AGG_2025.md'>Recognition of the evil sorceress</a></h3>\n            <p>After being hit by the pebble, the strange bird emits a sharp sound like a woman’s scream. Is it possible? Instead of a bird, Sasha is confronted by a furious witch with pale skin and scarlet curls. Shrieking curses in an unknown language, the figure approaches. Sasha runs away as fast as possible.Musical pieces: Waldesgespräch, op. 39 no. 3</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Recognition of the evil sorceress - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
+      "music": [],
       "public_choice": false,
       "id": 18
     },
@@ -579,34 +682,49 @@
       "label": "Sad ending - AGG 2025",
       "color": "#a55faa",
       "value": 100,
-      "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Sad ending - AGG 2025'>Sad ending - AGG 2025</a></h3>\n            <p>Realises that the loved one was unworthy and is disillusioned and facing an empty existence.Musical pieces: Gretchen am Spinnrade D.118, Wie viele Zeit verlor Ich IHW 15 n. 37</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Sad ending - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
+      "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook//scenes/Sad_ending_-_AGG_2025.md'>Sad ending</a></h3>\n            <p>The quest has failed: their love could not prevail against ill fate. Rune is destined to wed the old bachelor, imposed by their tutor, while a life of misery and regret will attend Sasha… The lovers are parted for eternity.Musical pieces: Gretchen am Spinnrade D.118, Wie viele Zeit verlor Ich IHW 15 n. 37</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Sad ending - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
       "music": [
         {
-          "id": 45,
+          "id": 46,
           "label": [
             "Gretchen am Spinnrade D.118"
           ],
           "duration": [
             "4"
           ],
+          "composer": [
+            "Franz Schubert"
+          ],
+          "poet": [
+            "Johann Wolfgang von Goethe"
+          ],
           "keyword": [
             "abandonment",
-            "weaving"
+            "weaving",
+            "madness",
+            "love",
+            "despair"
           ],
           "score": [
             "https://imslp.org/wiki/Gretchen_am_Spinnrade,_D.118_(Schubert,_Franz)"
           ],
-          "text": [
-            "https://www.lieder.net/lieder/get_text.html?TextId=17757"
+          "lyrics": [
+            "https://oxfordsong.org/song/gretchen-am-spinnrade-2"
           ]
         },
         {
-          "id": 60,
+          "id": 61,
           "label": [
             "Wie viele Zeit verlor Ich IHW 15 n. 37"
           ],
           "duration": [
             "2"
+          ],
+          "composer": [
+            "Hugo Wolf"
+          ],
+          "poet": [
+            "Paul Heyse"
           ],
           "keyword": [
             "disappointment"
@@ -614,7 +732,7 @@
           "score": [
             "https://imslp.org/wiki/Italienisches_Liederbuch_(Wolf,_Hugo)"
           ],
-          "text": [
+          "lyrics": [
             "https://www.lieder.net/lieder/get_text.html?TextId=20726"
           ]
         }
@@ -626,24 +744,31 @@
       "label": "Seek shelter in abandoned monastery - AGG 2025",
       "color": "#a55faa",
       "value": 100,
-      "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Seek shelter in abandoned monastery - AGG 2025'>Seek shelter in abandoned monastery - AGG 2025</a></h3>\n            <p>The character seeks shelter from the rain in an abandoned nun's monastery. Musical pieces: Die junge Nonne D.828</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Seek shelter in abandoned monastery - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
+      "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook//scenes/Seek_shelter_in_abandoned_monastery_-_AGG_2025.md'>Seek shelter in abandoned monastery</a></h3>\n            <p>Rune manages to find refuge in an old monastery, by opening the rusty old gate of the building. Empty halls tell forgotten tales of countless generations of nuns and their seclusion. Rune falls asleep in an austere cell.Musical pieces: Die junge Nonne D.828</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Seek shelter in abandoned monastery - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
       "music": [
         {
-          "id": 39,
+          "id": 40,
           "label": [
             "Die junge Nonne D.828"
           ],
           "duration": [
             "4"
           ],
+          "composer": [
+            "Franz Schubert"
+          ],
+          "poet": [
+            "Jacob Nicolaus Craigher de Jachelutta"
+          ],
           "keyword": [
-            "Christian nun"
+            "Christian nun",
+            "escapism"
           ],
           "score": [
             "https://imslp.org/wiki/Die_junge_Nonne,_D.828_(Schubert,_Franz)"
           ],
-          "text": [
-            "https://www.lieder.net/lieder/get_text.html?TextId=4095"
+          "lyrics": [
+            "https://oxfordsong.org/song/die-junge-nonne"
           ]
         }
       ],
@@ -654,24 +779,32 @@
       "label": "Staying awake - AGG 2025",
       "color": "#a55faa",
       "value": 100,
-      "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Staying awake - AGG 2025'>Staying awake - AGG 2025</a></h3>\n            <p>The character forces themselves to stay awake during the long night in the woods.Musical pieces: Die Mainacht Op. 43 n.2</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Staying awake - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
+      "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook//scenes/Staying_awake_-_AGG_2025.md'>Staying awake</a></h3>\n            <p>Despite muddy boots and wet clothes, Sasha continues to strive against the stormy weather. Maintaining a steady pace, the trail gradually becomes clearer. In the distance, the old estate is visible. Sasha’s thoughts of their beloved are a guiding star leading them tirelessly onwards. Musical pieces: Die Mainacht Op. 43 n.2</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Staying awake - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
       "music": [
         {
-          "id": 40,
+          "id": 41,
           "label": [
             "Die Mainacht Op. 43 n.2"
           ],
           "duration": [
             "4"
           ],
+          "composer": [
+            "Johannes Brahms"
+          ],
+          "poet": [
+            "Ludwig Christoph Heinrich Hölty"
+          ],
           "keyword": [
-            ""
+            "moon",
+            "forest",
+            "night"
           ],
           "score": [
             "https://imslp.org/wiki/4_Songs%2C_Op.43_(Brahms%2C_Johannes)"
           ],
-          "text": [
-            "https://www.lieder.net/lieder/get_text.html?TextId=8304"
+          "lyrics": [
+            "https://oxfordsong.org/song/die-mainacht-2"
           ]
         }
       ],
@@ -682,24 +815,30 @@
       "label": "Taking a \"shortcut\" - AGG 2025",
       "color": "#a55faa",
       "value": 100,
-      "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Taking a \"shortcut\" - AGG 2025'>Taking a \"shortcut\" - AGG 2025</a></h3>\n            <p>The character decides to not take the main road, convinced that their instinct will find a shortcut between the woods.Musical pieces: Wir wandelten Op.96 n. 2</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Taking a \"shortcut\" - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
+      "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook//scenes/Taking_a_\"shortcut\"_-_AGG_2025.md'>Taking a \"shortcut\"</a></h3>\n            <p>According to their grandfather, an abandoned game trail should still be traceable, potentially saving several hours of travel. In leaving the security of the main road in favour of the unknown, Sasha turns their back to their former life to pursue a nobler goal.Musical pieces: Wir wandelten Op.96 n. 2</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Taking a \"shortcut\" - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
       "music": [
         {
-          "id": 61,
+          "id": 62,
           "label": [
             "Wir wandelten Op.96 n. 2"
           ],
           "duration": [
             "3"
           ],
+          "composer": [
+            "Johannes Brahms"
+          ],
+          "poet": [
+            "Georg Friedrich Daumer"
+          ],
           "keyword": [
-            ""
+            "walking"
           ],
           "score": [
             "https://imslp.org/wiki/4_Lieder,_Op.96_(Brahms,_Johannes)"
           ],
-          "text": [
-            "https://www.lieder.net/lieder/get_text.html?TextId=4295"
+          "lyrics": [
+            "https://oxfordsong.org/song/wir-wandelten-wir-zwei-zusammen"
           ]
         }
       ],
@@ -710,25 +849,33 @@
       "label": "Telling own story with a song - AGG 2025",
       "color": "#a55faa",
       "value": 100,
-      "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Telling own story with a song - AGG 2025'>Telling own story with a song - AGG 2025</a></h3>\n            <p>The character tells their own story to The Hermit. They cannot hide their anguish any more, bursting into tears.Musical pieces: Wehmut Op. 39 no. 9</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Telling own story with a song - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
+      "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook//scenes/Telling_own_story_with_a_song_-_AGG_2025.md'>Telling own story with a song</a></h3>\n            <p>The lonely figure, a Hermit by the name of Vanadis, is leading Rune to their abandoned chapel. Once arrived, the Hermit breaks their silence to offer Rune some rustic refreshment. Rune decides to repay the Hermit’s hospitality by telling their tale of thwarted love and great misfortune. Musical pieces: Wehmut Op. 39 no. 9</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Telling own story with a song - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
       "music": [
         {
-          "id": 58,
+          "id": 59,
           "label": [
             "Wehmut Op. 39 no. 9"
           ],
           "duration": [
             "2"
           ],
+          "composer": [
+            "Robert Schumann"
+          ],
+          "poet": [
+            "Joseph von Eichendorff"
+          ],
           "keyword": [
             "singing",
-            "sadness"
+            "sadness",
+            "songbird",
+            "animal"
           ],
           "score": [
             "https://imslp.org/wiki/Liederkreis,_Op.39_(Schumann,_Robert)"
           ],
-          "text": [
-            "https://www.lieder.net/lieder/get_text.html?TextId=5321"
+          "lyrics": [
+            "https://oxfordsong.org/song/wehmut-2"
           ]
         }
       ],
@@ -739,26 +886,33 @@
       "label": "Wandering through the forest - AGG 2025",
       "color": "#a55faa",
       "value": 100,
-      "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Wandering through the forest - AGG 2025'>Wandering through the forest - AGG 2025</a></h3>\n            <p>The character is wandering through the deep, dark forest, looking for a path to lead them back to their beloved one.Musical pieces: Dunkel wie dunkel in Wald und in Feld Op. 43 n.1</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Wandering through the forest - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
+      "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook//scenes/Wandering_through_the_forest_-_AGG_2025.md'>Wandering through the forest</a></h3>\n            <p>At the boundaries of the ancient forest, a lonely traveller advances on a desolate road. Sasha has left the safety of their native village in order to rescue their beloved Rune from an unwilling marriage. Staring at the impenetrable darkness of the woods, they realise how hard it will be to reach the other side by dawn…Musical pieces: Dunkel wie dunkel in Wald und in Feld Op. 43 n.1</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Wandering through the forest - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
       "music": [
         {
-          "id": 41,
+          "id": 42,
           "label": [
             "Dunkel wie dunkel in Wald und in Feld Op. 43 n.1"
           ],
           "duration": [
             "4"
           ],
+          "composer": [
+            "Johannes Brahms"
+          ],
+          "poet": [
+            "August Heinrich Hoffmann von Fallersleben"
+          ],
           "keyword": [
             "forest",
             "walking",
-            "silence"
+            "silence",
+            "love"
           ],
           "score": [
             "https://imslp.org/wiki/4_Songs%2C_Op.43_(Brahms%2C_Johannes)"
           ],
-          "text": [
-            "https://www.lieder.net/lieder/get_text.html?TextId=17333"
+          "lyrics": [
+            "https://oxfordsong.org/song/von-ewiger-liebe"
           ]
         }
       ],
@@ -769,15 +923,21 @@
       "label": "Wandering through the ruins - AGG 2025",
       "color": "#a55faa",
       "value": 100,
-      "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Wandering through the ruins - AGG 2025'>Wandering through the ruins - AGG 2025</a></h3>\n            <p>The character has escaped from their captivity and is wandering through a desolate churchyard, while rains falls.Musical pieces: Wie rafft ich mich auf Op. 32 n.1</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Wandering through the ruins - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
+      "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook//scenes/Wandering_through_the_ruins_-_AGG_2025.md'>Wandering through the ruins</a></h3>\n            <p>Rune arrives at an abandoned summer estate, a desolate castle once the splendor of a noble family. Rain has been falling incessantly, having helped Rune’s escape from their greedy tutor. While wandering through the ruins, Rune seeks a refuge for the night.Musical pieces: Wie rafft ich mich auf Op. 32 n.1</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Wandering through the ruins - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
       "music": [
         {
-          "id": 59,
+          "id": 60,
           "label": [
             "Wie rafft ich mich auf Op. 32 n.1"
           ],
           "duration": [
             "5"
+          ],
+          "composer": [
+            "Johannes Brahms"
+          ],
+          "poet": [
+            "August von Platen"
           ],
           "keyword": [
             "wandering",
@@ -789,8 +949,8 @@
           "score": [
             "https://s9.imslp.org/files/imglnks/usimg/d/de/IMSLP83202-PMLP21745-Brahms_Lieder_Hohe_Stimme_Band_3_Op_32_No_1_3-4_6-8_Peters_10277_filter.pdf"
           ],
-          "text": [
-            "https://www.lieder.net/lieder/get_text.html?TextId=12824"
+          "lyrics": [
+            "https://oxfordsong.org/song/wie-rafft-ich-mich-auf-in-der-nacht"
           ]
         }
       ],
@@ -801,15 +961,21 @@
       "label": "Witch's love enchantment - AGG 2025",
       "color": "#a55faa",
       "value": 100,
-      "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Witch's love enchantment - AGG 2025'>Witch's love enchantment - AGG 2025</a></h3>\n            <p>The Witch uses one of her enchantments to grasp the hearth of the character.Musical pieces: In dunkler Nacht Op. 60 no. 1</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Witch's love enchantment - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
+      "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook//scenes/Witch's_love_enchantment_-_AGG_2025.md'>Witch's love enchantment</a></h3>\n            <p>Ymir, exhausted by the futility of trying to persuade Sasha to forget their lover, becomes enraged. Ymir’s charming facade disintegrates, and they utter primordial and mysterious syllables - an ancient language lost to the memory of man. An ancestral enchantment is binding  Sasha’s soul to the power of Ymir. Musical pieces: In dunkler Nacht Op. 60 no. 1</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Witch's love enchantment - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
       "music": [
         {
-          "id": 50,
+          "id": 51,
           "label": [
             "In dunkler Nacht Op. 60 no. 1"
           ],
           "duration": [
             "3"
+          ],
+          "composer": [
+            "Agathe Backer Grøndahl"
+          ],
+          "poet": [
+            "Maria von Collignon"
           ],
           "keyword": [
             "oath",
@@ -818,7 +984,7 @@
           "score": [
             "https://imslp.org/wiki/6_Deutsche_Liebeslieder%2C_Op.60_(Backer-Gr%C3%B8ndahl%2C_Agathe)"
           ],
-          "text": [
+          "lyrics": [
             "https://www.lieder.net/lieder/get_text.html?TextId=3944"
           ]
         }
@@ -830,15 +996,21 @@
       "label": "Witches' ritual - AGG 2025",
       "color": "#a55faa",
       "value": 100,
-      "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Witches' ritual - AGG 2025'>Witches' ritual - AGG 2025</a></h3>\n            <p>The character witnesses a magical gathering of witches, chanting and dancing to perform some evil spell.Musical pieces: Hexenlied Op. 8 n.8</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Witches' ritual - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
+      "title": "\n            <body>\n            <h3> <a href='https://nicholascorniaorpheus.github.io/a_gothic_gamebook//scenes/Witches'_ritual_-_AGG_2025.md'>Witches' ritual</a></h3>\n            <p>The strange and mesmerising litany leads Sasha to an ancient well surrounded by trees of great age. A group of hooded figures surround the mossy stones, drawing water from the well with a frayed rope. One figure turns towards Sasha, revealing pale skin, crimson hair, and a supernatural beauty. Ymir offers them a cup of the mystical liquid. Musical pieces: Hexenlied Op. 8 n.8</p><img src=\"https://nicholascorniaorpheus.github.io/a_gothic_gamebook/scene/Witches' ritual - AGG 2025.webp\" width=\"250\" height=\"200\">\n            </body>\n            ",
       "music": [
         {
-          "id": 46,
+          "id": 47,
           "label": [
             "Hexenlied Op. 8 n.8"
           ],
           "duration": [
             "3"
+          ],
+          "composer": [
+            "Felix Mendelssohn"
+          ],
+          "poet": [
+            "Ludwig Christoph Heinrich Hölty"
           ],
           "keyword": [
             "ritual",
@@ -850,8 +1022,8 @@
           "score": [
             "https://imslp.org/wiki/12_Ges%C3%A4nge%2C_Op.8_(Mendelssohn%2C_Felix)"
           ],
-          "text": [
-            "https://www.lieder.net/lieder/get_text.html?TextId=24975"
+          "lyrics": [
+            "https://oxfordsong.org/song/andres-maienlied-hexenlied"
           ]
         }
       ],
@@ -946,11 +1118,6 @@
       "target": 14
     },
     {
-      "weight": 1,
-      "source": 9,
-      "target": 13
-    },
-    {
       "weight": 10,
       "source": 10,
       "target": 17
@@ -998,12 +1165,12 @@
     {
       "weight": 10,
       "source": 17,
-      "target": 8
+      "target": 21
     },
     {
       "weight": 10,
       "source": 17,
-      "target": 21
+      "target": 8
     },
     {
       "weight": 1,
@@ -1046,6 +1213,11 @@
       "target": 16
     },
     {
+      "weight": 1,
+      "source": 23,
+      "target": 27
+    },
+    {
       "weight": 10,
       "source": 24,
       "target": 10
@@ -1083,7 +1255,7 @@
     {
       "weight": 1,
       "source": 27,
-      "target": 23
+      "target": 16
     }
   ]
 }

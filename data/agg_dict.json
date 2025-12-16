@@ -5,6 +5,9 @@
       "label": [
         "Abandoned horse in the forest - AGG 2025"
       ],
+      "title": [
+        "Abandoned horse in the forest"
+      ],
       "goes_to": [
         "Meeting the Witch - AGG 2025",
         "Witches' ritual - AGG 2025"
@@ -18,7 +21,30 @@
       "music": [
         "Erlkönig D328"
       ],
-      "argument": [
+      "keyword": [
+        "horse",
+        "natural spirit",
+        "chase"
+      ],
+      "description": [
+        "Arriving at a clearing, the feeble light of dawn reveals a noble steed. Although richly bridled, there is no trace of a rider. Perhaps the lonely rider has lost his way, or was captured by the king of elves? Carefully approaching the horse, Sasha is unnerved by the distant sound of singing female voices. "
+      ],
+      "question_A": [
+        "The character ignores the distant singing sounds and walks away  from the clearing."
+      ],
+      "question_B": [
+        "Intrigued by  the monotonous sounds, resembling the repetitive, yet mesmerizing, experience of church litanies, the character decides to dive again into the woods, eager to reveal the source of the singing."
+      ],
+      "goes_to_A": [
+        "Meeting the Witch - AGG 2025"
+      ],
+      "goes_to_B": [
+        "Witches' ritual - AGG 2025"
+      ],
+      "goes_to_C": [
+        ""
+      ],
+      "question_C": [
         ""
       ]
     },
@@ -26,6 +52,9 @@
       "id": 1,
       "label": [
         "Ancient grave - AGG 2025"
+      ],
+      "title": [
+        "Ancient grave"
       ],
       "goes_to": [
         "Danse macabre - AGG 2025"
@@ -39,7 +68,32 @@
       "music": [
         "Auf einer Burg Op. 39 n. 7"
       ],
-      "argument": [
+      "keyword": [
+        "graveyard",
+        "knight",
+        "ruin",
+        "castle",
+        "decay"
+      ],
+      "description": [
+        "Wandering through the graveyard, a lone sepulchre draws the attention of our character. A decayed statue depicting a knight in armour has suffered centuries of erosion; a shadow of its former glory. The epitaph on the tomb tells the tale of a nobleman of old, tragically departing from our world on the day of his marriage."
+      ],
+      "question_A": [
+        "Follow the story of Rune."
+      ],
+      "question_B": [
+        ""
+      ],
+      "goes_to_A": [
+        "Danse macabre - AGG 2025"
+      ],
+      "goes_to_B": [
+        ""
+      ],
+      "goes_to_C": [
+        ""
+      ],
+      "question_C": [
         ""
       ]
     },
@@ -47,6 +101,9 @@
       "id": 2,
       "label": [
         "Danse macabre - AGG 2025"
+      ],
+      "title": [
+        "Danse macabre"
       ],
       "goes_to": [
         "Telling own story with a song - AGG 2025",
@@ -61,14 +118,40 @@
       "music": [
         "Die Geister am Mummelsee IHW 22 n. 47"
       ],
-      "argument": [
+      "keyword": [
+        "ghost",
+        "grave",
+        "dance macabre"
+      ],
+      "description": [
         "The character witnesses a group of ghosts carrying a grave into a lake."
+      ],
+      "question_A": [
+        "Turn the spotlight to Sasha."
+      ],
+      "question_B": [
+        "The character tries to rebuke the undead, reciting a prayer while holding a holy  symbol."
+      ],
+      "goes_to_A": [
+        "Falling asleep - AGG 2025"
+      ],
+      "goes_to_B": [
+        "Falling unconscious from undead encounter - AGG 2025"
+      ],
+      "goes_to_C": [
+        ""
+      ],
+      "question_C": [
+        "Driven by primordial fear, the character flees from the ghost, driven by the ancestral terror for the uncanny. In the distance, an indistinguishable lonely figure seems to be the sole hope remaining."
       ]
     },
     {
       "id": 3,
       "label": [
         "Daydreaming about eternal love - AGG 2025"
+      ],
+      "title": [
+        "Daydreaming about eternal love"
       ],
       "goes_to": [
         "Happy ending - AGG 2025",
@@ -84,14 +167,39 @@
       "music": [
         "Frühlingsnacht Op. 39 no. 12"
       ],
-      "argument": [
-        "The character is convinced that their love is requited. Spring has suddenly come to support their fantasy. But is this just a dream?"
+      "keyword": [
+        "happiness",
+        "joy"
+      ],
+      "description": [
+        "Cheerful songbirds and blooming flowers appear. The appearance of spring brings comfort and hope to our character. But are the comforts of nature and the dreams of the beloved only an illusion?"
+      ],
+      "question_A": [
+        "The character proceeds to the prefixed rendezvous, a lonely  milestone lying at a crossroad at the edge of the great forest, confident to meet their loved one there."
+      ],
+      "question_B": [
+        "This brief journey  has irreversibly  altered their spirit, leading to doubt and despair. Their beloved one has forgotten them, or even worse, did not survive the perilous quest."
+      ],
+      "goes_to_A": [
+        "Happy ending - AGG 2025"
+      ],
+      "goes_to_B": [
+        "Sad ending - AGG 2025"
+      ],
+      "goes_to_C": [
+        ""
+      ],
+      "question_C": [
+        ""
       ]
     },
     {
       "id": 4,
       "label": [
         "Demonic deception - AGG 2025"
+      ],
+      "title": [
+        "Demonic deception"
       ],
       "goes_to": [
         "Demons keep the lovers apart - AGG 2025",
@@ -106,7 +214,30 @@
       "music": [
         "Unbewegte laue Luft Op. 57 n.8"
       ],
-      "argument": [
+      "keyword": [
+        "deception",
+        "infatuation",
+        "charm"
+      ],
+      "description": [
+        "The strange bird disappears from Sasha’s view. Suddenly, a hooded figure appears from the point at which the bird vanished. The wanderer is revealed as Ymir, a lady with pale skin and untamed scarlet curls. "
+      ],
+      "question_A": [
+        "The character feels uneasy  and tries to leave their new companion, realizing that Ymir has fallen in love with them."
+      ],
+      "question_B": [
+        "The character is charmed by  the unnatural beauty  of Ymir, desperately  falling in love with them."
+      ],
+      "goes_to_A": [
+        "Witch's love enchantment - AGG 2025"
+      ],
+      "goes_to_B": [
+        "Demons keep the lovers apart - AGG 2025"
+      ],
+      "goes_to_C": [
+        ""
+      ],
+      "question_C": [
         ""
       ]
     },
@@ -114,6 +245,9 @@
       "id": 5,
       "label": [
         "Demons keep the lovers apart - AGG 2025"
+      ],
+      "title": [
+        "Demons keep the lovers apart"
       ],
       "goes_to": [
         ""
@@ -128,14 +262,42 @@
         "Die Geister haben's vernommen",
         "Der Tod und das Mädchen D.531"
       ],
-      "argument": [
-        "After the evil pact, the lover despairs trying to reach their loved one"
+      "keyword": [
+        "ritual",
+        "demon",
+        "ghost",
+        "destiny",
+        "magic"
+      ],
+      "description": [
+        "The charming figure of Ymir leads Sasha to a ruined castle in the woods. As the gates of the castle open, a beautiful, brightly-lit garden is revealed. Fair ladies and courtiers of a forgotten time entice Sasha to join them. Sasha forgets all of their worries and the memory of their beloved Rune is merely a distant echo. "
+      ],
+      "question_A": [
+        "Turn the spotlight to Rune."
+      ],
+      "question_B": [
+        ""
+      ],
+      "goes_to_A": [
+        "Despair and homesickness. Giving up their dreams - AGG 2025"
+      ],
+      "goes_to_B": [
+        ""
+      ],
+      "goes_to_C": [
+        ""
+      ],
+      "question_C": [
+        ""
       ]
     },
     {
       "id": 6,
       "label": [
         "Despair and homesickness. Giving up their dreams - AGG 2025"
+      ],
+      "title": [
+        "Despair and homesickness. Giving up their dreams"
       ],
       "goes_to": [
         "Happy ending - AGG 2025",
@@ -152,14 +314,38 @@
         "In der Fremde Op. 39 n. 1",
         "Ich stand in dunklen Traümen Op. 13 n.1"
       ],
-      "argument": [
-        "The character's morale has reached the bottom. They are longing for home, giving up their dreams of happiness."
+      "keyword": [
+        "despair"
+      ],
+      "description": [
+        "After the horrifying experiences of the last hours, our character has despaired completely. Returning to the awful circumstances at home seems a better  choice than remaining here. "
+      ],
+      "question_A": [
+        "While taking the road back to civilization, a distant figure attracts the character’s attention. Could it be their beloved one?"
+      ],
+      "question_B": [
+        "The agents of Rune’s evil tutor have found them, leaving Sasha only  with traces of horse hooves on the muddy  road,  and a fallen amulet, once being the symbol of their eternal promise of love."
+      ],
+      "goes_to_A": [
+        "Happy ending - AGG 2025"
+      ],
+      "goes_to_B": [
+        "Sad ending - AGG 2025"
+      ],
+      "goes_to_C": [
+        ""
+      ],
+      "question_C": [
+        ""
       ]
     },
     {
       "id": 7,
       "label": [
         "Elf of the woods creates charming illusion - AGG 2025"
+      ],
+      "title": [
+        "Elf of the woods creates charming illusion"
       ],
       "goes_to": [
         "Falling asleep - AGG 2025"
@@ -173,14 +359,41 @@
       "music": [
         "Bedeckt mich mit Blumen IHW 32 n. 36"
       ],
-      "argument": [
-        "The will and vital energy of the character fall apart due to the natural spirit's charms, loosing consciousness."
+      "keyword": [
+        "natural spirit",
+        "elf",
+        "enchantment",
+        "illusion"
+      ],
+      "description": [
+        "Walking through the thick undergrowth, Sasha hears the sound of a small brook. While slaking their thirst, Sasha notices the ethereal sounds of an ancient song. The indistinguishable words of the song lead Sasha to a state of enchantment. While losing consciousness, a fairylike creature emerges from the water. "
+      ],
+      "question_A": [
+        "Follow the story of Sasha."
+      ],
+      "question_B": [
+        "Turn the spotlight to Rune."
+      ],
+      "goes_to_A": [
+        "Falling asleep - AGG 2025"
+      ],
+      "goes_to_B": [
+        "Danse macabre - AGG 2025"
+      ],
+      "goes_to_C": [
+        ""
+      ],
+      "question_C": [
+        ""
       ]
     },
     {
       "id": 8,
       "label": [
         "Falling asleep - AGG 2025"
+      ],
+      "title": [
+        "Falling asleep"
       ],
       "goes_to": [
         "Mistrust of animals - AGG 2025"
@@ -194,8 +407,32 @@
       "music": [
         "Feldeinsamkeit Op. 86 n. 2"
       ],
-      "argument": [
-        "Either the male character chooses to fall asleep and dreams of supernatural things, or he decides to stay awake... and have supernatural encounters."
+      "keyword": [
+        "nature",
+        "daylight",
+        "dream",
+        "sleep"
+      ],
+      "description": [
+        "The realm of consciousness is succeeded by the dimension of dreams. Exhausted, Sasha falls into deep sleep. Lying on a carpet of fallen leaves, Sasha is at the mercy of the elements and any hostile beings who may appear. "
+      ],
+      "question_A": [
+        "Follow the story of Sasha."
+      ],
+      "question_B": [
+        ""
+      ],
+      "goes_to_A": [
+        "Mistrust of animals - AGG 2025"
+      ],
+      "goes_to_B": [
+        ""
+      ],
+      "goes_to_C": [
+        ""
+      ],
+      "question_C": [
+        ""
       ]
     },
     {
@@ -203,12 +440,14 @@
       "label": [
         "Falling unconscious from undead encounter - AGG 2025"
       ],
+      "title": [
+        "Falling unconscious from undead encounter"
+      ],
       "goes_to": [
         ""
       ],
       "change_spotlight": [
-        "Mistrust of animals - AGG 2025",
-        "Meeting the Witch - AGG 2025"
+        "Mistrust of animals - AGG 2025"
       ],
       "comes_from": [
         "Danse macabre - AGG 2025"
@@ -216,14 +455,40 @@
       "music": [
         "Totengräbers Heimweh D. 842"
       ],
-      "argument": [
-        "The character encounters vis-à-vis a skeletal undead, which attracts them without allowing any escape. The character feels their life being drained away and loses consciousness."
+      "keyword": [
+        "undead",
+        "fainting",
+        "ghost"
+      ],
+      "description": [
+        "The confrontation with the ancient spirit of the fallen knight tests Rune’s nerves and faith. Visions of their own sorrows and vicissitudes resonate with the knight’s tragic fate. They are joined by other spirits, who dance around them in mockery and slowly begin to drain their life-force. "
+      ],
+      "question_A": [
+        "Turn the spotlight to Sasha."
+      ],
+      "question_B": [
+        ""
+      ],
+      "goes_to_A": [
+        "Mistrust of animals - AGG 2025"
+      ],
+      "goes_to_B": [
+        ""
+      ],
+      "goes_to_C": [
+        ""
+      ],
+      "question_C": [
+        ""
       ]
     },
     {
       "id": 10,
       "label": [
         "Following path and getting lost - AGG 2025"
+      ],
+      "title": [
+        "Following path and getting lost"
       ],
       "goes_to": [
         "Reaching higher ground during a storm - AGG 2025"
@@ -237,14 +502,41 @@
       "music": [
         "Zwielicht Op. 39 n.10"
       ],
-      "argument": [
-        "The character tries to follow a small path through the forest to reach their destination. They are menaced by despair and horror while traversing the dark forest..."
+      "keyword": [
+        "walking",
+        "lost",
+        "night",
+        "forest"
+      ],
+      "description": [
+        "Sasha follows the path through the gloomy forest. Every shadow or sound is turned into an ill omen of terror by the impenetrable darkness of the night. But love drives the steps of our character forward, surmounting their ancestral fear."
+      ],
+      "question_A": [
+        "Follow the story of Sasha."
+      ],
+      "question_B": [
+        ""
+      ],
+      "goes_to_A": [
+        "Reaching higher ground during a storm - AGG 2025"
+      ],
+      "goes_to_B": [
+        ""
+      ],
+      "goes_to_C": [
+        ""
+      ],
+      "question_C": [
+        ""
       ]
     },
     {
       "id": 11,
       "label": [
         "Happy ending - AGG 2025"
+      ],
+      "title": [
+        "Happy ending"
       ],
       "goes_to": [
         ""
@@ -261,14 +553,41 @@
         "Du bist mir lieb",
         "Liebst du um schönheit GMW 43"
       ],
-      "argument": [
-        "They get married and live happily ever after until they die."
+      "keyword": [
+        "marriage",
+        "death",
+        "love",
+        "suspense"
+      ],
+      "description": [
+        "Sasha and Rune are finally reunited. There are no words to describe their endless joy. A bright future awaits them, and if they haven’t died, they are still living happily together. “Und wenn sie nicht gestorben sind, dann leben sie noch heute”."
+      ],
+      "question_A": [
+        ""
+      ],
+      "question_B": [
+        ""
+      ],
+      "goes_to_A": [
+        ""
+      ],
+      "goes_to_B": [
+        ""
+      ],
+      "goes_to_C": [
+        ""
+      ],
+      "question_C": [
+        ""
       ]
     },
     {
       "id": 12,
       "label": [
         "Lonely man is burying a coffin - AGG 2025"
+      ],
+      "title": [
+        "Lonely man is burying a coffin"
       ],
       "goes_to": [
         "Telling own story with a song - AGG 2025"
@@ -283,14 +602,38 @@
         "Die alten",
         "bösen Lieder Op. 48 no. 16"
       ],
-      "argument": [
-        "The character wakes up in the morning and sees a man burying a coffin into the graveyard."
+      "keyword": [
+        "grave"
+      ],
+      "description": [
+        "Amidst the ruins, Rune is woken by the faint light of dawn. From one of the surviving gothic windows, Rune sees a lonely figure digging a deep hole in the nearby graveyard. Rune decides to ask the only living being in the castle for directions. "
+      ],
+      "question_A": [
+        "Follow the story of Rune."
+      ],
+      "question_B": [
+        ""
+      ],
+      "goes_to_A": [
+        "Telling own story with a song - AGG 2025"
+      ],
+      "goes_to_B": [
+        ""
+      ],
+      "goes_to_C": [
+        ""
+      ],
+      "question_C": [
+        ""
       ]
     },
     {
       "id": 13,
       "label": [
         "Meeting the Witch - AGG 2025"
+      ],
+      "title": [
+        "Meeting the Witch"
       ],
       "goes_to": [
         "Demonic deception - AGG 2025",
@@ -306,14 +649,41 @@
       "music": [
         "Sehnsucht D.123"
       ],
-      "argument": [
-        "The character feels themselves observed by invisible eyes in the woods. A flock of crows obscures the sky for a while, leaving a small singing bird alone on a branch, staring at the character. The little animal is a transmuted form of The Witch."
+      "keyword": [
+        "witch",
+        "songbird",
+        "bird",
+        "transmutation"
+      ],
+      "description": [
+        "After a night spent wandering, the dawn begins to break. A flock of crows suddenly darkens the early morning sky, and then disperses, leaving only a single bird behind. Sasha has the feeling that this bird is looking back at them with almost human intelligence. "
+      ],
+      "question_A": [
+        "The character is exhausted by  the incessant journey  and throws a pebble to drive away  the animal."
+      ],
+      "question_B": [
+        "The character is intrigued by  the marvellous bird and leaves them a breadcrumb before proceeding on their path."
+      ],
+      "goes_to_A": [
+        "Recognition of the evil sorceress - AGG 2025"
+      ],
+      "goes_to_B": [
+        "Demonic deception - AGG 2025"
+      ],
+      "goes_to_C": [
+        ""
+      ],
+      "question_C": [
+        ""
       ]
     },
     {
       "id": 14,
       "label": [
         "Mistrust of animals - AGG 2025"
+      ],
+      "title": [
+        "Mistrust of animals"
       ],
       "goes_to": [
         "Abandoned horse in the forest - AGG 2025"
@@ -327,7 +697,30 @@
       "music": [
         "Der Feind Op. 145"
       ],
-      "argument": [
+      "keyword": [
+        "animal",
+        "non-human",
+        "mistrust"
+      ],
+      "description": [
+        "Sasha suddenly wakes up, realising that exhaustion had led them to fall asleep in the middle of the forest. Dawn brings a feeling of unease to our character. Mistrusting and invisible eyes keep watch while Sasha prepares to depart. "
+      ],
+      "question_A": [
+        "Follow the story of Sasha."
+      ],
+      "question_B": [
+        ""
+      ],
+      "goes_to_A": [
+        "Abandoned horse in the forest - AGG 2025"
+      ],
+      "goes_to_B": [
+        ""
+      ],
+      "goes_to_C": [
+        ""
+      ],
+      "question_C": [
         ""
       ]
     },
@@ -335,6 +728,9 @@
       "id": 15,
       "label": [
         "Moonlight -  AGG 2025"
+      ],
+      "title": [
+        "Moonlight"
       ],
       "goes_to": [
         "Daydreaming about eternal love - AGG 2025",
@@ -350,14 +746,39 @@
       "music": [
         "Mondnacht Op. 39 no. 5"
       ],
-      "argument": [
-        "One of the characters, or both, sees/ are seen in the moonlight."
+      "keyword": [
+        "moonlight",
+        "moon"
+      ],
+      "description": [
+        "As the clouds disperse, our character finds shelter in a shepherd’s hut. Through the missing roof, it is possible to gaze at the beautiful waxing moon, while the sun slowly rises in the east. In the distance, our character sees the crossroads where they had planned to meet their beloved. "
+      ],
+      "question_A": [
+        "The character decides to take a short break in the hut, to gather the last forces."
+      ],
+      "question_B": [
+        "The enthusiasm of youth drives the character in the meadows, walking on a steady  pace in the direction of the milestone."
+      ],
+      "goes_to_A": [
+        "Daydreaming about eternal love - AGG 2025"
+      ],
+      "goes_to_B": [
+        "Despair and homesickness. Giving up their dreams - AGG 2025"
+      ],
+      "goes_to_C": [
+        ""
+      ],
+      "question_C": [
+        ""
       ]
     },
     {
       "id": 16,
       "label": [
         "Prayer of the Hermit - AGG 2025"
+      ],
+      "title": [
+        "Prayer of the Hermit"
       ],
       "goes_to": [
         "Moonlight -  AGG 2025"
@@ -371,8 +792,33 @@
       "music": [
         "Gedichte der Königin Maria Stuart Op.135 n.5"
       ],
-      "argument": [
-        "The Hermit recites a prayer, revealing a hint about their past."
+      "keyword": [
+        "walking",
+        "silence",
+        "happiness",
+        "prayer",
+        "shelter"
+      ],
+      "description": [
+        "After having listened to Rune’s story, the hermit recites a prayer in a low and solemn tone. The words of the invocation reveal a glimpse of Vanadis’s past, echoing the same miseries of our character’s love story. Rune regains strength and faith. After some kind words of farewell, they resume their journey."
+      ],
+      "question_A": [
+        "Turn the spotlight to Sasha."
+      ],
+      "question_B": [
+        "Follow the story of Rune."
+      ],
+      "goes_to_A": [
+        "Witch's love enchantment - AGG 2025"
+      ],
+      "goes_to_B": [
+        "Moonlight -  AGG 2025"
+      ],
+      "goes_to_C": [
+        ""
+      ],
+      "question_C": [
+        ""
       ]
     },
     {
@@ -380,9 +826,12 @@
       "label": [
         "Reaching higher ground during a storm - AGG 2025"
       ],
+      "title": [
+        "Reaching higher ground during a storm"
+      ],
       "goes_to": [
-        "Falling asleep - AGG 2025",
-        "Staying awake - AGG 2025"
+        "Staying awake - AGG 2025",
+        "Falling asleep - AGG 2025"
       ],
       "change_spotlight": [
         "Seek shelter in abandoned monastery - AGG 2025"
@@ -394,14 +843,41 @@
         "Stürmisch Wandern",
         "Op. 18 n.°6"
       ],
-      "argument": [
-        "The character is lost and tries to reach the top of a hill to find direction. A storm blocks their way."
+      "keyword": [
+        "storm",
+        "snow",
+        "climbing",
+        "determination"
+      ],
+      "description": [
+        "Rain has been falling incessantly since Sasha’s departure. The path is inaccessible, and Sasha has lost their way. Their only chance is to climb the nearest hill in order to attain a new sense of orientation. Fighting against the rain and wind, Sasha realises that the storm is intensifying. "
+      ],
+      "question_A": [
+        "Regardless of the weather, Sasha stubbornly proceeds in their march through the woods."
+      ],
+      "question_B": [
+        "What seems to be an abandoned natural cave could be a safe, and relatively  dry  place to pass the night."
+      ],
+      "goes_to_A": [
+        "Staying awake - AGG 2025"
+      ],
+      "goes_to_B": [
+        "Falling asleep - AGG 2025"
+      ],
+      "goes_to_C": [
+        "Seek shelter in abandoned monastery - AGG 2025"
+      ],
+      "question_C": [
+        "Turn the spotlight to Rune."
       ]
     },
     {
       "id": 18,
       "label": [
         "Recognition of the evil sorceress - AGG 2025"
+      ],
+      "title": [
+        "Recognition of the evil sorceress"
       ],
       "goes_to": [
         "Moonlight -  AGG 2025"
@@ -413,16 +889,42 @@
         "Meeting the Witch - AGG 2025"
       ],
       "music": [
-        "Walpurgisnacht Op. 75"
+        "Waldesgespräch",
+        "op. 39 no. 3"
       ],
-      "argument": [
-        "The character realizes the real identity of the Witch. "
+      "keyword": [
+        "sorcery",
+        "curse"
+      ],
+      "description": [
+        "After being hit by the pebble, the strange bird emits a sharp sound like a woman’s scream. Is it possible? Instead of a bird, Sasha is confronted by a furious witch with pale skin and scarlet curls. Shrieking curses in an unknown language, the figure approaches. Sasha runs away as fast as possible."
+      ],
+      "question_A": [
+        "Follow the story of Sasha."
+      ],
+      "question_B": [
+        "Turn the spotlight to Rune."
+      ],
+      "goes_to_A": [
+        "Moonlight -  AGG 2025"
+      ],
+      "goes_to_B": [
+        "Prayer of the Hermit - AGG 2025"
+      ],
+      "goes_to_C": [
+        ""
+      ],
+      "question_C": [
+        ""
       ]
     },
     {
       "id": 19,
       "label": [
         "Sad ending - AGG 2025"
+      ],
+      "title": [
+        "Sad ending"
       ],
       "goes_to": [
         ""
@@ -438,14 +940,41 @@
         "Gretchen am Spinnrade D.118",
         "Wie viele Zeit verlor Ich IHW 15 n. 37"
       ],
-      "argument": [
-        "Realises that the loved one was unworthy and is disillusioned and facing an empty existence."
+      "keyword": [
+        "abandonment",
+        "grief",
+        "madness",
+        "disappointment"
+      ],
+      "description": [
+        "The quest has failed: their love could not prevail against ill fate. Rune is destined to wed the old bachelor, imposed by their tutor, while a life of misery and regret will attend Sasha… The lovers are parted for eternity."
+      ],
+      "question_A": [
+        ""
+      ],
+      "question_B": [
+        ""
+      ],
+      "goes_to_A": [
+        ""
+      ],
+      "goes_to_B": [
+        ""
+      ],
+      "goes_to_C": [
+        ""
+      ],
+      "question_C": [
+        ""
       ]
     },
     {
       "id": 20,
       "label": [
         "Seek shelter in abandoned monastery - AGG 2025"
+      ],
+      "title": [
+        "Seek shelter in abandoned monastery"
       ],
       "goes_to": [
         "Lonely man is burying a coffin - AGG 2025"
@@ -459,14 +988,40 @@
       "music": [
         "Die junge Nonne D.828"
       ],
-      "argument": [
-        "The character seeks shelter from the rain in an abandoned nun's monastery. "
+      "keyword": [
+        "shelter",
+        "ruin",
+        "monastery"
+      ],
+      "description": [
+        "Rune manages to find refuge in an old monastery, by opening the rusty old gate of the building. Empty halls tell forgotten tales of countless generations of nuns and their seclusion. Rune falls asleep in an austere cell."
+      ],
+      "question_A": [
+        "Turn the spotlight to Sasha."
+      ],
+      "question_B": [
+        "Follow the story of Rune."
+      ],
+      "goes_to_A": [
+        "Staying awake - AGG 2025"
+      ],
+      "goes_to_B": [
+        "Lonely man is burying a coffin - AGG 2025"
+      ],
+      "goes_to_C": [
+        ""
+      ],
+      "question_C": [
+        ""
       ]
     },
     {
       "id": 21,
       "label": [
         "Staying awake - AGG 2025"
+      ],
+      "title": [
+        "Staying awake"
       ],
       "goes_to": [
         "Meeting the Witch - AGG 2025"
@@ -480,14 +1035,40 @@
       "music": [
         "Die Mainacht Op. 43 n.2"
       ],
-      "argument": [
-        "The character forces themselves to stay awake during the long night in the woods."
+      "keyword": [
+        "forest",
+        "moon",
+        "wandering"
+      ],
+      "description": [
+        "Despite muddy boots and wet clothes, Sasha continues to strive against the stormy weather. Maintaining a steady pace, the trail gradually becomes clearer. In the distance, the old estate is visible. Sasha’s thoughts of their beloved are a guiding star leading them tirelessly onwards. "
+      ],
+      "question_A": [
+        "Follow the story of Sasha."
+      ],
+      "question_B": [
+        ""
+      ],
+      "goes_to_A": [
+        "Meeting the Witch - AGG 2025"
+      ],
+      "goes_to_B": [
+        ""
+      ],
+      "goes_to_C": [
+        ""
+      ],
+      "question_C": [
+        ""
       ]
     },
     {
       "id": 22,
       "label": [
         "Taking a \"shortcut\" - AGG 2025"
+      ],
+      "title": [
+        "Taking a \"shortcut\""
       ],
       "goes_to": [
         "Elf of the woods creates charming illusion - AGG 2025"
@@ -501,8 +1082,30 @@
       "music": [
         "Wir wandelten Op.96 n. 2"
       ],
-      "argument": [
-        "The character decides to not take the main road, convinced that their instinct will find a shortcut between the woods."
+      "keyword": [
+        "lost",
+        "forest"
+      ],
+      "description": [
+        "According to their grandfather, an abandoned game trail should still be traceable, potentially saving several hours of travel. In leaving the security of the main road in favour of the unknown, Sasha turns their back to their former life to pursue a nobler goal."
+      ],
+      "question_A": [
+        "Follow the story of Sasha."
+      ],
+      "question_B": [
+        ""
+      ],
+      "goes_to_A": [
+        "Elf of the woods creates charming illusion - AGG 2025"
+      ],
+      "goes_to_B": [
+        ""
+      ],
+      "goes_to_C": [
+        ""
+      ],
+      "question_C": [
+        ""
       ]
     },
     {
@@ -510,11 +1113,14 @@
       "label": [
         "Telling own story with a song - AGG 2025"
       ],
+      "title": [
+        "Telling own story with a song"
+      ],
       "goes_to": [
         "Prayer of the Hermit - AGG 2025"
       ],
       "change_spotlight": [
-        ""
+        "Witches' ritual - AGG 2025"
       ],
       "comes_from": [
         "Witches' ritual - AGG 2025",
@@ -524,14 +1130,40 @@
       "music": [
         "Wehmut Op. 39 no. 9"
       ],
-      "argument": [
-        "The character tells their own story to The Hermit. They cannot hide their anguish any more, bursting into tears."
+      "keyword": [
+        "singing",
+        "narrative",
+        "sadness"
+      ],
+      "description": [
+        "The lonely figure, a Hermit by the name of Vanadis, is leading Rune to their abandoned chapel. Once arrived, the Hermit breaks their silence to offer Rune some rustic refreshment. Rune decides to repay the Hermit’s hospitality by telling their tale of thwarted love and great misfortune. "
+      ],
+      "question_A": [
+        "Turn the spotlight to Sasha."
+      ],
+      "question_B": [
+        "Follow the story of Rune."
+      ],
+      "goes_to_A": [
+        "Witches' ritual - AGG 2025"
+      ],
+      "goes_to_B": [
+        "Prayer of the Hermit - AGG 2025"
+      ],
+      "goes_to_C": [
+        ""
+      ],
+      "question_C": [
+        ""
       ]
     },
     {
       "id": 24,
       "label": [
         "Wandering through the forest - AGG 2025"
+      ],
+      "title": [
+        "Wandering through the forest"
       ],
       "goes_to": [
         "Following path and getting lost - AGG 2025",
@@ -546,14 +1178,39 @@
       "music": [
         "Dunkel wie dunkel in Wald und in Feld Op. 43 n.1"
       ],
-      "argument": [
-        "The character is wandering through the deep, dark forest, looking for a path to lead them back to their beloved one."
+      "keyword": [
+        "forest",
+        "wandering"
+      ],
+      "description": [
+        "At the boundaries of the ancient forest, a lonely traveller advances on a desolate road. Sasha has left the safety of their native village in order to rescue their beloved Rune from an unwilling marriage. Staring at the impenetrable darkness of the woods, they realise how hard it will be to reach the other side by dawn…"
+      ],
+      "question_A": [
+        "A smaller path lies more or less parallel to the main road, heading towards the right direction. It could be worth trying…"
+      ],
+      "question_B": [
+        "According to their grandfather, further down the main road an abandoned game trail should save several hours of journey. But will its trails still be present after years of overgrowing?"
+      ],
+      "goes_to_A": [
+        "Following path and getting lost - AGG 2025"
+      ],
+      "goes_to_B": [
+        "Taking a \"shortcut\" - AGG 2025"
+      ],
+      "goes_to_C": [
+        ""
+      ],
+      "question_C": [
+        ""
       ]
     },
     {
       "id": 25,
       "label": [
         "Wandering through the ruins - AGG 2025"
+      ],
+      "title": [
+        "Wandering through the ruins"
       ],
       "goes_to": [
         "Ancient grave - AGG 2025",
@@ -568,14 +1225,40 @@
       "music": [
         "Wie rafft ich mich auf Op. 32 n.1"
       ],
-      "argument": [
-        "The character has escaped from their captivity and is wandering through a desolate churchyard, while rains falls."
+      "keyword": [
+        "graveyard",
+        "night",
+        "storm"
+      ],
+      "description": [
+        "Rune arrives at an abandoned summer estate, a desolate castle once the splendor of a noble family. Rain has been falling incessantly, having helped Rune’s escape from their greedy tutor. While wandering through the ruins, Rune seeks a refuge for the night."
+      ],
+      "question_A": [
+        "One of the buildings, inspiring solidity  and endurance typical of gothic architecture, seems a good place to rest and seek shelter. Would the rusty  gate of the main entrance still be open?"
+      ],
+      "question_B": [
+        "The shelter of a small crypt in the old family  graveyard appears to be the best place to hide, in case any  pursuer would have tracked their steps to here."
+      ],
+      "goes_to_A": [
+        "Seek shelter in abandoned monastery - AGG 2025"
+      ],
+      "goes_to_B": [
+        "Ancient grave - AGG 2025"
+      ],
+      "goes_to_C": [
+        ""
+      ],
+      "question_C": [
+        ""
       ]
     },
     {
       "id": 26,
       "label": [
         "Witch's love enchantment - AGG 2025"
+      ],
+      "title": [
+        "Witch's love enchantment"
       ],
       "goes_to": [
         "Daydreaming about eternal love - AGG 2025",
@@ -590,8 +1273,32 @@
       "music": [
         "In dunkler Nacht Op. 60 no. 1"
       ],
-      "argument": [
-        "The Witch uses one of her enchantments to grasp the hearth of the character."
+      "keyword": [
+        "charm",
+        "enchantment",
+        "witch",
+        "love"
+      ],
+      "description": [
+        "Ymir, exhausted by the futility of trying to persuade Sasha to forget their lover, becomes enraged. Ymir’s charming facade disintegrates, and they utter primordial and mysterious syllables - an ancient language lost to the memory of man. An ancestral enchantment is binding  Sasha’s soul to the power of Ymir. "
+      ],
+      "question_A": [
+        "The character resists the witch’s charms, closing their eyes and drawing on their faith and will in order to protect them from dark practices. A silence, then the silent wood and a bright ray  of morning sun, leading the way  to the end of the forest."
+      ],
+      "question_B": [
+        "The witch’s words pervades the character’s mind with horrendous visions and untellable horrors. After regaining consciousness, the character finds themselves alone in the woods."
+      ],
+      "goes_to_A": [
+        "Daydreaming about eternal love - AGG 2025"
+      ],
+      "goes_to_B": [
+        "Despair and homesickness. Giving up their dreams - AGG 2025"
+      ],
+      "goes_to_C": [
+        ""
+      ],
+      "question_C": [
+        ""
       ]
     },
     {
@@ -599,11 +1306,14 @@
       "label": [
         "Witches' ritual - AGG 2025"
       ],
+      "title": [
+        "Witches' ritual"
+      ],
       "goes_to": [
         "Demons keep the lovers apart - AGG 2025"
       ],
       "change_spotlight": [
-        "Telling own story with a song - AGG 2025"
+        "Prayer of the Hermit - AGG 2025"
       ],
       "comes_from": [
         "Abandoned horse in the forest - AGG 2025"
@@ -611,8 +1321,31 @@
       "music": [
         "Hexenlied Op. 8 n.8"
       ],
-      "argument": [
-        "The character witnesses a magical gathering of witches, chanting and dancing to perform some evil spell."
+      "keyword": [
+        "ritual",
+        "witch",
+        "magic"
+      ],
+      "description": [
+        "The strange and mesmerising litany leads Sasha to an ancient well surrounded by trees of great age. A group of hooded figures surround the mossy stones, drawing water from the well with a frayed rope. One figure turns towards Sasha, revealing pale skin, crimson hair, and a supernatural beauty. Ymir offers them a cup of the mystical liquid. "
+      ],
+      "question_A": [
+        "Follow the story of Sasha."
+      ],
+      "question_B": [
+        "Turn the spotlight to Rune."
+      ],
+      "goes_to_A": [
+        "Demons keep the lovers apart - AGG 2025"
+      ],
+      "goes_to_B": [
+        "Prayer of the Hermit - AGG 2025"
+      ],
+      "goes_to_C": [
+        ""
+      ],
+      "question_C": [
+        ""
       ]
     }
   ],
@@ -625,6 +1358,12 @@
       "duration": [
         "3"
       ],
+      "composer": [
+        "Robert Schumann"
+      ],
+      "poet": [
+        "Joseph von Eichendorff"
+      ],
       "keyword": [
         "knight",
         "castle",
@@ -633,8 +1372,8 @@
       "score": [
         "https://imslp.org/wiki/Liederkreis,_Op.39_(Schumann,_Robert)"
       ],
-      "text": [
-        "https://www.lieder.net/lieder/get_text.html?TextId=5129"
+      "lyrics": [
+        "https://oxfordsong.org/song/auf-einer-burg"
       ]
     },
     {
@@ -645,16 +1384,23 @@
       "duration": [
         "4"
       ],
+      "composer": [
+        "Franz Schubert"
+      ],
+      "poet": [
+        "Johann Wolfgang von Goethe"
+      ],
       "keyword": [
         "natural spirit",
         "chase",
-        "horse"
+        "horse",
+        "elf"
       ],
       "score": [
         "https://imslp.org/wiki/Erlk%C3%B6nig%2C_D.328_(Schubert%2C_Franz)"
       ],
-      "text": [
-        "https://www.lieder.net/lieder/get_text.html?TextId=5195"
+      "lyrics": [
+        "https://oxfordsong.org/song/erlk%C3%B6nig"
       ]
     },
     {
@@ -665,23 +1411,59 @@
       "duration": [
         "3"
       ],
+      "composer": [
+        "Gustav Mahler"
+      ],
+      "poet": [
+        "Friedrich Rückert"
+      ],
       "keyword": [
-        ""
+        "love"
       ],
       "score": [
         "https://imslp.org/wiki/R%C3%BCckert_Lieder,_GMW_39-43_(Mahler,_Gustav)"
       ],
-      "text": [
-        "https://www.lieder.net/lieder/get_text.html?TextId=14094"
+      "lyrics": [
+        "https://oxfordsong.org/song/liebst-du-um-sch%C3%B6nheit"
       ]
     },
     {
       "id": 31,
       "label": [
+        "Waldesgespräch, op. 39 no. 3"
+      ],
+      "duration": [
+        "3"
+      ],
+      "composer": [
+        "Robert Schumann"
+      ],
+      "poet": [
+        "Joseph von Eichendorff"
+      ],
+      "keyword": [
+        "witch"
+      ],
+      "score": [
+        "https://imslp.org/wiki/Liederkreis,_Op.39_(Schumann,_Robert)"
+      ],
+      "lyrics": [
+        "https://oxfordsong.org/song/waldesgespr%C3%A4ch"
+      ]
+    },
+    {
+      "id": 32,
+      "label": [
         "Bedeckt mich mit Blumen IHW 32 n. 36"
       ],
       "duration": [
         "3"
+      ],
+      "composer": [
+        "Hugo Wolf"
+      ],
+      "poet": [
+        "Emanuel Geibel"
       ],
       "keyword": [
         "death",
@@ -691,36 +1473,51 @@
       "score": [
         "https://imslp.org/wiki/Spanisches_Liederbuch_(Wolf,_Hugo)"
       ],
-      "text": [
-        "https://www.lieder.net/lieder/get_text.html?TextId=18378&RF=1"
+      "lyrics": [
+        "https://oxfordsong.org/song/bedeckt-mich-mit-blumen"
       ]
     },
     {
-      "id": 32,
+      "id": 33,
       "label": [
         "Der Feind Op. 145"
       ],
       "duration": [
         "3"
       ],
+      "composer": [
+        "Carl Loewe"
+      ],
+      "poet": [
+        "Ernst Scherenberg"
+      ],
       "keyword": [
         "animal",
-        "mistrust"
+        "mistrust",
+        "forest",
+        "catalogue",
+        "non-human"
       ],
       "score": [
         "https://imslp.org/wiki/Liederkranz_f%C3%BCr_die_Bassstimme%2C_Op.145_(Loewe%2C_Carl)"
       ],
-      "text": [
+      "lyrics": [
         "https://www.lieder.net/lieder/get_text.html?TextId=14424"
       ]
     },
     {
-      "id": 33,
+      "id": 34,
       "label": [
         "Der Jüngling und der Tod D. 545"
       ],
       "duration": [
         "4"
+      ],
+      "composer": [
+        "Franz Schubert"
+      ],
+      "poet": [
+        "Joseph von Spaun"
       ],
       "keyword": [
         "death",
@@ -729,17 +1526,23 @@
       "score": [
         "https://imslp.org/wiki/Der_J%C3%BCngling_und_der_Tod,_D.545_(Schubert,_Franz)"
       ],
-      "text": [
+      "lyrics": [
         "https://oxfordsong.org/song/der-j%C3%BCngling-und-der-tod"
       ]
     },
     {
-      "id": 34,
+      "id": 35,
       "label": [
         "Der Tod und das Mädchen D.531"
       ],
       "duration": [
         "3"
+      ],
+      "composer": [
+        "Franz Schubert"
+      ],
+      "poet": [
+        "Joseph von Spaun"
       ],
       "keyword": [
         "death",
@@ -748,17 +1551,23 @@
       "score": [
         "https://imslp.org/wiki/Der_Tod_und_das_M%C3%A4dchen,_D.531_(Schubert,_Franz)"
       ],
-      "text": [
+      "lyrics": [
         "https://www.lieder.net/lieder/get_text.html?TextId=3855&RF=1"
       ]
     },
     {
-      "id": 35,
+      "id": 36,
       "label": [
         "Der Wanderer an den Mond D. 870"
       ],
       "duration": [
-        ""
+        "3"
+      ],
+      "composer": [
+        "Franz Schubert"
+      ],
+      "poet": [
+        "Johann Gabriel Seidl"
       ],
       "keyword": [
         "moon",
@@ -767,35 +1576,48 @@
       "score": [
         "https://imslp.org/wiki/Der_Wanderer_an_den_Mond,_D.870_(Schubert,_Franz)"
       ],
-      "text": [
+      "lyrics": [
         "https://oxfordsong.org/song/der-wanderer-an-den-mond"
       ]
     },
     {
-      "id": 36,
+      "id": 37,
       "label": [
         "Die alten, bösen Lieder Op. 48 no. 16"
       ],
       "duration": [
         "4"
       ],
+      "composer": [
+        "Robert Schumann"
+      ],
+      "poet": [
+        "Heinrich Heine"
+      ],
       "keyword": [
-        "grave"
+        "grave",
+        "ghost"
       ],
       "score": [
         "https://imslp.org/wiki/Dichterliebe,_Op.48_(Schumann,_Robert)"
       ],
-      "text": [
+      "lyrics": [
         "https://oxfordsong.org/song/die-alten-b%C3%B6sen-lieder"
       ]
     },
     {
-      "id": 37,
+      "id": 38,
       "label": [
         "Die Geister am Mummelsee IHW 22 n. 47"
       ],
       "duration": [
         "4"
+      ],
+      "composer": [
+        "Hugo Wolf"
+      ],
+      "poet": [
+        "Eduard Mörike"
       ],
       "keyword": [
         "dance macabre",
@@ -805,17 +1627,23 @@
       "score": [
         "https://imslp.org/wiki/M%C3%B6rike-Lieder_(Wolf%2C_Hugo)"
       ],
-      "text": [
+      "lyrics": [
         "https://oxfordsong.org/song/die-geister-am-mummelsee"
       ]
     },
     {
-      "id": 38,
+      "id": 39,
       "label": [
         "Die Geister haben's vernommen"
       ],
       "duration": [
         "3"
+      ],
+      "composer": [
+        "Johanna Kinkel"
+      ],
+      "poet": [
+        "Heinrich Heine"
       ],
       "keyword": [
         "magic",
@@ -825,73 +1653,101 @@
       "score": [
         "https://imslp.org/wiki/6_Lieder%2C_Op.6_(Kinkel%2C_Johanna)"
       ],
-      "text": [
+      "lyrics": [
         "https://www.lieder.net/lieder/get_text.html?TextId=105796"
       ]
     },
     {
-      "id": 39,
+      "id": 40,
       "label": [
         "Die junge Nonne D.828"
       ],
       "duration": [
         "4"
       ],
+      "composer": [
+        "Franz Schubert"
+      ],
+      "poet": [
+        "Jacob Nicolaus Craigher de Jachelutta"
+      ],
       "keyword": [
-        "Christian nun"
+        "Christian nun",
+        "escapism"
       ],
       "score": [
         "https://imslp.org/wiki/Die_junge_Nonne,_D.828_(Schubert,_Franz)"
       ],
-      "text": [
-        "https://www.lieder.net/lieder/get_text.html?TextId=4095"
+      "lyrics": [
+        "https://oxfordsong.org/song/die-junge-nonne"
       ]
     },
     {
-      "id": 40,
+      "id": 41,
       "label": [
         "Die Mainacht Op. 43 n.2"
       ],
       "duration": [
         "4"
       ],
+      "composer": [
+        "Johannes Brahms"
+      ],
+      "poet": [
+        "Ludwig Christoph Heinrich Hölty"
+      ],
       "keyword": [
-        ""
+        "moon",
+        "forest",
+        "night"
       ],
       "score": [
         "https://imslp.org/wiki/4_Songs%2C_Op.43_(Brahms%2C_Johannes)"
       ],
-      "text": [
-        "https://www.lieder.net/lieder/get_text.html?TextId=8304"
+      "lyrics": [
+        "https://oxfordsong.org/song/die-mainacht-2"
       ]
     },
     {
-      "id": 41,
+      "id": 42,
       "label": [
         "Dunkel wie dunkel in Wald und in Feld Op. 43 n.1"
       ],
       "duration": [
         "4"
       ],
+      "composer": [
+        "Johannes Brahms"
+      ],
+      "poet": [
+        "August Heinrich Hoffmann von Fallersleben"
+      ],
       "keyword": [
         "forest",
         "walking",
-        "silence"
+        "silence",
+        "love"
       ],
       "score": [
         "https://imslp.org/wiki/4_Songs%2C_Op.43_(Brahms%2C_Johannes)"
       ],
-      "text": [
-        "https://www.lieder.net/lieder/get_text.html?TextId=17333"
+      "lyrics": [
+        "https://oxfordsong.org/song/von-ewiger-liebe"
       ]
     },
     {
-      "id": 42,
+      "id": 43,
       "label": [
         "Feldeinsamkeit Op. 86 n. 2"
       ],
       "duration": [
         "4"
+      ],
+      "composer": [
+        "Johannes Brahms"
+      ],
+      "poet": [
+        "Hermann Allmers"
       ],
       "keyword": [
         ""
@@ -899,37 +1755,50 @@
       "score": [
         "https://imslp.org/wiki/6_Lieder,_Op.86_(Brahms,_Johannes)"
       ],
-      "text": [
+      "lyrics": [
         "https://oxfordsong.org/song/feldeinsamkeit-2"
       ]
     },
     {
-      "id": 43,
+      "id": 44,
       "label": [
         "Frühlingsnacht Op. 39 no. 12"
       ],
       "duration": [
         "2"
       ],
+      "composer": [
+        "Robert Schumann"
+      ],
+      "poet": [
+        "Joseph von Eichendorff"
+      ],
       "keyword": [
         "happiness",
         "joy",
-        "Spring"
+        "Spring",
+        "destiny"
       ],
       "score": [
         "https://imslp.org/wiki/Liederkreis,_Op.39_(Schumann,_Robert)"
       ],
-      "text": [
+      "lyrics": [
         "https://www.lieder.net/lieder/get_text.html?TextId=5195"
       ]
     },
     {
-      "id": 44,
+      "id": 45,
       "label": [
         "Gedichte der Königin Maria Stuart Op.135 n.5"
       ],
       "duration": [
         "2"
+      ],
+      "composer": [
+        "Robert Schumann"
+      ],
+      "poet": [
+        "Gisbert Freiherr von Vincke"
       ],
       "keyword": [
         "prayer"
@@ -937,36 +1806,51 @@
       "score": [
         "https://imslp.org/wiki/Gedichte_der_K%C3%B6nigin_Maria_Stuart,_Op.135_(Schumann,_Robert)"
       ],
-      "text": [
-        "https://www.lieder.net/lieder/assemble_texts.html?SongCycleId=132"
+      "lyrics": [
+        "https://oxfordsong.org/song/gebet-2"
       ]
     },
     {
-      "id": 45,
+      "id": 46,
       "label": [
         "Gretchen am Spinnrade D.118"
       ],
       "duration": [
         "4"
       ],
+      "composer": [
+        "Franz Schubert"
+      ],
+      "poet": [
+        "Johann Wolfgang von Goethe"
+      ],
       "keyword": [
         "abandonment",
-        "weaving"
+        "weaving",
+        "madness",
+        "love",
+        "despair"
       ],
       "score": [
         "https://imslp.org/wiki/Gretchen_am_Spinnrade,_D.118_(Schubert,_Franz)"
       ],
-      "text": [
-        "https://www.lieder.net/lieder/get_text.html?TextId=17757"
+      "lyrics": [
+        "https://oxfordsong.org/song/gretchen-am-spinnrade-2"
       ]
     },
     {
-      "id": 46,
+      "id": 47,
       "label": [
         "Hexenlied Op. 8 n.8"
       ],
       "duration": [
         "3"
+      ],
+      "composer": [
+        "Felix Mendelssohn"
+      ],
+      "poet": [
+        "Ludwig Christoph Heinrich Hölty"
       ],
       "keyword": [
         "ritual",
@@ -978,54 +1862,72 @@
       "score": [
         "https://imslp.org/wiki/12_Ges%C3%A4nge%2C_Op.8_(Mendelssohn%2C_Felix)"
       ],
-      "text": [
-        "https://www.lieder.net/lieder/get_text.html?TextId=24975"
+      "lyrics": [
+        "https://oxfordsong.org/song/andres-maienlied-hexenlied"
       ]
     },
     {
-      "id": 47,
+      "id": 48,
       "label": [
         "Hochzeitslied D. 463"
       ],
       "duration": [
         "2"
       ],
+      "composer": [
+        "Franz Schubert"
+      ],
+      "poet": [
+        "Johann Georg Jacobi"
+      ],
       "keyword": [
-        "marriage"
+        "marriage",
+        "love"
       ],
       "score": [
         "https://imslp.org/wiki/Hochzeitslied,_D.463_(Schubert,_Franz)"
       ],
-      "text": [
-        "https://www.lieder.net/lieder/get_text.html?TextId=122280"
+      "lyrics": [
+        "https://www.lieder.net/lieder/get_text.html?TextId=8805"
       ]
     },
     {
-      "id": 48,
+      "id": 49,
       "label": [
         "Ich stand in dunklen Traümen Op. 13 n.1"
       ],
       "duration": [
         "2"
       ],
+      "composer": [
+        "Clara Schumann"
+      ],
+      "poet": [
+        "Heinrich Heine"
+      ],
       "keyword": [
-        "lost",
         "dream"
       ],
       "score": [
         "https://imslp.org/wiki/6_Lieder,_Op.13_(Schumann,_Clara)"
       ],
-      "text": [
-        "https://www.lieder.net/lieder/get_text.html?TextId=17767&SettingId=19788"
+      "lyrics": [
+        "https://oxfordsong.org/song/ihr-bildnis"
       ]
     },
     {
-      "id": 49,
+      "id": 50,
       "label": [
         "In der Fremde Op. 39 n. 1"
       ],
       "duration": [
         "2"
+      ],
+      "composer": [
+        "Robert Schumann"
+      ],
+      "poet": [
+        "Joseph von Eichendorff"
       ],
       "keyword": [
         ""
@@ -1033,17 +1935,23 @@
       "score": [
         "https://imslp.org/wiki/Liederkreis,_Op.39_(Schumann,_Robert)"
       ],
-      "text": [
-        "https://www.lieder.net/lieder/get_text.html?TextId=5174"
+      "lyrics": [
+        "https://oxfordsong.org/song/in-der-fremde-2"
       ]
     },
     {
-      "id": 50,
+      "id": 51,
       "label": [
         "In dunkler Nacht Op. 60 no. 1"
       ],
       "duration": [
         "3"
+      ],
+      "composer": [
+        "Agathe Backer Grøndahl"
+      ],
+      "poet": [
+        "Maria von Collignon"
       ],
       "keyword": [
         "oath",
@@ -1052,35 +1960,48 @@
       "score": [
         "https://imslp.org/wiki/6_Deutsche_Liebeslieder%2C_Op.60_(Backer-Gr%C3%B8ndahl%2C_Agathe)"
       ],
-      "text": [
+      "lyrics": [
         "https://www.lieder.net/lieder/get_text.html?TextId=3944"
       ]
     },
     {
-      "id": 51,
+      "id": 52,
       "label": [
         "Mondnacht Op. 39 no. 5"
       ],
       "duration": [
         "4"
       ],
+      "composer": [
+        "Robert Schumann"
+      ],
+      "poet": [
+        "Joseph von Eichendorff"
+      ],
       "keyword": [
-        "moonlight"
+        "moonlight",
+        "moon"
       ],
       "score": [
         "https://imslp.org/wiki/Liederkreis,_Op.39_(Schumann,_Robert)"
       ],
-      "text": [
+      "lyrics": [
         "https://oxfordsong.org/song/mondnacht-2"
       ]
     },
     {
-      "id": 52,
+      "id": 53,
       "label": [
         "Sehnsucht D.123"
       ],
       "duration": [
         "3"
+      ],
+      "composer": [
+        "Franz Schubert"
+      ],
+      "poet": [
+        "Johann Wolfgang von Goethe"
       ],
       "keyword": [
         "natural spirit",
@@ -1090,17 +2011,23 @@
       "score": [
         "https://imslp.org/wiki/Sehnsucht,_D.123_(Schubert,_Franz)"
       ],
-      "text": [
+      "lyrics": [
         "https://www.lieder.net/lieder/get_text.html?TextId=6601"
       ]
     },
     {
-      "id": 53,
+      "id": 54,
       "label": [
         "Stürmisch Wandern, Op. 18 n.°6"
       ],
       "duration": [
         "3"
+      ],
+      "composer": [
+        "Johanna Kinkel"
+      ],
+      "poet": [
+        "Gottfried Kinkel"
       ],
       "keyword": [
         "wandering",
@@ -1109,17 +2036,23 @@
       "score": [
         "https://imslp.org/wiki/6_Lieder,_Op.18_(Kinkel,_Johanna)"
       ],
-      "text": [
+      "lyrics": [
         "https://www.lieder.net/lieder/get_text.html?TextId=105821"
       ]
     },
     {
-      "id": 54,
+      "id": 55,
       "label": [
         "Totengräbers Heimweh D. 842"
       ],
       "duration": [
         "6"
+      ],
+      "composer": [
+        "Franz Schubert"
+      ],
+      "poet": [
+        "Jacob Nicolaus Craigher de Jachelutta"
       ],
       "keyword": [
         "death",
@@ -1130,53 +2063,74 @@
       "score": [
         "https://imslp.org/wiki/Totengr%C3%A4bers_Heimweh,_D.842_(Schubert,_Franz)"
       ],
-      "text": [
+      "lyrics": [
         "https://oxfordsong.org/song/totengr%C3%A4bers-heimweh"
       ]
     },
     {
-      "id": 55,
+      "id": 56,
       "label": [
         "Unbewegte laue Luft Op. 57 n.8"
       ],
       "duration": [
         "4"
       ],
+      "composer": [
+        "Johannes Brahms"
+      ],
+      "poet": [
+        "Georg Friedrich Daumer"
+      ],
       "keyword": [
-        ""
+        "love",
+        "sky",
+        "serenade"
       ],
       "score": [
         "https://imslp.org/wiki/8_Lieder_and_Songs%2C_Op.57_(Brahms%2C_Johannes)"
       ],
-      "text": [
+      "lyrics": [
         "https://www.lieder.net/lieder/get_text.html?TextId=4257"
       ]
     },
     {
-      "id": 56,
+      "id": 57,
       "label": [
         "Walpurgisnacht Op. 2"
       ],
       "duration": [
         ""
       ],
+      "composer": [
+        "Carl Loewe"
+      ],
+      "poet": [
+        "Wilhelm Häring"
+      ],
       "keyword": [
-        "witch"
+        "witch",
+        "mother"
       ],
       "score": [
         "https://imslp.org/wiki/3_Balladen%2C_Op.2_(Loewe%2C_Carl)"
       ],
-      "text": [
-        "https://www.lieder.net/lieder/get_text.html?TextId=108871"
+      "lyrics": [
+        "https://www.lieder.net/lieder/get_text.html?TextId=100"
       ]
     },
     {
-      "id": 57,
+      "id": 58,
       "label": [
         "Walpurgisnacht Op. 75"
       ],
       "duration": [
         "2"
+      ],
+      "composer": [
+        "Johannes Brahms"
+      ],
+      "poet": [
+        "Wilhelm Häring"
       ],
       "keyword": [
         "witch",
@@ -1185,36 +2139,50 @@
       "score": [
         "https://imslp.org/wiki/4_Ballades_and_Romances,_Op.75_(Brahms,_Johannes)"
       ],
-      "text": [
+      "lyrics": [
         "https://www.lieder.net/lieder/get_text.html?TextId=108870"
       ]
     },
     {
-      "id": 58,
+      "id": 59,
       "label": [
         "Wehmut Op. 39 no. 9"
       ],
       "duration": [
         "2"
       ],
+      "composer": [
+        "Robert Schumann"
+      ],
+      "poet": [
+        "Joseph von Eichendorff"
+      ],
       "keyword": [
         "singing",
-        "sadness"
+        "sadness",
+        "songbird",
+        "animal"
       ],
       "score": [
         "https://imslp.org/wiki/Liederkreis,_Op.39_(Schumann,_Robert)"
       ],
-      "text": [
-        "https://www.lieder.net/lieder/get_text.html?TextId=5321"
+      "lyrics": [
+        "https://oxfordsong.org/song/wehmut-2"
       ]
     },
     {
-      "id": 59,
+      "id": 60,
       "label": [
         "Wie rafft ich mich auf Op. 32 n.1"
       ],
       "duration": [
         "5"
+      ],
+      "composer": [
+        "Johannes Brahms"
+      ],
+      "poet": [
+        "August von Platen"
       ],
       "keyword": [
         "wandering",
@@ -1226,17 +2194,23 @@
       "score": [
         "https://s9.imslp.org/files/imglnks/usimg/d/de/IMSLP83202-PMLP21745-Brahms_Lieder_Hohe_Stimme_Band_3_Op_32_No_1_3-4_6-8_Peters_10277_filter.pdf"
       ],
-      "text": [
-        "https://www.lieder.net/lieder/get_text.html?TextId=12824"
+      "lyrics": [
+        "https://oxfordsong.org/song/wie-rafft-ich-mich-auf-in-der-nacht"
       ]
     },
     {
-      "id": 60,
+      "id": 61,
       "label": [
         "Wie viele Zeit verlor Ich IHW 15 n. 37"
       ],
       "duration": [
         "2"
+      ],
+      "composer": [
+        "Hugo Wolf"
+      ],
+      "poet": [
+        "Paul Heyse"
       ],
       "keyword": [
         "disappointment"
@@ -1244,46 +2218,59 @@
       "score": [
         "https://imslp.org/wiki/Italienisches_Liederbuch_(Wolf,_Hugo)"
       ],
-      "text": [
+      "lyrics": [
         "https://www.lieder.net/lieder/get_text.html?TextId=20726"
       ]
     },
     {
-      "id": 61,
+      "id": 62,
       "label": [
         "Wir wandelten Op.96 n. 2"
       ],
       "duration": [
         "3"
       ],
+      "composer": [
+        "Johannes Brahms"
+      ],
+      "poet": [
+        "Georg Friedrich Daumer"
+      ],
       "keyword": [
-        ""
+        "walking"
       ],
       "score": [
         "https://imslp.org/wiki/4_Lieder,_Op.96_(Brahms,_Johannes)"
       ],
-      "text": [
-        "https://www.lieder.net/lieder/get_text.html?TextId=4295"
+      "lyrics": [
+        "https://oxfordsong.org/song/wir-wandelten-wir-zwei-zusammen"
       ]
     },
     {
-      "id": 62,
+      "id": 63,
       "label": [
         "Zwielicht Op. 39 n.10"
       ],
       "duration": [
         "3"
       ],
+      "composer": [
+        "Robert Schumann"
+      ],
+      "poet": [
+        "Joseph von Eichendorff"
+      ],
       "keyword": [
         "hunting",
         "night",
         "forest",
-        "horror"
+        "horror",
+        "wandering"
       ],
       "score": [
         "https://imslp.org/wiki/Liederkreis,_Op.39_(Schumann,_Robert)"
       ],
-      "text": [
+      "lyrics": [
         "https://www.lieder.net/lieder/get_text.html?TextId=5280"
       ]
     }
