@@ -104,7 +104,7 @@ def generate_networkx_graph(agg_dict,output_filename,base_url="https://nicholasc
                 """
             <body>
             <h3> <a href='""" 
-                + base_url + """/scenes/""" + scene["label"][0].replace(" ","_")+".md"
+                + base_url + """/scenes/""" + scene["label"][0].replace(" ","_")
                 + """'>"""
                 + scene["title"][0]
                 + """</a></h3>
